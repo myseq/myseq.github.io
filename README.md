@@ -1,4 +1,10 @@
 # myseq.github.io
-main site for myseq
+MySeq main site
 
-The source code for the main site.
+Here's the the place where I maintain all the source codes for the myseq's main site.
+
+More contents will be added from time to time. 
+
+
+--
+zd
