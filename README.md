@@ -1,5 +1,5 @@
 # myseq.github.io
-MySeq main site
+MySeq main site at GiHub.
 
 Here's the the place where I maintain all the source codes for the myseq's main site.
 
