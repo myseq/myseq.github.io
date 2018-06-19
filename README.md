@@ -5,6 +5,11 @@ Here's the the place where I maintain all the source codes for the myseq's main 
 
 More ABC contents [apps/blog/code] and ppts will be added here, from time to time. 
 
+ - [ ] Screen width (integer)
+ - [x] Service worker support
+ - [x] Fetch support
+ - [ ] CSS flexbox support
+ - [ ] Custom elements
 
 -- 
 zd
