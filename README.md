@@ -1,5 +1,5 @@
 # myseq.github.io
-MySeq main site at GiHub.
+This site is fully edited by VI _manually_.
 
 Here's the the place where I maintain all the source codes for the myseq's main site.
 
