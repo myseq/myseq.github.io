@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/yenjet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://myseq.github.io
+  * I am yenjet (https://keybase.io/yenjet) on keybase.
+  * I have a public key ASAwFGL237m-Gg5Pe9CZU6efiUEyjcMU_UbZcdqhC1z4Swo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120301462f6dfb9be1a0e4f7bd09953a79f8941328dc314fd46d971daa10b5cf84b0a",
+      "host": "keybase.io",
+      "kid": "0120301462f6dfb9be1a0e4f7bd09953a79f8941328dc314fd46d971daa10b5cf84b0a",
+      "uid": "e157391ad2e0728430b374a84e4bb719",
+      "username": "yenjet"
+    },
+    "merkle_root": {
+      "ctime": 1585820607,
+      "hash": "61188e35958a623e63b4c2611d0f03281ac99e6e1dd8a022dfd7752e84b5f9c8533b398929bfcf623ed7ebbd013cad1c6281eed9703ce8262e6cec31377192fa",
+      "hash_meta": "5fdc500acf4d1f267c3776e44c14fcafedb7601d5c654d7e67d4582cc93a3b43",
+      "seqno": 15720485
+    },
+    "service": {
+      "entropy": "Kadk/3/Zl2Bqmt9NRza3SoY9",
+      "hostname": "myseq.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585820697,
+  "expire_in": 504576000,
+  "prev": "f396977200ccb0795a8d5c05e7207699f262349057b5b3a90d0fdb1730478ffb",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMBRi9t+5vhoOT3vQmVOnn4lBMo3DFP1G2XHaoQtc+EsKp3BheWxvYWTESpcCCcQg85aXcgDMsHlajVwF5yB2mfJiNJBXtbOpDQ/bFzBHj/vEIIUpW4u+wVpBlFt2YzNwmovpE9FGgMZLhNjkQ4salVtEAgHCo3NpZ8RAtNXIzHD3j0l8fS3tra/Sb8xb6tQk6Loz0RGx67BiaeGTwqs/G25bcLz4KmVXQY4gd8aOh2by4RDqPcSywmyeC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMPxRorhylJVMPJoxwIMgR0soEeW8GpEhoT6Zq/CHOPJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yenjet
+
+==================================================================
+
