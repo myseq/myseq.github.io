@@ -1,10 +1,8 @@
 # myseq.github.io
-This site is fully edited by VI _manually_.
 
-Here's the the place where I maintain all the source codes for the myseq's main site.
+Here's where I maintain MySeq GitHub Pages.
 
-More ABC contents [apps/blog/code] and ppts will be added here, from time to time. 
-(Look at issues section to see the progress)
+P/s: This site is fully edited by VI **_manually_**.
 
 -- 
 zd
