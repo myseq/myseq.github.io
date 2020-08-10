@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>MySeq</title>
+  <title>MySeq Pages</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
@@ -25,7 +25,7 @@
    <div id="Main_Right">
      <h1>MySeq</h1>
      <p style="font-size:72%;">This site is fully edited using VI.</p>
-     <p>∞ | <a href="#a">About</a> | <a href="#b">Links</a> | <a href="#/">Others</a> | ∞</p>
+     <p>∞ | <a href="#a">Apps</a> | <a href="#b">Blogs</a> | <a href="#/">Codes</a> | ∞</p>
     </div>
 </div>
 
@@ -43,13 +43,13 @@ var app = angular.module("myApp", ["ngRoute"]);
 app.config(function($routeProvider) {
     $routeProvider
     .when("/a", {
-	    template : "<h2>About ZD</h2><p>Interested in learning many things:</p><ul style='69%'><li>Network security<li>Coding (Python/Ruby)</li><li>Clouds (Google/Azure/AWS)<li>Kubernetes and docker/container<li>IoT (ESP8266 and Raspberry Pi)<li>etc.</li>"
+	    template : "<h2>Apps</h2><p>Some applications that I developed in the past.</p>"
     })
     .when("/b", {
-        template : "<h2>Links</h2><p>some links here.</p>"
+        template : "<h2>Blogs</h2><p>Refer to my Gihub profiles.</p>"
     })
     .otherwise({
-        template : "<h2>Others</h2><p>Not yet available.</p>"
+        template : "<h2>Codes</h2><p>All the codes are shared at my Gihub repositories</p>"
     });
 });
 </script>
