@@ -25,7 +25,7 @@
    <div id="Main_Right">
      <h1>MySeq</h1>
      <p style="font-size:72%;">This site is fully edited using VI.</p>
-     <p>∞ | <a href="#a">Apps</a> | <a href="#b">Blogs</a> | <a href="#/">Codes</a> | ∞</p>
+     <p>∞ | <a href="#a">Apps</a> | <a href="#b">Blogs</a> | <a href="#g">Online Games</a> | <a href="#/">Codes</a> | ∞</p>
     </div>
 </div>
 
@@ -47,6 +47,9 @@ app.config(function($routeProvider) {
     })
     .when("/b", {
         template : "<h2>Blogs</h2><p>Refer to my Github profiles.</p>"
+    })
+    .when("/g", {
+        template : "<h2>Online Games</h2><p>PacMan</p><p>LoadRunner</p>"
     })
     .otherwise({
         template : "<h2>Codes</h2><p>All the codes are shared at MySeq Github repositories.</p>"
