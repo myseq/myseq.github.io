@@ -34,6 +34,10 @@ Theme: Blowfish
 Theme: Terminal
 {{< /timelineItem >}}
 
+{{< timelineItem icon="github" header="2015-06" badge="myseq.github.io" subheader="Jekyll" >}}
+Theme: Jekyll-now
+{{< /timelineItem >}}
+
 {{< timelineItem icon="blogger" header="2004-09" badge="myseq.blogspot.com" subheader="Blogger" >}}
 Theme: custom
 {{< /timelineItem >}}
