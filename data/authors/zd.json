@@ -1,0 +1,9 @@
+{
+    "name": "zd",
+    "image" : "/img/zd_xx.png",
+    "bio": "cli-geek",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/zd" },
+        { "github": "https://github.com/myseq" }
+    ]
+}

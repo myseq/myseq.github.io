@@ -1,0 +1,79 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "MySeq"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  #dateFormat = "2 January 2006"
+  #dateFormat = "Jan 2, 2006"
+  dateFormat = "2006-01-02"
+  #logo = "img/blowfish_logo_transparent.png"
+  logo = "/img/phoenix_512_1.png"
+  # secondaryLogo = "PATH"
+  # secondaryLogo = "img/blowfish_logo_transparent.png" # toggle appearance
+  #description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Simplicity is the Ultimate Sophistication."
+  # copyright = "Copy, _right?_ :thinking_face:"
+  #copyright = "Copyleft, _right?_ :thinking_face:"
+  copyright = "© Copyleft :t-rex:"
+
+[author]
+  #name = "Blowfish"
+  name = "zd"
+  #image = "img/blowfish_logo.png"
+  image = "/img/zd_xx.png"
+  #image = "/img/phoenix_512.png"
+  #headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  headline = "*Simplicity is the Ultimate Sophistication*"
+  #bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  bio = "*cli-geek, strategist*"
+  #bio = "*Cybersecurity strategist and tech enthusiast with diverse hobbies*"
+  links = [
+#     { email = "mailto:hello@your_domain.com" },
+    { link = "https://myseq.github.io/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+     { blogger = "https://myseq.blogspot.com/" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/myseq" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { keybase = "https://keybase.io/username" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+#     { twitter = "https://twitter.com/username" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+  ]
+
+  

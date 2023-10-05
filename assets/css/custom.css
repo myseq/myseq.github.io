@@ -1,0 +1,10 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/FiraCode-Regular.woff');
+}
+
+html {
+    font-family: font;
+    font-size: 14pt;
+}
+
