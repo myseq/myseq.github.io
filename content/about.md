@@ -14,12 +14,13 @@ url: /about/
 ## About
 <!-- 🐛🐜🐞🐝  t-rex :  🦖 --> 
 <!-- "simplifycybersecurity", "myseq", "🐛", "🐜", "🐞", "🐝" ]  -->
-`MySeq` is a personal website that sharing some of my notes on <mark><b>information security and Cybersecurity</b></mark> with traditional programming techniques, mostly tutorials and articles, and a range of topics including Linux :penguin: , open source, Python :bug:, Kubernetes, virtualization and software development. 
+<b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> is a personal website that sharing my own thought on <i><b><mark style="color:#8080FF;background:#303030">practicing essential security and simplify Cybersecurity</mark></b></i>. 
+Nonetheless, I also like to share some programming techniques, mostly tutorials and articles, and a range of topics including Linux :penguin:, open source, Python :bug:, Kubernetes, virtualization and software development. 
 
 This site is powered by [Hugo](https://gohugo.io), a static site generator, with [Blowfish](https://github.com/nunocoracao/blowfish) theme. It is hosting at [GitHub Pages](https://myseq.github.io/).
-Before this, `MySeq` was hosting in Blogger.com at [https://myseq.blogspot.com/](https://myseq.blogspot.com). 
+Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> was hosting in Blogger.com at [https://myseq.blogspot.com/](https://myseq.blogspot.com). 
 
-> All the pages/posts are edited with `vi` editor and tested with [firefox](/firefox/) browser. 😊 
+> All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
 
 ## History 
 
