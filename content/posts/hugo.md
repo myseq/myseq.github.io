@@ -146,4 +146,9 @@ I decided to upgrade the Hugo with Package Managers (snap) in order to stay with
     * [Quick start](https://gohugo.io/getting-started/quick-start/)
     * [Host on GitHub Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
+## 2023.10.05 - Update 
+
+ - Check if "Read and write permissions" are enabled in Settings -> Actions -> General -> Workflow permissions:
+   - Make sure it is "Read and write permission"
+   - Check the option "Allow GitHub Actions to create and approve pull requests"
 
