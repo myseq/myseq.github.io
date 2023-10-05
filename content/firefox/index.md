@@ -15,7 +15,7 @@ url: /firefox/
 
 > ***Fire starts here ...***
 >
-> *Soraya Osorio — Furniture designer, Firefox fan (2021)*
+> <i><b><mark style="color:#8080FF;background:#303030">Soraya Osorio — Furniture designer, Firefox fan (2021)</mark></b></i>
 
 ## about:config
 
