@@ -21,7 +21,7 @@ Here is how I start a Python project for myself.
 ~ $ cd webping_project
 ~/webping_project $ 
 
-~/webping_project $ python3.11 -v venv .venv
+~/webping_project $ python3.11 -m venv .venv
 ~/webping_project $ source .venv/bin/activate
 ~/webping_project $ 
 
