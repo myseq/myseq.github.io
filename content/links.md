@@ -18,10 +18,6 @@ url: /links/
  - [PacMan](https://www.masswerk.at/JavaPac/JS-DoodlePacMan.html) :ghost:
  - [LoadRunner](https://loderunnerwebgame.com/game/) :runner:
 
-## Links 
- - [MySeq@Blogger](https://myseq.blogspot.com/)
- - [MySeq@GitHub](https://github.com/myseq/)
-
 ## Learning
  - [w3schools.com](https://www.w3schools.com/)
  - [geeksforgeeks.org](https://www.geeksforgeeks.org/)
@@ -42,4 +38,5 @@ url: /links/
  - [Hugo Markdown](https://www.markdownguide.org/tools/hugo/) Support
  - [Fuck Yeah](http://fuckyeahmarkdown.com/) Markdown
  - SourceForge [markdown syntax](https://sourceforge.net/nf/markdown_syntax)
+
 

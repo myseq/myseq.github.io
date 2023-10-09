@@ -86,6 +86,7 @@ Simply follow the instruction at Hugo's [Diagram](https://gohugo.io/content-mana
 
 ## Links
 
+  - Mermaid [Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
   - [About Mermaid](https://mermaid.js.org/intro/)
   - Mermaid [Tutorial](https://mermaid.js.org/config/Tutorials.html)
   - Mermaid [Theme Configuration](https://mermaid.js.org/config/theming.html)

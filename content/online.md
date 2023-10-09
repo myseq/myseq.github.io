@@ -9,6 +9,11 @@ slug: /online
 url: /online/
 ---
 
+## Base64
+
+ - [Base64 Decoder](https://base64-decode.online/)
+ - [Base64 Encoder](https://base64-encode.online/)
+
 ## Generative AI
 
  - Google [Bard](https://bard.google.com/chat)
