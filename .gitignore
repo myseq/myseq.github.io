@@ -1,5 +1,5 @@
 # Ignore folders 
-private/
-/public
-/resources
-
+.hugo_build.lock
+public
+private
+resources

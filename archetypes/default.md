@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tags: [ "tags" ]
-categories: [ "Categories"  ]
-summary: "short description."
+tags: [ "101" ]
+categories: [ "Posts"  ]
+summary: "short desc."
 draft: true
 ---
 {{< lead >}}
