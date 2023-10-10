@@ -10,6 +10,9 @@ Toc: false
 slug: /about
 url: /about/
 ---
+{{< lead >}}
+> ***All contents, blog posts, and opinions are on my own.***
+{{< /lead >}}
 
 ## About
 <!-- 🐛🐜🐞🐝  t-rex :  🦖 --> 

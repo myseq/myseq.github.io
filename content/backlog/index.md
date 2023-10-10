@@ -36,13 +36,18 @@ draft: true
  - https://www.shellhacks.com/check-windows-license-type-volume-oem-retail/
  - https://www.shellhacks.com/ipv6-ping-how-to-ping-an-ipv6-address-in-windows/
 
+### Docker Vs Podman
+
+ - https://www.youtube.com/watch?v=Gft9e1o3Hgg
+ - https://www.youtube.com/watch?v=0jhdCcAc8nM
+
 ## Draft
 
  [x] ~~My Firefox Anniversary~~
 
- [ ] Docker 101
+ [x] ~~Docker 101~~
 
- [ ] ANSI Escape Code 
+ [x] ~~ANSI Escape Code~~ 
 
 ![](./feature_workspace.jpg)
 

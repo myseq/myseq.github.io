@@ -389,4 +389,6 @@ TLSv1.3 (server order)
    - [testssl.sh](https://github.com/drwetter/testssl.sh)
    - [Docker Alternative with Podman, Cockpit, and Nginx Proxy Manager](https://www.youtube.com/watch?v=-hJosY_M0I4)
 
+![podman.io](feature_seal.png){ width=50%}
+
 
