@@ -67,8 +67,8 @@ smartTOC = true
   showDateUpdated = false
   showAuthor = true
   #showHero = true
-  showHero = false
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackgrouthumbAndBackgroundnd
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -115,8 +115,8 @@ smartTOC = true
 #  constrainItemsWidth = false
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -145,8 +145,8 @@ smartTOC = true
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -165,8 +165,8 @@ smartTOC = true
 #  cardViewScreenWidth = false
   
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -175,7 +175,7 @@ smartTOC = true
   cardView = false
   cardViewScreenWidth = false
 
-#[firebase]
+[firebase]
 #  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
 #  authDomain = "blowfish-21fff.firebaseapp.com"
 #  projectId = "blowfish-21fff"
@@ -189,7 +189,7 @@ smartTOC = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = "nunocoracao"
+  # identifier = "myseq"
   # globalWidget = true
   # globalWidgetMessage = ""
   # globalWidgetColor = "#FFDD00"
