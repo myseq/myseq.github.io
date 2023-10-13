@@ -55,7 +55,7 @@
   weight = 50
 
 [[main]]
-  name = "KEV@Taipy"
+  name = "[ KEV@TaipyCloud ]"
   parent = "Content"
   url = "https://cisakev.taipy.cloud/"
   weight = 60
