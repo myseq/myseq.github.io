@@ -50,6 +50,17 @@
   weight = 40
 
 [[main]]
+  name = " - - - - "
+  parent = "Content"
+  weight = 50
+
+[[main]]
+  name = "KEV@Taipy"
+  parent = "Content"
+  url = "https://cisakev.taipy.cloud/"
+  weight = 60
+
+[[main]]
   name = "[online]"
   pageRef = "online"
   weight = 40
