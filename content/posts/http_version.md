@@ -76,7 +76,7 @@ $ echo www.youtube.com | ./httpx -http2 -title -pipeline -vhost
 
 ## Tools at MySeq: httpver_scan 
 
-I have created cli tool, to perform quick scan on HTTP version. It is called [httpver_scan](https://githib.com/myseq/httpver_scan).
+I have created cli tool, to perform quick scan on HTTP version. It is called [httpver_scan](https://github.com/myseq/httpver_scan).
 
 Below is the sample output where [301] redirection *is not followed*:
 
