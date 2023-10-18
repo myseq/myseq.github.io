@@ -49,6 +49,11 @@ url: /online/
  - [Graphemica](https://graphemica.com/)
  - [Fuck Yeah](http://fuckyeahmarkdown.com/) Markdown
 
+### Performance
+ 1. Use the online version [PageSpeed Insights](https://pagespeed.web.dev/).
+    - Discover tools and information to build high-performance websites with [Google Speed](https://developers.google.com/speed).
+ 2. Use browser's built-in `lighthouse` to test page performance.
+
 <!--
 ## Others
 

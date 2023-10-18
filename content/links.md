@@ -22,11 +22,6 @@ url: /links/
  - [w3schools.com](https://www.w3schools.com/)
  - [geeksforgeeks.org](https://www.geeksforgeeks.org/)
 
-## Performance
- 1. Use browser's built-in `lighthouse` to test page performance.
- 2. Use the online version [PageSpeed Insights](https://pagespeed.web.dev/)
-    - [Learn about Web Performance](https://developers.google.com/speed)
-
 ## Personal
  
  1. YouTube [Subscription](https://www.youtube.com/feed/subscriptions).
