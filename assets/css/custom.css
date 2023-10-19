@@ -16,7 +16,8 @@ a:hover { text-decoration: underline; font-weight:bold; }
 /* For tagcloud */
 
 .tagcloud03 {
-  margin-bottom: 50px;
+    width: 880px;
+    margin: 10px;
    text-align: center;
 }
  .tagcloud03 ul.cloud li {
@@ -49,7 +50,8 @@ a:hover { text-decoration: underline; font-weight:bold; }
   max-width: 360px;
   height: 35px;
   line-height: 35px;
-  padding: 0 2.5em 0 1em;
+  /* padding: 0 2.5em 0 1em; */
+  padding: 50px;
   /*background-color: #fff;*/
   border: 1px solid #aaa;
   border-radius: 3px;

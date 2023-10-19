@@ -19,7 +19,7 @@
             {{ $weight := div (sub (math.Log .Count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
             {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weight) ) }}
             <li>
-                <a href="/categories/{{ .Page.Title | urlize}}/" style="font-size:{{$currentFontSize}}{{$fontUnit}}">{{ .Page.Title }} ({{ .Count }})</a> 
+                <a href="/categories/{{ .Page.Title | urlize}}/" style="font-size:{{$currentFontSize}}{{$fontUnit}}">{{ .Page.Title }}({{ .Count }})</a> 
             </li>
         {{ end }}
     </ul>
