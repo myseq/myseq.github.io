@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+{{ if not (eq (len $.Site.Taxonomies.categories) 0) }}
+
+  {{ $fontUnit := "rem" }}
+  {{ $largestFontSize := 2.4 }}
+  {{ $smallestFontSize := 0.6 }}
+  {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
+  {{ $max := add (len (index $.Site.Taxonomies.categories.ByCount 0).Pages) 1 }}
+  {{ $min := len (index $.Site.Taxonomies.categories.ByCount.Reverse 0).Pages }}
+  {{ $spread := sub $max $min }}
+  {{ $fontStep := div $fontSpread $spread }}
+
+
+<div class="tagcloud03">
+    <ul class="cloud">
+        {{ range $.Site.Taxonomies.categories.Alphabetical }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub .Count $min) $fontStep) ) }}
+            {{ $weight := div (sub (math.Log .Count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weight) ) }}
+            <li>
+                <a href="/categories/{{ .Page.Title | urlize}}/" style="font-size:{{$currentFontSize}}{{$fontUnit}}">{{ .Page.Title }} ({{ .Count }})</a> 
+            </li>
+        {{ end }}
+    </ul>
+</div>
+
+<div class="tagcloud03">
+    <ul class="cloud">
+        {{ range $.Site.Taxonomies.tags.Alphabetical }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub .Count $min) $fontStep) ) }}
+            {{ $weight := div (sub (math.Log .Count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weight) ) }}
+            <li>
+                <a href="/tags/{{ .Page.Title | urlize}}/" style="font-size:{{$currentFontSize}}{{$fontUnit}}">{{ .Page.Title }}({{ .Count }})</a>
+            </li>
+        {{ end }}
+    </ul>
+</div>
+
+
+{{ end }}
+
+ <div class="container">
+     <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+             <a name="top"></a>
+             <center>{{ .Content }}</center>
+         </div>
+     </div>
+ </div>
+
+{{ end }}
+
