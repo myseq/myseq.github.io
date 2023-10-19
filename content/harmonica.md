@@ -88,6 +88,10 @@ This concept is similar to that of the accordion
 
 ## Link
 
- - [Exploring the 3 Types of Harmonica](https://www.harmonica.com/exploring-the-3-types-of-harmonica/)
+ - [Exploring the 3 Types of Harmonica](https://www.harmonica.com/exploring-the-3-types-of-harmonica/).
+ - Samples:
+   - 十孔口琴： C調 Proceeds (圓孔)
+   - 十孔口琴： C調 Boogieman (paddy 調音)
+   - 演奏用琴： A調 Devilblues 藍調口琴 
 
  
