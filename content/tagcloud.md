@@ -19,5 +19,4 @@ cascade:
 -->
 
 **Views:** [ [Tags](/tags/) ]  [ [Categories](/categories/) ]  [ [TagCloud](/tagcloud/) ]
-<br><br>
 
