@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+{{ if isset .Params "image" }}
+  <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/{{ .Params.image }}')" >
+{{ else }}
+  <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}{{ .Site.Params.defaultHeaderImage }}')" >
+{{ end }}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="page-heading">
+                    <h1>{{ .Title }}</h1>
+                    <hr class="small">
+                    <span class="subheading">{{ .Description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            {{ .Content }}
+            {{ range (.Site.RegularPages.GroupByDate "January 2006")  }}
+                {{ if (where .Pages "Section" "posts") }}
+                {{ $postCount := len ( where .Pages "Section" "posts")  }}
+                    <br>
+                    <details>
+                        <summary> <font size=5>{{ .Key }}</font>  📆  ({{ $postCount }})</summary>
+                    <ul class="list-group striped-list">
+                        {{ range ((where .Pages "Section" "posts")) }}
+                        <font size=3><i><li> 🦖 {{ .PublishDate.Format "Jan 02" }}:
+                                <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
+                                </li></i></font>
+                        {{ end }}
+                    </ul>
+                    </details>
+                {{ end }}
+             {{ end }}
+
+         </div>
+    </div>
+</div>
+
+{{ end }}
+
+

@@ -1,0 +1,19 @@
+---
+title: "Archives"
+layout: "archivebydate"
+draft: true
+slug: /archives
+url: /archives/
+---
+{{< lead >}}
+Different view of archives.
+{{< /lead >}}
+
+<!--
+- https://digitaldrummerj.me/hugo-view-post-grouped-by-month/
+- $HugoHome/layouts/page/archivebydate.html
+-->
+
+> **Other Views:** [ [Tags](/tags/) ]  [ [Categories](/categories/) ]  [ [TagCloud](/tagcloud/) ]
+<br><br>
+
