@@ -1,5 +1,5 @@
 ---
-title: "Archives"
+title: "📆 Archives 📅"
 layout: "archivebydate"
 draft: false
 slug: /archives
@@ -14,6 +14,6 @@ Different view of archives.
 - $HugoHome/layouts/page/archivebydate.html
 -->
 
-> **Other Views:** [ [Tags](/tags/) ]  [ [Categories](/categories/) ]  [ [TagCloud](/tagcloud/) ]
+> **Views:** [ [Tags](/tags/) ]  [ [Categories](/categories/) ]  [ [TagCloud](/tagcloud/) ]
 <br><br>
 

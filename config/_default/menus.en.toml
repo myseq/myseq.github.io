@@ -26,33 +26,28 @@
   weight = 30
 
 [[main]]
-  name = "~/.plan"
+  name = "Archives"
   parent = "Content"
-  pageRef = "plan"
-  weight = 31
+  pageRef = "archives"
+  weight = 41
 
 [[main]]
-  name = "~/.projects"
+  name = "TagsCloud"
   parent = "Content"
-  pageRef = "projects"
-  weight = 32
-
-[[main]]
-  name = " - - - "
-  parent = "Content"
-  weight = 37
+  pageRef = "tagcloud"
+  weight = 42
 
 [[main]]
   name = "Voice"
   parent = "Content"
   pageRef = "voice"
-  weight = 40
+  weight = 43
 
 [[main]]
   name = "TEDTalks"
   parent = "Content"
   pageRef = "tedtalk"
-  weight = 41
+  weight = 44
 
 [[main]]
   name = "Links"
@@ -66,10 +61,22 @@
   weight = 70
 
 [[main]]
+  name = "~/.plan"
+  parent = "Content"
+  pageRef = "plan"
+  weight = 91
+
+[[main]]
+  name = "~/.projects"
+  parent = "Content"
+  pageRef = "projects"
+  weight = 92
+
+[[main]]
   name = "[ KEV@TaipyCloud ]"
   parent = "Content"
   url = "https://cisakev.taipy.cloud/"
-  weight = 90
+  weight = 93
 
 [[main]]
   name = "[online]"
@@ -95,6 +102,11 @@
    name = "Categories"
    pageRef = "categories"
    weight = 20
+
+[[footer]]
+   name = "TagCloud"
+   pageRef = "tagcloud"
+   weight = 30
 
 
 #######################################

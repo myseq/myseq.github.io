@@ -1,5 +1,5 @@
 ---
-title: "Tags Cloud"
+title: "🏷️ TagCloud ☁️"
 description: "Tags Cloud"
 layout: "archivebycloud"
 slug: /tagcloud
