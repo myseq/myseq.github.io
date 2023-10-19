@@ -29,36 +29,47 @@
   name = "~/.plan"
   parent = "Content"
   pageRef = "plan"
-  weight = 10
+  weight = 31
 
 [[main]]
   name = "~/.projects"
   parent = "Content"
   pageRef = "projects"
-  weight = 20
+  weight = 32
+
+[[main]]
+  name = " - - - "
+  parent = "Content"
+  weight = 37
 
 [[main]]
   name = "Voice"
   parent = "Content"
   pageRef = "voice"
-  weight = 30
+  weight = 40
+
+[[main]]
+  name = "TEDTalks"
+  parent = "Content"
+  pageRef = "tedtalk"
+  weight = 41
 
 [[main]]
   name = "Links"
   parent = "Content"
   pageRef = "links"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = " - - - - "
   parent = "Content"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "[ KEV@TaipyCloud ]"
   parent = "Content"
   url = "https://cisakev.taipy.cloud/"
-  weight = 60
+  weight = 90
 
 [[main]]
   name = "[online]"
