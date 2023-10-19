@@ -1,7 +1,7 @@
 ---
 title: "Archives"
 layout: "archivebydate"
-draft: true
+draft: false
 slug: /archives
 url: /archives/
 ---
