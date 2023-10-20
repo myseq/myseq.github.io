@@ -34,9 +34,11 @@ url: /online/
 
 ### Generative AI
 
- - Google [Bard](https://bard.google.com/chat)
- - OpenAI [chatGPT](https://chat.openai.com/)
+ - [Bard](https://bard.google.com/chat) by Google.
+ - [chatGPT](https://chat.openai.com/) by OpenAI.
    - chatGPT [Playground](https://platform.openai.com/playground?ref=FutureTools.io)
+ - [Claude.AI](https://claude.ai/chats) by Anthropic.
+ - [POE](https://poe.com/chats) by Quora.
 
 ### Images
  
