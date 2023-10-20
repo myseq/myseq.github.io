@@ -1,9 +1,9 @@
 ---
-title: "📆 Archives 📅"
+title: "📆 Blog Archive 📅"
 layout: "archivebydate"
 draft: false
-slug: /archives
-url: /archives/
+slug: /blogarchive
+url: /blogarchive/
 ---
 {{< lead >}}
 Different view of archives.

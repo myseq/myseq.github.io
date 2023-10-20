@@ -26,9 +26,9 @@
   weight = 30
 
 [[main]]
-  name = "Archives"
+  name = "Blog_Archive"
   parent = "Content"
-  pageRef = "archives"
+  pageRef = "blog_archive"
   weight = 41
 
 [[main]]
