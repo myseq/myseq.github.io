@@ -1,10 +1,10 @@
 ---
 title: "The Power of Grit"
-date: 2023-10-19T09:43:05+08:00
-tags: [ "grit" ]
+date: 2023-10-22T06:06:05+08:00
+tags: [ "determination", "fortitude", "grit", "perseverance", "resoluteness", "tenacity" ]
 categories: [ "TEDTalk"  ]
 summary: "Passion and Perseverance for Success in Education."
-draft: true
+draft: false
 ---
 {{< lead >}}
 The Power of Grit: Passion and Perseverance for Success in Education
@@ -12,9 +12,10 @@ The Power of Grit: Passion and Perseverance for Success in Education
 
 Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of "grit" as a predictor of success.
 
- https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance
+Here's the link to excellent TED Talk session by Angela: 
+ [The Power of Grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance).
 
-In a world that often prioritizes IQ and talent, Angela Duckworth, a former teacher turned psychologist, discovered that something else plays a crucial role in determining success: grit. In this blog post, we'll explore the transcript of Angela Duckworth's TED Talk, where she discusses her journey from teaching to researching the importance of grit in various contexts, particularly in education.
+In a world that often prioritizes IQ and talent, Angela Duckworth, a former teacher turned psychologist, discovered that something else plays a crucial role in determining success: ***grit*** (堅毅). Here, we'll explore the transcript of Angela Duckworth's TED Talk, where she discusses her journey from teaching to researching the importance of grit in various contexts, particularly in education.
 
 ## What is Grit?
 
