@@ -355,5 +355,6 @@ Here's the cmd that I generate the SSH protocol stack above:
  - [SSH Protocol Stack](https://www.chiragbhalodia.com/2022/05/ssh-and-ssh-protocol-stack.html)
  - [Trisul-scripts](https://github.com/trisulnsm/trisul-scripts)
  - HoldMyBeer: [Detecting SSH Brute Forcing with Zeek](https://holdmybeersecurity.com/2019/04/17/detecting-ssh-brute-forcing-with-zeek/)
+ - Mozilla [OpenSSH Security Guide](https://infosec.mozilla.org/guidelines/openssh): Providing a sane baseline policy recommendation for SSH configuration parameters (eg. Ciphers, MACs, and KexAlgos).
 
 

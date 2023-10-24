@@ -28,6 +28,12 @@ url: /online/
 ### Web Scan
 
  - Web scan with [URLscan](https://urlscan.io/).
+ - Security Headers by [Probely](https://securityheaders.com/).
+ - Observatory by [Mozilla](https://observatory.mozilla.org/): HTTP, TLS, SSH.
+    - [tls-observatory](https://github.com/mozilla/tls-observatory)
+    - [http-observatory](https://github.com/mozilla/http-observatory)
+    - (Deprecated) [ssh_scan](https://github.com/mozilla/ssh_scan)
+
 
 
 ## Others
@@ -43,6 +49,7 @@ url: /online/
 ### Images
  
  - Get royalty free images at [Pexels](https://www.pexels.com/).
+ - Icons and stikers customization at [FlatIcon](https://www.flaticon.com/)
  
 ### Markdown
 
