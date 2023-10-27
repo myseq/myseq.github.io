@@ -96,17 +96,22 @@
 [[footer]]
    name = "Tags"
    pageRef = "tags"
-   weight = 10
+   weight = 20
 
 [[footer]]
    name = "Categories"
    pageRef = "categories"
-   weight = 20
+   weight = 10
 
 [[footer]]
-   name = "TagCloud"
+   name = "[ TagCloud ]"
    pageRef = "tagcloud"
    weight = 30
+
+[[footer]]
+   name = "[ Series ]"
+   pageRef = "series"
+   weight = 40
 
 
 #######################################

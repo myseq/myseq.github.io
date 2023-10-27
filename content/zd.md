@@ -36,6 +36,16 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
 :cat2:
 :tiger2:
 
+<!-- 
+ myseq:
+ zd
+ xx
+ pf
+ 2600
+ bezard
+ reptonrd
+ 
+-->
 
            /\
           /  \
