@@ -24,8 +24,6 @@ Nonetheless, I also like to share some programming techniques, mostly tutorials 
 This site is powered by [Hugo](https://gohugo.io), a static site generator, with [Blowfish](https://github.com/nunocoracao/blowfish) theme. It is hosting at [GitHub Pages](https://myseq.github.io/).
 Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> was hosting in Blogger.com at [https://myseq.blogspot.com/](https://myseq.blogspot.com). 
 
-{{< github repo="myseq/myseq" >}}
-
 > All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
 
 ## History 
@@ -52,6 +50,8 @@ Theme: custom
 {{< /timeline >}}
 
 ## Links
+
+{{< github repo="myseq/myseq" >}}
 
  * `MySeq` at [GitHub](https://github.com/myseq/) 
  * [Hugo](https://gohugo.io) Static Site Generator
