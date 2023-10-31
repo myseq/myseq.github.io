@@ -40,7 +40,7 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
  myseq:
  zd
  xx
- pf
+ pfs
  2600
  bezard
  reptonrd

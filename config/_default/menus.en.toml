@@ -25,17 +25,12 @@
   pageRef = "main"
   weight = 30
 
-[[main]]
-  name = "Blog_Archive"
-  parent = "Content"
-  pageRef = "blog_archive"
-  weight = 41
+#[[main]]
+#  name = "Blog_Archive"
+#  parent = "Content"
+#  pageRef = "blog_archive"
+#  weight = 41
 
-[[main]]
-  name = "TagsCloud"
-  parent = "Content"
-  pageRef = "tagcloud"
-  weight = 42
 
 [[main]]
   name = "Voice"
@@ -94,24 +89,29 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 20
+   name = "[ Archive ]"
+   pageRef = "blog_archive"
+   weight = 10
 
 [[footer]]
    name = "Categories"
    pageRef = "categories"
-   weight = 10
+   weight = 20
+
+[[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 30
 
 [[footer]]
    name = "[ TagCloud ]"
    pageRef = "tagcloud"
-   weight = 30
+   weight = 40
 
 [[footer]]
-   name = "[ Series ]"
+   name = "Series"
    pageRef = "series"
-   weight = 40
+   weight = 50
 
 
 #######################################
