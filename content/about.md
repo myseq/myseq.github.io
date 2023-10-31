@@ -51,10 +51,12 @@ Theme: custom
 
 ## Links
 
-{{< github repo="myseq/myseq" >}}
 
- * `MySeq` at [GitHub](https://github.com/myseq/) 
- * [Hugo](https://gohugo.io) Static Site Generator
+ * `MySeq` at [GitHub](https://github.com/myseq/). 
+
+> {{< github repo="myseq/myseq" >}}
+
+ * [Hugo](https://gohugo.io) Static Site Generator.
      * [Hugo Hosts on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
      * [Configure Hugo](https://gohugo.io/getting-started/configuration/)
      * [Hugo's Security Model](https://gohugo.io/about/security-model/) 🔐
