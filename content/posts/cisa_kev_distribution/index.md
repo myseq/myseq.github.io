@@ -1,10 +1,10 @@
 ---
 title: "CISA KEV Distribution"
-date: 2023-11-01T09:58:42+08:00
+date: 2023-11-01T07:58:42+08:00
 tags: [ "chart", "cisa", "kev", "graph", "shortcodes", "vulnmgmt" ]
 categories: [ "Posts"  ]
 summary: "How can we identify the trends and patterns in CISA KEV?"
-draft: true
+draft: false
 ---
 {{< lead >}}
 What we can learn from CISA KEV after 24 months?
@@ -14,7 +14,7 @@ What we can learn from CISA KEV after 24 months?
 
 The Known Exploited Vulnerabilities (KEV) catalog, launched by CISA in Nov 2021, is a list of vulnerabilities that are actively exploited by malicious actors. 
 
-As of today, the list has grown up to `1023` vulnerabilities. This is a valuable resource for organizations to prioritize their vulnerability remediation efforts and protect themselves from cyber attacks.
+As of yesterday (Oct 31), the list has grown up to `1025` vulnerabilities. This is a valuable resource for organizations to prioritize their vulnerability remediation efforts and protect themselves from cyber attacks.
 
 Here are some key takeaways from the CISA KEV catalog:
  - Many of the vulnerabilities in the KEV catalog are old and well-known, highlighting the importance of regular patching.
@@ -43,9 +43,14 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
  2. Top 5 products (listed in CISA KEV catalog).
  3. Distribution of KEV (based on months).
 
-> *Try click on the legend to filter in the chart*
----
+{{< lead >}}
+ - Top 5 of 165 vendors : 521/1025 [ 50.83% ]
+ - Top 5 of 422 products: 219/1025 [ 21.37% ]
+{{< /lead >}}
 
+> You can click on the legend to filter in the chart.
+
+---
 
   {{< chart >}}
   type: "doughnut",
@@ -59,7 +64,7 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
     labels: ['Microsoft', 'Apple', 'Cisco', 'Adobe', 'Google', 'others'],
     datasets: [{
         label: 'count',
-        data: [271, 68, 67, 65, 50, 502],
+        data: [271, 68, 67, 65, 50, 504],
         backgroundColor: [ '#FF638477', '#FF829d77', '#FFa1b577', '#FFc1ce77', '#FFe1ee77', '#3399CC99' ],
         borderColor: [ '#FF6384', '#FF6384', '#FF6384', '#FF6384', '#FF6384', '#3399CC' ],
         borderWidth: 1,
@@ -72,7 +77,7 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
 
 |Microsoft|Apple|Cisco|Adobe|Google|others|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|271|68|67|65|50|502|
+|271|68|67|65|50|504|
 
 ---
 
@@ -89,7 +94,7 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
     labels: ['Windows', 'Multiple Products (Apple)', 'Internet Explorer', 'Flash Player', 'Chromium V8 Engine', 'others'],
     datasets: [{
         label: 'count',
-        data: [103, 31, 31, 29, 25, 804],
+        data: [103, 31, 31, 29, 25, 806],
         backgroundColor: [ '#FF638477', '#FF829d77', '#FFa1b577', '#FFc1ce77', '#FFe1ee77', '#3399CC99' ],
         borderColor: [ '#FF6384', '#FF6384', '#FF6384', '#FF6384', '#FF6384', '#3399CC' ],
         borderWidth: 1,
@@ -102,7 +107,7 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
 
 |Windows|Multiple Products (Apple)|Internet Explorer|Flash Player|Chromium V8 Engine|others|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|103|31|31|29|25|804|
+|103|31|31|29|25|806|
 
 ---
 
@@ -113,14 +118,14 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
     labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
     datasets: [ {
       type: "bar",
-      label: '2023.10.26 (1023)',
-      data: [14, 20, 120, 157, 233, 146, 58, 46, 48, 45, 115, 21],
+      label: '2023.10.31 (1025)',
+      data: [14, 20, 120, 157, 233, 146, 58, 46, 48, 45, 117, 21],
       backgroundColor: ['#36A2EB33', '#36A2EB33', '#FF638433', '#FF638433', '#FF638433', '#FF638433', '#36A2EB33', '#36A2EB33', '#36A2EB33', '#36A2EB33', '#FF638433', '#36A2EB33'],
       borderColor: ['#36A2EB', '#36A2EB', '#FF6384', '#FF6384', '#FF6384', '#FF6384', '#36A2EB', '#36A2EB', '#36A2EB', '#36A2EB', '#FF6384', '#36A2EB'],
       borderWidth: 1
   }, {
       label: 'Mean:',
-      data: [85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25, 85.25],
+      data: [85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167, 85.4167],
       borderWidth: 1,
       pointRadius: 0,
       type: "line"
@@ -130,19 +135,18 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
   options: {
     plugins: {
       legend: { display: false },
-      title: { display: true, color: 'white', font: { size: 18, weight: 'bold' }, text: 'Distribution of KEV (by_month) vs mean = 85.25' }
+      title: { display: true, color: 'white', font: { size: 18, weight: 'bold' }, text: 'Distribution of KEV (by_month) vs mean = 85.4167' }
     }
   }
 
   {{< /chart >}}
 
 
-`mean_val=85.25`
+`mean_val=85.4167`
 
 |Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|14|20|120|157|233|146|58|46|48|45|115|21|
-
+|14|20|120|157|233|146|58|46|48|45|117|21|
 
 > Conclusion: There are 5 months (Mar/Apr/May/Jun/Nov) where the distribution of KEV is higher than `mean` value. 
 >> And this means more resources should be allocated for those months (in red).
