@@ -148,7 +148,7 @@ Below, here are the 2 ways that I'm doing analysis in CISA KEV data.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |14|20|120|157|233|146|58|46|48|45|117|21|
 
-> Conclusion: There are 5 months (Mar/Apr/May/Jun/Nov) where the distribution of KEV is higher than `mean` value. 
+> Key TakeAways: There are 5 months (Mar/Apr/May/Jun/Nov) where the distribution of KEV is higher than `mean` value. 
 >> And this means more resources should be allocated for those months (in red).
 
 ### Eg.2: KEV Dashboard (cmdline)
@@ -163,7 +163,7 @@ This is a cmdline tool (written in Python) that can provide:
 
  - See more at https://myseq.blogspot.com/2022/04/kev-dashboard.html
 
-> Conclusion: The top 5 vendors/products info allow quickly analyze trends of KEV to better add intelligence-led prioritization to vulnerability management.
+> Key TakeAways: The top 5 vendors/products info allow quickly analyze trends of KEV to better add intelligence-led prioritization to vulnerability management.
 
 
 ## Links
