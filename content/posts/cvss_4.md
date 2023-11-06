@@ -1,7 +1,7 @@
 ---
 title: "Quick Review on CVSS 4.0"
 date: 2023-11-04T08:07:25+08:00
-tags: [ "cvss" ]
+tags: [ "cvss", "vulnmgmt" ]
 categories: [ "Posts"  ]
 summary: "New CVSS 4.0 vulnerability severity rating standard released."
 draft: false
