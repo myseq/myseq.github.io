@@ -2,7 +2,7 @@
 title =  "Leadership First"
 date = 2022-08-09T21:50:45+08:00
 author = "zd"
-tags = [ "leadership", "quote" ]
+tags = [ "leadership", "qotd" ]
 categories = [ "Blogger" ]
 summary = "Dont's push your most loyal people to the point ... "
 draft = false

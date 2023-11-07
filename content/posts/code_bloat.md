@@ -2,7 +2,7 @@
 title =  "Code Bloat"
 date = 2022-06-21T21:56:08+08:00
 author = "zd"
-tags = [ "code", "quote" ]
+tags = [ "code", "qotd" ]
 categories = [ "Blogger" ]
 summary = "In the golden age of programming ... "
 draft = false

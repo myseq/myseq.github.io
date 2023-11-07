@@ -35,6 +35,8 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
 `=^_^=`
 :cat2:
 :tiger2:
+🦏
+:rhino:
 
 <!-- 
  myseq:
