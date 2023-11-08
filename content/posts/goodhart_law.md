@@ -7,6 +7,6 @@ summary: "When a measure becomes a target, it ceases to be a good measure."
 draft: false
 ---
 {{< lead >}}
-When a measure becomes a target, it ceases to be a good measure.
+*When a measure becomes a target, it ceases to be a good measure.*
 {{< /lead >}}
 
