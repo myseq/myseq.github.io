@@ -3,7 +3,7 @@ title: "ZD"
 date: 2022-03-31T21:32:54+08:00
 tags: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
 categories: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
-summary: "Fire starts here ..."
+summary: "Mastering Thought: Once Learned, There's No Turning Back!"
 draft: false
 slug: /zd
 url: /zd/
@@ -15,7 +15,7 @@ url: /zd/
 
 ### 1st-Half :t-rex:
 
-> ***1H:*** Knowledge is Power. :t-rex:
+> <i><b><mark style="color:#FFBF00;background:#303030">Knowledge is Power.</mark></b></i> :t-rex:
 
 As a **[Cybersecurity strategist](/mindset/)**, I responsible for designing and implementing security solutions, managing risks, and fostering a strong security culture within the organization I work for. 
 This includes <i><b><mark style="color:#8080FF;background:#303030">security strategy development, threat management, risk assessment and management, security architecture design, and security standards and compliance.</mark></b></i>
@@ -26,9 +26,10 @@ Besides that, I've ***[always been fascinated by how I could make a program (or 
 
 ### 2nd-Half :rhino:
 
-> ***2H:*** Mastering Thought: Once Learned, There's No Turning Back! :rhino:
+> <i><b><mark style="color:#FFBF00;background:#303030">Mastering Thought and No Turning Back!</mark></b></i> :rhino:
 
 At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">reading books 📚</mark></b></i>.
+
 
 <details>
 <summary><b>About the cover photo 🦊:</b></summary>
