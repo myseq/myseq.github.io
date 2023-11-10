@@ -1,5 +1,5 @@
 ---
-title: "ZD 🦖"
+title: "ZD"
 date: 2022-03-31T21:32:54+08:00
 tags: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
 categories: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
@@ -11,11 +11,11 @@ url: /zd/
 
 ![The fire starts here](/img/proton-bkg.png)
 
-## About ZD :rhino:
+## About ZD
 
-### 1st-Half
+### 1st-Half :t-rex:
 
-> ***1H:*** Knowledge is Power.
+> ***1H:*** Knowledge is Power. :t-rex:
 
 As a **[Cybersecurity strategist](/mindset/)**, I responsible for designing and implementing security solutions, managing risks, and fostering a strong security culture within the organization I work for. 
 This includes <i><b><mark style="color:#8080FF;background:#303030">security strategy development, threat management, risk assessment and management, security architecture design, and security standards and compliance.</mark></b></i>
@@ -24,9 +24,9 @@ I'm also a **[cmdline geek](/tags/cli/)**, and spends a of my time in learning t
 
 Besides that, I've ***[always been fascinated by how I could make a program (or a piece of code) runs more efficiently](/tags/async/)*** or how I could organize the code so it is easy to change.
 
-### 2nd-Half
+### 2nd-Half :rhino:
 
-> ***2H:*** Mastering Thought: Once Learned, There's No Turning Back! 
+> ***2H:*** Mastering Thought: Once Learned, There's No Turning Back! :rhino:
 
 At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">reading books 📚</mark></b></i>.
 
@@ -41,6 +41,8 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
 
 --
 `=^_^=`
+🦊
+🦖
 :cat2:
 :tiger2:
 🦏
@@ -57,6 +59,8 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
  jimny
  
 -->
+
+### 
 
            /\
           /  \
