@@ -35,8 +35,11 @@
                         {{ range ((where .Pages "Section" "posts")) }}
                         <font size=3 style="text-indent: 30px;"><i><li> 🐚 
                           <a href="{{ .RelPermalink }}"> {{ .Title }}</a> 
-                          <font size=2 style="color: #BDBDBD;">({{ .PublishDate.Format "Jan 02" }})</font> 
-                        </li></i></font>
+                          <font size=2 style="color: #8080FF;">({{ .PublishDate.Format "Jan 02" }}) </font> 
+                              {{ if and .Draft .Site.Params.article.showDraftLabel }}
+                              <font size=3 style="color: #FFBF00;font-weight: bold">[{{ (i18n "article.draft" | emojify) }}]</font>
+                              {{ end }}
+                        </li></i></font> 
                         {{ end }}
                     </ul>
                     </details>
