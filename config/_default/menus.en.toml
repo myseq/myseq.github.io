@@ -33,12 +33,6 @@
 
 
 [[main]]
-  name = "Voice"
-  parent = "Content"
-  pageRef = "voice"
-  weight = 43
-
-[[main]]
   name = "TEDTalks"
   parent = "Content"
   pageRef = "tedtalk"
@@ -68,15 +62,21 @@
   weight = 92
 
 [[main]]
-  name = "[ KEV@TaipyCloud ]"
+  name = "~/.voice"
   parent = "Content"
-  url = "https://cisakev.taipy.cloud/"
+  pageRef = "voice"
   weight = 93
 
 [[main]]
   name = "[online]"
   pageRef = "online"
   weight = 40
+
+[[main]]
+  name = "[ KEV@TaipyCloud ]"
+  parent = "[online]"
+  url = "https://cisakev.taipy.cloud/"
+  weight = 41
 
 [[main]]
   identifier = "github"
