@@ -15,10 +15,10 @@ There are total of 18 CVE been added to CISA KEV catalog in November 2023.
 As of today, 8 CVE have overdue (within Nov), and another 10 will due in Dec 2023. 
 
 Highlights:
- - The top-5 vendors with highest number of vulnerabilities remain the same. 
- - The top-5 vulnerable products remain the same.
- - The mean value increases to 86.916 (was 85.4167)
- - The top-5 months where distrobution of KEV is higher than `mean` remain the same.
+ - The top-5 vendors with highest number of vulnerabilities remain the **same**. 
+ - The top-5 vulnerable products remain the **same**.
+ - The mean value increases to **86.916** (was 85.4167)
+ - The top-5 months where distribution of KEV is higher than `mean` remain the **same**.
 
 ## Current State
 
