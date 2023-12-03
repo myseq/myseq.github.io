@@ -3,7 +3,9 @@ title: "State of KEV After 25 months"
 date: 2023-12-01T09:07:53+08:00
 tags: [ "cisa", "kev", "vulnmgmt" ]
 categories: [ "Posts"  ]
-summary: "See what happen to CISA KEV cataglog in Nov 2023."
+series: [ "CISA_KEV" ]
+series_order: 2
+summary: "See what happen to CISA KEV cataglog by end of Nov 2023."
 draft: false
 ---
 {{< lead >}}

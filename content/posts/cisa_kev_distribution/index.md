@@ -3,6 +3,8 @@ title: "CISA KEV Distribution"
 date: 2023-11-01T07:58:42+08:00
 tags: [ "chart", "cisa", "kev", "graph", "shortcodes", "vulnmgmt" ]
 categories: [ "Posts"  ]
+series: [ "CISA_KEV" ]
+series_order: 1
 summary: "How can we identify the trends and patterns in CISA KEV?"
 draft: false
 ---
