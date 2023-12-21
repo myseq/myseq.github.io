@@ -322,5 +322,9 @@ All the 256 characters are broken down to 3 groups:
 |      |   15 |    þ   |    þ   |  0xFE | 254  | Latin Small Letter Thorn (Icelandic) |
 |      |   16 |    ß   |    ß   |  0xFF | 255  | Latin Small Letter Sharp S (German) |
 
+## Links 
+
+ - [Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/books/#code) Book (Chap 13)
+    - [Interactive Illustrations](https://www.codehiddenlanguage.com/)
 
 

@@ -10,6 +10,8 @@ draft: false
 ---
 {{< lead >}}
 There are total of 18 CVE been added to CISA KEV catalog in November 2023.
+
+*CISA Catalog of Known Exploited Vulnerabilities [ ***2023.12.01/1043*** ]*
 {{< /lead >}}
 
 ## Updates
