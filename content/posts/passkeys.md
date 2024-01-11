@@ -1,10 +1,12 @@
 ---
 title: "Passkeys 101"
-date: 2024-01-10T16:50:55+08:00
+date: 2024-01-04T17:58:55+08:00
 tags: [ "101", "passkeys", "passwordless" ]
 categories: [ "Posts"  ]
-summary: "short desc."
-draft: true
+series: [ "Passkeys" ]
+series_order: 1
+summary: "Passkeys_101"
+draft: false
 ---
 {{< lead >}}
 *TL;DR, passkeys replaces passwords.*
@@ -12,6 +14,8 @@ draft: true
 
 `Passkeys` is probably the next generation of account authentication and security protection.
 Here, I'm starting a series of blog post on `passkeys` and some of the essential practices.
+
+Let's begin by understanding what's wrong with ***password*** authentication.
 
 ## What's Wrong with Password?
 
@@ -21,26 +25,31 @@ There are used to be a lot of devices has no password protection in the past.
 But, in recent years, a solution has now become a problem itself.
 This is simply because of **password policy** that we created.
 
-> *Must contain:*
+> *Must contain combination of all below:*
 > - At least an **Uppercase** and a **lowercase** characters.
 > - At least a **numeric digits**.
 > - At least a **special characters**.
 > - **Minimum length** of 8 or more.
 
-Thanks to complexity of password policy, some users start to ***wrote*** it down on sticky notes and leave it on the table. 
+And thanks to complexity of password policy, some users start to ***wrote*** it down on sticky notes and leave it on the table. 
 And this defeats the purpose of having password to protect our accounts.
 
 A solution has now become a ***problem***.
 And I think it should go EOL.
 
-## Password with MFA
+## Passkeys Auth
 
-On top of password policy, there are recommendations to deploy 2FA or MFA, Two-factor or Multi-factor Authentication. 
+`Passkeys Auth` is a new ***passwordless authentication*** standard that is being developed by the World Wide Web Consortium (W3C) and the FIDO Alliance. 
+Passkeys are designed to be more secure and convenient than traditional passwords, and they are expected to eventually ***replace passwords*** altogether.
 
+Passkeys are more secure than passwords because they are not stored on servers. 
+This means that even if a website or application is hacked, passkeys cannot be stolen. i
+Passkeys are also more convenient than passwords because users ***do not need to remember or manage multiple passwords***.
 
+> *The best part is, we can eliminate the password policy*.
 
-## Passkeys Vs Password+MFA
-
+Passkeys are still under development, but they are supported by a growing number of websites and applications. 
+Google, Apple, and Microsoft have all announced plans to support passkeys in their browsers and operating systems.
 
 
 ## Types of Passkeys
@@ -65,21 +74,14 @@ However, they differ in their storage, security level, and use cases.
 
 TL;DR, it just work like your *SSH key authentication*. 
 
-First, it creates a pair of private and public keys. 
-The private key is stored with yourself, most often like your mobile phone. 
-And the public key will be uploaded to website for your account creation, like facebook website.
+`Passkeys` are based on public key cryptography and biometric authentication. 
+When a user creates a passkey for a website or application, their device generates a unique public/private key pair. 
+The public key is stored on the website or application, and the private key is stored on the user's device.
+
+To authenticate with a passkey, the user simply needs to unlock their device and select the passkey for the website or application they want to sign in to. 
+The user's device will then generate a challenge and send it to the website or application. 
+The website or application will then verify the challenge using the user's public key.
 
 > In the future, I will try to demonstrate how it can work in reality, and more essential practices on using different types of passkeys. 
 > I'll also share some of the challenges to use `passkeys` in the corporate environment. 
-
-## Links
-
-  - [What Are Passkeys? - Are Passwords Going EOL?!](https://www.youtube.com/watch?v=wuylMMB8CsU)
-  - [Passkeys Vs Passwords & MFA - Weighing the Pros and Cons!](https://www.youtube.com/watch?v=rKKkF19JF2w)
-
-## Researches
-  
-  - [Can Passkeys Replace Passwords?](https://www.youtube.com/watch?v=DwghCW-_QQU)
-
-
 
