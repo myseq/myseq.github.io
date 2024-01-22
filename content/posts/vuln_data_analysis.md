@@ -4,7 +4,7 @@ date: 2024-01-23T16:14:03+08:00
 tags: [ "data", "analytics", "python", "vulnmgmt" ]
 categories: [ "Posts", "Notes"  ]
 summary: "How can you tell if your remediation work effectively? Is it efficient in addressing new vulnerability released every month?"
-draft: true
+draft: false
 ---
 {{< lead >}}
 Demonstrate the methodolgy how data analytic can be used in Vulnerability Management by producing the story points about the effectiveness of current remediation work, and is it efficient in addressing the new vulnerability released every month. 
