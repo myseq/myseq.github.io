@@ -28,7 +28,7 @@ Besides that, I've ***[always been fascinated by how I could make a program (or 
 
 > <i><b><mark style="color:#FFBF00;background:#303030">Mastering Thought and No Turning Back!</mark></b></i> :rhino:
 
-At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">reading books 📚</mark></b></i>.
+At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">[reading books](https://myseq.github.io/reading/) 📚</mark></b></i>.
 
 
 <details>
