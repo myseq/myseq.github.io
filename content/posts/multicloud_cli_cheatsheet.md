@@ -4,7 +4,7 @@ date: 2024-03-05T14:34:16+08:00
 tags: [ "cli", "cloud", "sans" ]
 categories: [ "Posts", "YT"  ]
 summary: "Multicloud Command Line Cheat Sheet Resource Demo."
-draft: true
+draft: false
 ---
 {{< lead >}}
 Learning these command lines, you can create some automation that can do regular security checks.
