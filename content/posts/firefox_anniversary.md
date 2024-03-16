@@ -1,7 +1,7 @@
 ---
 title: "My Firefox Anniversary"
 date: 2023-06-17T15:02:31+08:00
-tags: [ "firefox" ]
+tags: [ "anniversary", "firefox" ]
 categories: [ "Posts"  ]
 summary: "Remember my first download of Firefox browser 15 years ago."
 draft: false
