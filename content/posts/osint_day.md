@@ -1,7 +1,7 @@
 ---
 title: "OSINT Day"
 date: 2023-02-26T18:16:31+08:00
-tags: [ "framework", "osint", "social", "tools", "waf" ]
+tags: [ "anniversary", "framework", "osint", "social", "tools", "waf" ]
 categories: [ "Posts"  ]
 summary: "Hey, today is OSINT Day!"
 draft: false
