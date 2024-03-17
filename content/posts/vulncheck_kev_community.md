@@ -4,7 +4,7 @@ date: 2024-03-17T14:59:30+08:00
 tags: [ "kev", "python", "tools", "vulncheck" ]
 categories: [ "Posts"  ]
 summary: "Introducing the VulnCheck Known Exploited Vulnerabilities (KEV) catalog, a free community database of known exploited vulnerabilities fused with exploit intelligence."
-draft: true
+draft: false
 ---
 {{< lead >}}
 VulnCheck’s KEV catalog equips vulnerability management teams and cybersecurity professionals with faster, broader coverage in an efficient machine-readable dataset needed for detection, prioritization, and remediation.
