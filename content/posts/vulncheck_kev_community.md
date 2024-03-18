@@ -1,7 +1,7 @@
 ---
 title: "VulnCheck KEV Community"
 date: 2024-03-17T14:59:30+08:00
-tags: [ "kev", "python", "tools", "vulncheck" ]
+tags: [ "kev", "python", "tools", "vulncheck", "threatmgmt", "vulnmgmt" ]
 categories: [ "Posts"  ]
 summary: "Introducing the VulnCheck Known Exploited Vulnerabilities (KEV) catalog, a free community database of known exploited vulnerabilities fused with exploit intelligence."
 draft: false
@@ -22,7 +22,7 @@ By incorporating data beyond what CISA KEV provides, VulnCheck KEV equips you wi
 | :------ | :------- | :------------ |
 | Scope   | Curated list of confirmed KEVs | Broader scope including CISA KEV and additional reported KEVs (~80% more) |
 | Timelines | Updates may lag behind real-time threats | Aims for earlier warnings, potentially identifying threats 27 days before CISA | 
-| Additional Info | Basic vulnerabilityt information | Enriched data with eploit references and context for better decision-making | 
+| Additional Info | Basic vulnerability information | Enriched data with eploit references and context for better decision-making | 
 
 ### Clear Advantages
 
