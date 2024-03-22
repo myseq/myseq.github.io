@@ -111,6 +111,7 @@ CWPP Tests (Agent-based)
 ## Links 
 
  - [Kubernetes Security Posture Management (KSPM) Explain](https://www.wiz.io/academy/kubernetes-security-posture-management-kspm)
+ - [Kubernetes Security Best Practices](https://www.wiz.io/academy/kubernetes-security-best-practices)
 
 
 
