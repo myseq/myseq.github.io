@@ -1,7 +1,7 @@
 ---
 title: "Comprehension in Python"
 date: 2024-02-16T12:12:26+08:00
-tags: [ "101", "Python" ]
+tags: [ "101", "oneliner", "python" ]
 categories: [ "Posts"  ]
 summary: "List and Dict comprehension in Python."
 draft: false
