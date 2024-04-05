@@ -38,7 +38,7 @@ There are few ways to search this website:
  3. Use [monthly](/) to browse the posts quickly. [ <mark>under development</mark> ]
  -->
 
-## Research & Development 
+## Open Source 
 
 Currently, I am busy at R&D and learn everything about clouds ...
 
@@ -67,11 +67,15 @@ Currently, I am busy at R&D and learn everything about clouds ...
   1. [Turn Data/AI algorithm into full WebApp](https://www.youtube.com/watch?v=FNCF6PX0dbk)
   1. [Hugo](https://digitaldrummerj.me/series/blogging-with-hugo/)
 
+### Cybersecurity
+
+ * [Project Discovery](https://projectdiscovery.io/) - Democratize security, together
+   * [ProjectDiscovery](https://blog.projectdiscovery.io/) Blog
 
 ### Clouds
  - [Cloud Native Computing Foundation](https://www.cncf.io/ "MAKE CLOUD NATIVE UBIQUITOUS")
     - [CNCF Landscape](https://landscape.cncf.io/)
-    - [CNCF Landscapei Guide](https://landscape.cncf.io/guide)
+    - [CNCF Landscape Guide](https://landscape.cncf.io/guide)
 
  - [Rancher](https://www.rancher.com/)
     - [SUSE NeuVector](https://www.suse.com/products/neuvector/)

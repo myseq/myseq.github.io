@@ -52,6 +52,7 @@ Theme: custom
 ## Links
 
 
+ * MySeq's [SSH public key](https://github.com/myseq.keys). 
  * `MySeq` at [GitHub](https://github.com/myseq/). 
 
 > {{< github repo="myseq/myseq" >}}
