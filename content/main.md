@@ -60,12 +60,17 @@ Currently, I am busy at R&D and learn everything about clouds ...
 
 ### Development
 
-  1.  [TaiPy](https://github.com/Avaiga/taipy)
+  1. [TaiPy](https://github.com/Avaiga/taipy)
   1. [Taipy-GPT4-Demo](https://github.com/AlexandreSajus/Taipy-GPT4-Demo)
       - https://www.youtube.com/watch?v=84NssvoUluY
   1. [Build stunning Data Science WebApp](https://www.youtube.com/watch?v=vXQ6B2XwQ2g)
   1. [Turn Data/AI algorithm into full WebApp](https://www.youtube.com/watch?v=FNCF6PX0dbk)
   1. [Hugo](https://digitaldrummerj.me/series/blogging-with-hugo/)
+  1. Get up and running with large language models locally. 
+      - [Ollama](https://ollama.com/)
+      - Ollama [library models](https://ollama.com/library)
+      - [Ollama GitHub](https://github.com/ollama/ollama)
+
 
 ### Cybersecurity
 
