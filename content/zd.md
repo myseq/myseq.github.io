@@ -30,7 +30,7 @@ Besides that, I've ***[always been fascinated by how I could make a program (or 
 
 At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">[reading books](https://myseq.github.io/reading/) 📚</mark></b></i>.
 
-Lately, I just bought myself a new toy called `JIMИY` :jeep: ![JIMИY](/images/jeep.gif)  
+Lately, I just bought myself a new toy, <i><b><mark style="color:#7fff00;background:#303030">JIMИY</mark></b></i> (:jeep:) ![JIMИY](/images/jeep.gif)  
 
 <details>
 <summary><b>About the cover photo 🦊:</b></summary>
