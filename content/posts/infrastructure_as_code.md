@@ -2,7 +2,7 @@
 title =  "Infrastructure-as-Code (IaC)"
 date = 2022-10-26T22:11:08+08:00
 author = "zd"
-tags = [ "iac", "devops", "gitops" ]
+tags = [ "101", "cloud", "iac", "devops", "gitops" ]
 categories = [ "Blogger" ]
 summary = "How to move from Operations to GitOps?"
 draft = false
