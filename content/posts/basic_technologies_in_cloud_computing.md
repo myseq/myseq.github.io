@@ -12,6 +12,8 @@ draft: false
 
 ## Compute
 
+ - At on-prem, or traditional data center, **Compute** is referring to the physical server.
+ - At cloud, **Compute** is referring to `virtual machine` or `container` or `serverless`.
  - typically, `virtual machine` isn't the go-to technology to use nowadays.
  - `serverless` solution is easier to be used (called endpoint).
 
