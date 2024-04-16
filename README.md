@@ -1,4 +1,4 @@
-# About MySeq
+# MySeq.github.io
 
 Goto [MySeq blog and pages](https://myseq.github.io/)
 
