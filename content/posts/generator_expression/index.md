@@ -4,7 +4,7 @@ date: 2024-04-16T12:01:00+08:00
 tags: [ "101", "python" ]
 categories: [ "Posts"  ]
 summary: "Python: List comprehension vs Generator expression."
-draft: true
+draft: false
 ---
 {{< lead >}}
 *In general, `list comprehension` is faster while `generator` is more memory efficient*.
