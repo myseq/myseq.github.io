@@ -17,7 +17,7 @@ If mild criticism is not allowed, silence will be considered ill-intended.
 
 If silence is no longer allowed, complimenting not hard enough is a crime.
 
-If only one-voice is allowed to exist, then the only voice that exists is <mark>a lie</mark>.
+If only one-voice is allowed to exist, then *the only voice that exists is <mark style="color:#7FFF00;background:#303030">a lie</mark>*.
 
 {{< /lead >}}
 
