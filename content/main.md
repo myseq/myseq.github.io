@@ -60,6 +60,7 @@ Currently, I am busy at R&D and learn everything about clouds ...
 
 ### Development
 
+  1. WSL [settings configuration](https://github.com/MicrosoftDocs/wsl/blob/main/WSL/wsl-config.md)
   1. [TaiPy](https://github.com/Avaiga/taipy)
   1. [Taipy-GPT4-Demo](https://github.com/AlexandreSajus/Taipy-GPT4-Demo)
       - https://www.youtube.com/watch?v=84NssvoUluY
