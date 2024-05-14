@@ -45,4 +45,4 @@ Here is the demo of `Fira Code` for the 5 groups above.
 
 ## Links
 
- - Google [Fira Code](https://fonts.google.com/specimen/Fira+Code).
+ - [Fira Code](https://fonts.google.com/specimen/Fira+Code) at Google Fonts.
