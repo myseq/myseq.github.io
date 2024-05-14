@@ -23,7 +23,7 @@ It involves checking for technical issues that might affect readability or cause
 `Fira Code` has been a popular choice for programmers due to its focus on readability and functionality. 
 These are the important aspectes considered during `font proofing`.
 
-There are 5 groups of characters that I checked for "font-proofed" every time.
+There are 5 groups of character/number that I checked for ***"font-proofed"*** every time.
 
  1. **Lowercase o (o), uppercase O (O), and number 0 (0):** These can be tricky to tell apart, especially in fonts with a round or loopy design.
  1. **Lowercase l (l), uppercase L (L), and number 1 (1):** Similar to your original question, some fonts might not have clear distinctions between these, particularly for the lowercase L and number 1.
