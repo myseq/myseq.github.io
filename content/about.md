@@ -26,8 +26,31 @@ Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> 
 
 > All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
 
-## History 
 
+```json
+/** MySeq Config **/
+// JSON format
+{
+    "Site": "MySeq",
+    "BaseURL": "https://myseq.github.io",
+    "Author": "zd",
+    "Config": [
+        {  
+            "Font": "Fira Code",  
+            "Link": "https://fonts.google.com/specimen/Fira+Code"
+        },
+        {  
+            "Theme": "Blowfish",  
+            "ColorScheme": "avocado"
+        }
+    ]
+}
+
+```
+
+> See [Font Used by MySeq](/posts/font_used/) for why `Fira Code` is selected.
+
+## History 
 
 {{< timeline >}}
 
@@ -50,7 +73,6 @@ Theme: custom
 {{< /timeline >}}
 
 ## Links
-
 
  * MySeq's [SSH public key](https://github.com/myseq.keys). 
  * `MySeq` at [GitHub](https://github.com/myseq/). 
