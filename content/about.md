@@ -16,6 +16,16 @@ url: /about/
 
 > ***All contents, blog posts, and opinions are on my own.***
 
+<! --
+## MySeq Acronym
+
+MYSEQ (Mapping Your Security Essentials Quadrants)
+: This focuses on Myseq's ability to map out and analyze different security areas.
+
+MYSEQ (Mastering Your Security Essential Quotas)
+: If Myseq involves setting security goals (quotas), this option could be relevant.
+-->
+
 ## About
 <!-- 🐛🐜🐞🐝  t-rex :  🦖 --> 
 <!-- "simplifycybersecurity", "myseq", "🐛", "🐜", "🐞", "🐝" ]  -->
