@@ -8,6 +8,9 @@ draft: false
 slug: /main
 url: /content/
 ---
+{{< lead >}}
+I write about *Cybersecurity* in **simple practical** terms.
+{{< /lead >}}
 
 ## Security Practices
 
