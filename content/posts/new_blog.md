@@ -2,8 +2,8 @@
 title = "New MySeq Blog at GitHub"
 date = "2023-01-01T19:25:32+08:00"
 author = "zd"
-tags = [ "myseq" ]
-categories = [ "Posts" ] 
+tags = [ "blog" ]
+categories = [ "Posts", "MySeq" ] 
 summary = "MySeq new blog"
 +++
 
