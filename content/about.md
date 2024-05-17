@@ -20,7 +20,7 @@ url: /about/
 <!-- 🐛🐜🐞🐝  t-rex :  🦖 --> 
 <!-- "simplifycybersecurity", "myseq", "🐛", "🐜", "🐞", "🐝" ]  -->
 
-<b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> was created to break down complex cybersecurity concepts into manageable steps, makeing essential security accessible to all.
+<b><i><mark style="color:#7FFF00;background:#303030">MySeq</mark></i></b> was created to *break down complex cybersecurity concepts into manageable steps, making essential security accessible to all*.
 
 It is a personal website that sharing my thought on <i><b><mark style="color:#8080FF;background:#303030">practicing essential security and simplify Cybersecurity</mark></b></i>. 
 Nonetheless, I also share some programming techniques, mostly tutorials and articles, and a range of topics including Linux :penguin:, open source, Python :bug:, docker {{< icon "docker" >}}, Kubernetes, virtualization and {{< icon "code" >}} software development {{< icon "dev" >}}. 
