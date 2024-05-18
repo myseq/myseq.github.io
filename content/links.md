@@ -25,6 +25,7 @@ url: /links/
 ## Personal
  
  1. YouTube [Subscription](https://www.youtube.com/feed/subscriptions).
+ 1. Saved [playables](https://www.youtube.com/playables/saved) at YouTube.
 
 
 <!--
