@@ -62,8 +62,8 @@ smartTOC = true
 [article]
   #showDate = true
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = true
   #showHero = true
