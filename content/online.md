@@ -40,7 +40,7 @@ url: /online/
 
 ### Generative AI
 
- - [Bard](https://bard.google.com/chat) by Google.
+ - [Gemini](https://gemini.google.com/) by Google.
  - [chatGPT](https://chat.openai.com/) by OpenAI.
    - chatGPT [Playground](https://platform.openai.com/playground?ref=FutureTools.io)
  - [Claude.AI](https://claude.ai/chats) by Anthropic.
