@@ -10,6 +10,9 @@ draft: false
 *Stupidity is not the lack of knowledge, but the illusion of having it.*
 {{< /lead >}}
 
+## May 2024
+
+ - **Influence Is Your Superpower** (by *Zoe Chance*)
 
 ## Dec 2023
 
