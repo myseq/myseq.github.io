@@ -66,6 +66,7 @@ Lately, I just bought myself a new toy, <i><b><mark style="color:#7fff00;backgro
  
 -->
 
+
 ### 
 
            /\
@@ -88,3 +89,33 @@ Lately, I just bought myself a new toy, <i><b><mark style="color:#7fff00;backgro
 
 <!-- Courage, Brevity, Focus, Simplicity --> 
 
+<!--
+
+## ♫ ♪ 𝄞⨾𓍢ִ໋
+
+I'm a person who like Celtic music and Acoustic songs, with in occasion I like to listen to Bossa Nova (🍷) too. 
+
+According to Gemini, I'm the type of person who is:
+
+ - **Open-minded and appreciative of diverse sounds**  
+ > I enjoy music from different cultures and eras, suggesting a willingness to explore beyond familiar genres. 
+ > Celtic music with its roots in folklore and storytelling, the cool sophistication of Bossa Nova, and the intimacy of acoustic songs all represent distinct styles.
+
+ - **Drawn to melody and emotion**  
+ > My interest in Celtic and acoustic music suggests an appreciation for beautiful melodies and a focus on emotional expression.  
+ > Bossa Nova, while often laid-back, can also be quite lyrical and evoke a certain mood.
+
+ - **Relaxed and easygoing** 
+ > The calming nature of Bossa Nova and the often folky or introspective qualities of Celtic music and acoustic songs hint at a preference for music that creates a mellow atmosphere.
+
+ - **Appreciative of tradition and history** 
+ > Celtic music in particular is steeped in tradition.
+ > My enjoyment of it could indicate an interest in cultural heritage and stories from the past.
+
+ - **Creative or introspective** 
+ > Acoustic music often lends itself to a more personal listening experience. 
+ > I might find acoustic songs to be a good outlet for reflection or inspiration.
+
+I have 2 favorite singers: ***Beyond and Zard***. 
+
+-->
