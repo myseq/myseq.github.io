@@ -20,7 +20,8 @@ title = "MySeq"
   description = "Simplicity is the Ultimate Sophistication."
   # copyright = "Copy, _right?_ :thinking_face:"
   #copyright = "Copyleft, _right?_ :thinking_face:"
-  copyright = "© Copyleft :t-rex:"
+  #copyright = "© Copyleft :t-rex:"
+  copyright = "© Copyleft :rhino:"
 
 [author]
   #name = "Blowfish"
