@@ -10,6 +10,11 @@ draft: false
 *Stupidity is not the lack of knowledge, but the illusion of having it.*
 {{< /lead >}}
 
+## Jul 2024
+
+ - **Hacking API: Breaking Web Application Programming Interfaces** (by *Corey J.Ball*)
+ - **Friend & Foe: When to Cooperate, When to Compete, and How to Succeed at Both** (by *Maurice Schweitzer, Adam Galinsky*)
+
 ## May 2024
 
  - **Influence Is Your Superpower** (by *Zoe Chance*)
