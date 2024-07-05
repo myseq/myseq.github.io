@@ -32,7 +32,7 @@ At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; 
 
 <img align="left" src="/images/jeep.gif" alt="Jeep" width="48" height="48" style="vertical-align:middle;margin:0px 50px">
 
-Lately, I just bought myself a new toy, <i><b><mark style="color:#7fff00;background:#303030">JIMИY</mark></b></i> (<b><mark style="color:#FFBF00;background:#303030">:jeep:</mark></b>) 
+Lately, I just bought myself a new toy 🚙, <i><b><mark style="color:#7fff00;background:#303030">JIMИY</mark></b></i> (<b><mark style="color:#FFBF00;background:#303030">:jeep:</mark></b>) 
 
 ![Jimny](/images/jimny.png)  
 
