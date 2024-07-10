@@ -26,7 +26,7 @@ Here are the key points in brevity:
 ## Patch Tuesday
 
 ```bash
-
+$ ./patch_tuesday.py -k 2024-jul -vc 
 
  _____     _       _      _____               _
 |  _  |___| |_ ___| |_   |_   _|_ _ ___ ___ _| |___ _ _
