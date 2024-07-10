@@ -1,7 +1,7 @@
 ---
 title: "Old Windows Explorer"
 date: 2024-06-22T12:24:40+08:00
-tags: [ "win10", "win11" ]
+tags: [ "win10", "win11", "tools" ]
 categories: [ "Posts"  ]
 summary: "Launch Windows 10 Explorer in Windows 11."
 draft: false
