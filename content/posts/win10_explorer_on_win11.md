@@ -22,6 +22,8 @@ In case you are like me, who prefer the details pane in old Windows Explorer (in
 
 In my opinion, the Windows 10 Explorer has better performance over the new one. 
 
+> FYI, it is still possible if you still miss or like to try [using MS Internet Explorer](https://myseq.blogspot.com/2022/08/start-msie-browser-even-replaced-by-ms.html) in Windows 11. 
+
 ## Another Way
 
 Later, I found [OldExplorer](https://lesferch.github.io/OldExplorer/) which ia a better solution. 
