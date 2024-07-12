@@ -4,7 +4,7 @@ date: 2024-07-12T19:37:18+08:00
 tags: [ "infosec", "privacy" ]
 categories: [ "YT"  ]
 summary: "If you aren't paying for it, you are the product, not the customer. Products don't get to call customer support."
-draft: true
+draft: false
 ---
 {{< lead >}}
 Security is the foundation and privacy is built on top of it.
