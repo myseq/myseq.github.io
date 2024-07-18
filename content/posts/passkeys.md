@@ -5,7 +5,7 @@ tags: [ "101", "passkeys", "passwordless" ]
 categories: [ "Posts"  ]
 series: [ "Passkeys" ]
 series_order: 1
-summary: "Passkeys_101"
+summary: "There is nothing to be phished if you don't use password at all."
 draft: false
 ---
 {{< lead >}}
