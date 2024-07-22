@@ -4,7 +4,7 @@ date: 2024-07-21T21:06:02+08:00
 tags: [ "argumentation", "" ]
 categories: [ "WisdomBread" ]
 summary: "Addiction to BEING RIGHT."
-draft: true
+draft: false
 ---
 {{< lead >}}
 *Are you tired of constantly arguing and never finding common ground?*
