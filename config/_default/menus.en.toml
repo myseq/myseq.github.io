@@ -33,6 +33,12 @@
 
 
 [[main]]
+  name = "Wisdom Bread"
+  parent = "Content"
+  pageRef = "wisdom"
+  weight = 43
+
+[[main]]
   name = "TEDTalks"
   parent = "Content"
   pageRef = "tedtalk"
