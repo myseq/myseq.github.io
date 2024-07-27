@@ -4,12 +4,12 @@ description: "Discover ideas worth spreading."
 
 cascade:
   showEdit: false
-  showSummary: false
+  showSummary: true
   hideFeatureImage: false
 ---
 
 {{< lead >}}
-TED Talks: Discover ideas worth spreading. :heart_eyes:
+💡 *Discover ideas worth spreading.* 💡 
 {{< /lead >}}
 
 This section is to share some of the excellent **TED talk** sessions that I enjoyed. 
