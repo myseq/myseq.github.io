@@ -132,17 +132,18 @@ In summary, white light is not associated with a single wavelength; rather, it e
 
 ## Easter Eggs: Theme Color Used
 
+
 {{< swatches "#FFBF00" "#7FFF00" "#8080FF" >}}
 
 |  |  |  |
 | :--: | :--: | :--: |
-| Amber | Chartreuse | Blue Bluish |
+| Amber/`#FFBF00` | Chartreuse/`#7FFF00` | Blue Bluish/`#8080FF` |
 
 {{< swatches "#303030" "#BDBDBD" "#000000" >}}
 
 |  |  |  |
 | :--: | :--: | :--: |
-| Charcoal | Grey | Black |
+| Charcoal/`#303030` | Grey/`#BDBDBD` | Black/`#000000` |
 
 ```md
 {{</* swatches "#FFBF00" "#7FFF00" "#8080FF" */>}}
