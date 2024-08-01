@@ -32,7 +32,7 @@
 #  weight = 41
 
 [[main]]
-  name = "Cliffs Notes"
+  name = "Cliff Notes"
   parent = "Content"
   pageRef = "notes"
   weight = 42
