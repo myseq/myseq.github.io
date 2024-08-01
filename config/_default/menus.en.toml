@@ -31,6 +31,12 @@
 #  pageRef = "blog_archive"
 #  weight = 41
 
+[[main]]
+  name = "Cliffs Notes"
+  parent = "Content"
+  pageRef = "notes"
+  weight = 42
+
 
 [[main]]
   name = "Wisdom Bread"
