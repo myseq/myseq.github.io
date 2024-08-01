@@ -2,7 +2,7 @@
 title: "Data Analysis Story for VM"
 date: 2024-01-23T16:14:03+08:00
 tags: [ "data", "analytics", "python", "vulnmgmt" ]
-categories: [ "Posts", "Notes"  ]
+categories: [ "Posts" ]
 summary: "How can you tell if your remediation work effectively? Is it efficient in addressing new vulnerability released every month?"
 draft: false
 ---
