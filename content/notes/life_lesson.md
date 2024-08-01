@@ -3,11 +3,11 @@ title: "Five Great Life Lessons"
 date: 2024-08-01T21:37:47+08:00
 tags: [ "book", "lesson" ]
 categories: [ "Notes"  ]
-summary: "Five great life lessons."
+summary: "Five great life lessons from Scott Adams's book."
 draft: false
 ---
 {{< lead >}}
-***How to Fail at Almost Everything and Still Win Big:*** *Kind of the Story of My Life* 📚
+[📚] ***How to Fail at Almost Everything and Still Win Big:*** *Kind of the Story of My Life* 
 {{< /lead >}}
 
 This is a 2013 non-fiction book by [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams), the creator of [Dilbert](https://en.wikipedia.org/wiki/Dilbert).
