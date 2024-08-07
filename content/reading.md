@@ -15,6 +15,23 @@ draft: false
  - **Hacking API: Breaking Web Application Programming Interfaces** (by *Corey J.Ball*)
  - **Friend & Foe: When to Cooperate, When to Compete, and How to Succeed at Both** (by *Maurice Schweitzer, Adam Galinsky*)
 
+
+<!--
+
+Friend and Foe: Introduction
+
+To succeffully nagigate our social world, we need to find the right balance between cooperation and competition. 
+This book offers a set of tools to help you navigate the shifting sands of our social world.
+By keeping your balance, in every area of your life, you will learn how to be a better friend and a more formidable foe. 
+
+Option 1: "Navigate the shifting sands of human nature's social world, becoming a better friend and a more formidable foe."
+Option 2: "In the shifting sands of human nature's social world, strive to be a better friend and a more formidable foe."
+Option 3: "Mastering the shifting sands of human nature, become a better friend and a more formidable foe."
+
+> "Mastering the shifting sands of human nature's social world, strive to be a better friend and a more formidable foe."
+
+-->
+
 ## May 2024
 
  - **Influence Is Your Superpower** (by *Zoe Chance*)
