@@ -37,6 +37,12 @@ googleAnalytics = "G-CQL491X0G6"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+
+
 [related]
   threshold = 0
   #toLower = false
