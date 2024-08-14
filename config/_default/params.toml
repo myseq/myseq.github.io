@@ -28,6 +28,11 @@ highlightCurrentMenuArea = true
 smartTOC = true
 #smartTOCHideUnfocusedChildren = false
 
+[params]
+  [params.author]
+    name = "zd"
+
+
 [header]
   #layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
