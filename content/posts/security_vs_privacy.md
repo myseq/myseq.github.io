@@ -29,5 +29,7 @@ Privacy:
 
 {{< youtube id="x3rg8bttldg" title="Security vs Privacy" >}}
 
+> If you aren't paying for it, you are the product, not the customer. 
+> Products don't get to call customer support.
 
 
