@@ -4,7 +4,7 @@ date: 2024-08-15T15:36:37+08:00
 tags: [ "patchtuesday" ]
 categories: [ "Posts"  ]
 summary: "$ ./patch_tuesday.py -k 2024-aug -vc"
-draft: true
+draft: false
 ---
 {{< lead >}}
 This video summarizes the security updates released by Microsoft on August 13, 2024.
@@ -142,4 +142,10 @@ $ ./patch_tuesday.py -k 2024-aug -vc
 
 
 ```
+
+## Outro
+
+ - Tool: [Patch_Tuesday](https://github.com/myseq/ms_patch_tuesday) at GitHub.
+ - Tool: [CISA KEV Catalog](https://github.com/myseq/kev-catalog) at GitHub.
+
 
