@@ -23,3 +23,10 @@ There is difference between normal **IT architect** and **cybersecurity architec
 
 {{< /lead >}}
 
+
+| | IT Architect | Cybersecurity |
+| :---- | :---- | :---- |
+| Mindset | Let's build a castle! | Let's build a moat and drawbridge |
+| Problem-solving | How can we optimize this? | How can we break into this? |
+| Tools | Hammer, nails, wood | Firewall, encryption, IDS |
+| Outcome | User satisfaction | Zero vulnerabilities | 
