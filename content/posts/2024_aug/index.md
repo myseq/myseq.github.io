@@ -12,13 +12,13 @@ This video summarizes the security updates released by Microsoft on August 13, 2
 
 ## Key Takeways
 
- - `91` newly disclosed vulnerabilities, slightly above average.
+ - `102` newly disclosed vulnerabilities, slightly above average.
  - Highest scored vulnerability is 9.8.
  - `29` remote code execution vulnerabilities (around average).
- - `4` publicly disclosed vulnerabilities (higher than average).
+ - `6` publicly disclosed vulnerabilities (higher than average).
  - `6` vulnerabilities known to be exploited (higher than average).
  - Windows 11 version 24H2 has security updates but is not yet generally available.
- - Total of `324` CVEs that require customer action. *(New metric starting in Aug 2024)*
+ - Total of `99` CVEs that require customer action. *(New metric starting in Aug 2024)*
 
 ## Highlights
 
@@ -48,31 +48,17 @@ $ ./patch_tuesday.py -k 2024-aug -vc
  << August 2024 Security Updates [ 2024-08-13 ] >>
 
 
- [+] Vulnerabilities           : [ 327 ]
-        [-] High_Severity      : [  35 ]
+ [+] Vulnerabilities           : [ 102 ]
+        [-] High_Severity      : [  21 ]
         [-] High_likelihood    : [  11 ]
         [-] Exploited in_wild  : [   6 ]
-        [-] Action_required    : [ 324 ]
+        [-] Action_required    : [  99 ]
  [+] Product Families          : [   9 ]
 
-                                                                      High_Severity/35
+                                                                      High_Severity/21
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ CVE            ┃ CVSS_Base/Temp ┃ Title_Value                                                                                                            ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│ CVE-2022-36648 │ B:10.0/T:10.0  │ <>                                                                                                                     │
-│ CVE-2024-39331 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2024-41110 │  B:9.9/T:9.9   │ <>                                                                                                                     │
-│ CVE-2022-35414 │  B:8.8/T:8.8   │ <>                                                                                                                     │
-│ CVE-2022-3872  │  B:8.6/T:8.6   │ <>                                                                                                                     │
-│ CVE-2023-29404 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2023-29402 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2024-35854 │  B:8.8/T:8.8   │ <>                                                                                                                     │
-│ CVE-2024-42154 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2023-49569 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2024-29157 │  B:9.8/T:9.8   │ <>                                                                                                                     │
-│ CVE-2017-17522 │  B:8.8/T:8.8   │ <>                                                                                                                     │
-│ CVE-2024-2398  │  B:8.6/T:8.6   │ <>                                                                                                                     │
-│ CVE-2024-38428 │  B:9.1/T:9.1   │ <>                                                                                                                     │
 │ CVE-2022-2601  │  B:8.6/T:8.6   │ Redhat: CVE-2022-2601 grub2 - Buffer overflow in grub_font_construct_glyph() can lead to out-of-bound write and        │
 │                │                │ possible secure boot bypass                                                                                            │
 │ CVE-2024-38108 │  B:9.3/T:8.1   │ Azure Stack Hub Spoofing Vulnerability                                                                                 │
@@ -138,13 +124,12 @@ $ ./patch_tuesday.py -k 2024-aug -vc
         [ 8]              Browser : 1
         [ 9]                 Apps : 1
 
-
- [*] "August 2024 Security Updates" (Rev 52)
+ [*] "August 2024 Security Updates" (Rev 90)
         [-] Initial Release date: 2024-08-13T07:00:00
-        [-] Current Release date: 2024-08-12T00:00:00
+        [-] Current Release date: 2024-08-17T00:00:00
 
 
- [*] [2024-08-14] main(): Completed within [6.7466 sec].
+ [*] [2024-08-19] main(): Completed within [7.0475 sec].
 
 
 ```
