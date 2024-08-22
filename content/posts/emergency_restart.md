@@ -4,7 +4,7 @@ date: 2024-08-22T15:08:18+08:00
 tags: [ "emerg", "restart", "win10", "win11" ]
 categories: [ "Posts"  ]
 summary: "Emergency restart in Windows OS."
-draft: true
+draft: false
 ---
 {{< lead >}}
 *Any unsaved data will be lost.*
