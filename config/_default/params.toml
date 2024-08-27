@@ -22,7 +22,8 @@ disableImageOptimization = false
 #defaultBackgroundImage = "/img/ocean.jpg"
 #defaultFeaturedImage = "/img/ocean.jpg"
 defaultBackgroundImage = "/images/pexels-neo-html.jpeg" # used as default for background images
-defaultFeaturedImage = "/images/featured_ps.jpg" # used as default for featured images in all articles
+#defaultFeaturedImage = "/images/featured_ps.jpg" # used as default for featured images in all articles
+defaultFeaturedImage = "/images/featured_p03.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
