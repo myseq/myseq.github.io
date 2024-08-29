@@ -15,8 +15,8 @@ url: /links/
  - [Fire starts here](about:welcome) [ strictly for [Firefox](/firefox/) browser only ]
 
 ## Games
- - [PacMan](https://www.masswerk.at/JavaPac/JS-DoodlePacMan.html) :ghost:
- - [LoadRunner](https://loderunnerwebgame.com/game/) :runner:
+ - [PacMan](https://www.masswerk.at/JavaPac/JS-DoodlePacMan.html) :ghost: 👻
+ - [LoadRunner](https://loderunnerwebgame.com/game/) :runner: 🏃
 
 ## Learning
  - [w3schools.com](https://www.w3schools.com/)
