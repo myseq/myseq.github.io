@@ -12,7 +12,7 @@ draft: false
 
 ## HTTP Version Evolution
 
-![HTTP Version Evolution](/img/http_version_evolution.png)
+![HTTP Version Evolution](/images/http_version_evolution.png)
 
 In case you haven't know, I've posted about [HTTP Versioning](/posts/http_version/) last year.
 
