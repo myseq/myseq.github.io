@@ -10,15 +10,19 @@ draft: false
 *Amazing animation in explaining the differences among HTTP versions, 1, 1.1, 2.0 and 3.0.*
 {{< /lead >}}
 
-## HTTP 1 Vs HTTP 2 Vs HTTP 3!
+## HTTP Version Evolution
 
-{{< youtube id="UMwQjFzTQXw" title="HTTP 1 Vs HTTP 2 Vs HTTP 3!" >}}
+![HTTP Version Evolution](/img/http_version_evolution.png)
 
-Ine case you haven't know, I've posted about [HTTP Versioning](/posts/http_version/) last year.
+In case you haven't know, I've posted about [HTTP Versioning](/posts/http_version/) last year.
 
 {{< article link="/posts/http_version/" >}}
 
-## Transcript
+Below is the video at [Youtube](https://www.youtube.com/watch?v=UMwQjFzTQXw), shared by [ByteByteGo](https://www.youtube.com/@ByteByteGo).
+
+{{< youtube id="UMwQjFzTQXw" title="HTTP 1 Vs HTTP 2 Vs HTTP 3!" >}}
+
+### Transcript
 
 Here, I also include the full transcript for reference.
 
@@ -207,3 +211,6 @@ The web's foundational protocols have adapted to our growing need for fast relia
 ----
 (End)
 
+## Links 
+
+ - [HTTP 1 Vs HTTP 2 Vs HTTP 3!](https://www.youtube.com/watch?v=UMwQjFzTQXw) by [ByteByteGo](https://www.youtube.com/@ByteByteGo).
