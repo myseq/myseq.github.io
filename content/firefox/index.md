@@ -31,4 +31,6 @@ To set RAM cache capacity based on 2GB physical memory	| browser.cache.memory.ca
  - [about:cache](about:cache?device=memory)
  - [about:welcome](about:welcome) or link to the [photo](https://bug1705799.bmoattachments.org/attachment.cgi?id=9255123)
  - Firefox: [Task Manager](about:processes)
+ - [about:about](about:about)
+
 

@@ -11,6 +11,7 @@ url: /links/
 ---
 
 ## Funs
+ - About:[about](about:about) [ Browser ]
  - [Edge surfing](edge://surf) [ strictly for MS Edge browser only ]
  - [Fire starts here](about:welcome) [ strictly for [Firefox](/firefox/) browser only ]
 
