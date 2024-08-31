@@ -182,14 +182,21 @@ smartTOC = true
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  authDomain = "blowfish-21fff.firebaseapp.com"
-  projectId = "blowfish-21fff"
-  storageBucket = "blowfish-21fff.appspot.com"
-  messagingSenderId = "60108104191"
-  appId = "1:60108104191:web:039842ebe1370698b487ca"
-#  measurementId = "G-PEDMYR1V0K"
-  measurementId = "G-CQL491X0G6"
+  #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+  apiKey = "AIzaSyAjMb5JN8Lt6eFYQxoun9GyzgSbFkcpluc"
+  #authDomain = "blowfish-21fff.firebaseapp.com"
+  authDomain = "myseq-gh-pages.firebaseapp.com"
+  #projectId = "blowfish-21fff"
+  projectId = "myseq-gh-pages"
+  #storageBucket = "blowfish-21fff.appspot.com"
+  storageBucket = "myseq-gh-pages.appspot.com"
+  #messagingSenderId = "60108104191"
+  messagingSenderId = "991404758454"
+  #appId = "1:60108104191:web:039842ebe1370698b487ca"
+  appId = "1:991404758454:web:2cde04db7ae17a22135d17"
+  #measurementId = "G-PEDMYR1V0K"
+  #measurementId = "G-CQL491X0G6"
+  measurementId = "G-HEVCNH0EFT"
 
 [fathomAnalytics]
   # site = "ABC12345"
