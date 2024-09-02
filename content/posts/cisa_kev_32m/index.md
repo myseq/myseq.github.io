@@ -23,7 +23,7 @@ Highlights (within CISA KEV catalog):
  - The top-5 vendors with highest number of vulnerabilities remain the **same** (total 179 vendors). 
  - The top-5 vendors hold ***558*** (around 49%) of all the 1126 CVEs.
  - The top-5 vulnerable products remain the **same** (total 463 products).
- - There are ***257*** (or ~55%) CVE found at the top-5 vulnerable products. 
+ - There are ***242*** (or ~21%) CVE found at the top-5 vulnerable products. 
  - The mean value increases to **93.83** (was 91.92).
  - The top-5 months where distribution of KEV is higher than `mean` remain the **same** (*Mar, Apr, May Jun, Nov*).
 
