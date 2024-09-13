@@ -12,9 +12,16 @@ This video summarizes the security updates released by Microsoft on September 10
 
 ## Key Takeways
 
- - `79` newly disclosed vulnerabilities.
+Highest scored vulnerability is 9.8, average score is 7.70.
+Sign up for full briefing call if you are a Microsoft Premier or unified support customer.
+
+
+ - `79` newly disclosed vulnerabilities in September 2024 release (slightly higher than average).
+ - `23` remote code execution vulnerabilities (most impactful type).
  - Highest CVSS scored vulnerability is 9.8.
  - `7` ciritcal patches (lower than last month).
+ - Critical vulnerabilities include `CVE-2024-38063` (TCP/IP stack) and CVE-2024-3819 (line printer daemon).
+ - Accelerate update deployment due to elevated risk.
  - Total of `78` CVEs that require customer action. *(New metric starting in Aug 2024)*
  - Total of `4` CVEs found in **CISA_KEV** and *exploited in wild*. 
 
@@ -24,9 +31,9 @@ This video summarizes the security updates released by Microsoft on September 10
  - `CVE-2024-38217`: This exploit allows attackers to bypass the Mark of the Web security feature, potentially leading to the download and execution of malicious files. It's recommended to patch this vulnerability to protect users from downloading harmful content.
  - `CVE-2024-43491`: A critical vulnerability affecting older Windows versions (1507 and 10 2015 LTSB) was reintroduced due to a rollback of security updates. This allows attackers to exploit previously patched vulnerabilities and gain control of the system. 
 
-<!--
-{{< youtube id="_" title="Security Update Release Summary September 2024" >}}
--->
+{{< youtube id="AL7mG5cq7F4" title="Security Update Release Summary September 2024" >}}
+
+> Video is added later since it only been released on Sep 12. 
 
 ## Patch_Tuesday
 
