@@ -25,6 +25,8 @@ Sign up for full briefing call if you are a Microsoft Premier or unified support
  - Total of `78` CVEs that require customer action. *(New metric starting in Aug 2024)*
  - Total of `4` CVEs found in **CISA_KEV** and *exploited in wild*. 
 
+![](/posts/2024_sep/bar_chart.png)
+
 ## Highlights
 
  - `CVE-2024-38018`: This vulnerability impacts SharePoint servers, enabling remote code execution with low complexity. It's crucial for organizations running their own SharePoint servers to apply the necessary patches.
