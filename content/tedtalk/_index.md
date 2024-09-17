@@ -12,6 +12,8 @@ cascade:
 💡 *Discover ideas worth spreading.* 💡 
 {{< /lead >}}
 
+![](/tedtalk/ignite.png)
+
 This section is to share some of the excellent **TED talk** sessions that I enjoyed. 
 
 ---
