@@ -9,7 +9,7 @@ draft: false
 
 | Project | Description | Status | 
 | ------- | ----------- | ------ |
-| Lab21 | Runs multiple Linux distro with VMware Player or Multipass | Ongoing |
+| [Lab21](/lab21/) | Runs multiple Linux distro with VMware Player or Multipass | Ongoing |
 | 3D Printing | 3d Printing project with [MakerPI](https://www.makerpi3d.com/) | Done (2021) |
 | Drone	| DJI [Mavic Mini 1](https://www.dji.com/mavic-mini) | Done (2020) |
 | RPi	| Raspberry Pi (RPi) Projects - all my work on RPi + PiBang	| Done (2019) |
