@@ -75,6 +75,22 @@ Currently, I am busy at R&D and learn everything about clouds ...
       - Ollama [library models](https://ollama.com/library)
       - [Ollama GitHub](https://github.com/ollama/ollama)
 
+### REST API
+
+ 1. [HTTPie](https://httpio.io/app)
+ 1. [Bruno](https://www.usebruno.com/)
+ 1. [Insomnium API Client](https://github.com/ArchGPT/insomnium)
+
+#### Public API (VM)
+
+| Site | Links |
+| :--- | :---- |
+| CISA_KEV | https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json |
+| RHA_CVE | https://access.redhat.com/hydra/rest/securitydata/cve/\<CVE-2024-2961\>.json |
+| MSRC | https://api.msrc.microsoft.com/cvrf/v3.0/cvrf/\<2024-aug\> |
+| SUSE_VEX | https://ftp.suse.com/pub/projects/security/csaf-vex/\<cve-2023-46842\>.json |
+| Oracle_CPU | https://www.oracle.com/docs/tech/security-alerts/\<cpujul2024csaf\>.json |
+
 
 ### Cybersecurity
 
