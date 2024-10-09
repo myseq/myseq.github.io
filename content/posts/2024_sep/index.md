@@ -42,7 +42,7 @@ Sign up for full briefing call if you are a Microsoft Premier or unified support
 
 ```bash
 
-$ ./patch_tuesday.py -k 2024-aug -vc
+$ ./patch_tuesday.py -k 2024-sep -vc
 
  _____     _       _      _____               _
 |  _  |___| |_ ___| |_   |_   _|_ _ ___ ___ _| |___ _ _
