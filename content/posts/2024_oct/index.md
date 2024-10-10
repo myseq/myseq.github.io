@@ -27,12 +27,12 @@ draft: false
 ![](/posts/2024_oct/vulns_2024_oct.png)
 
 <!--
-
-{{< youtube id="AL7mG5cq7F4" title="Security Update Release Summary September 2024" >}}
-
-> Video is added later since it only been released on Sep 12. 
-
+https://www.youtube.com/watch?v=dZ1pW6Sy8iM
 -->
+{{< youtube id="dZ1pW6Sy8iM" title="Security Update Release Summary October 2024" >}}
+
+> Video is added later since it only been released on Oct 10. 
+
 
 ## Patch_Tuesday
 
