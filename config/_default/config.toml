@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 #paginate = 100
-paginate = 5
+#paginate = 5
 #summaryLength = 30
 summaryLength = 0
 
@@ -19,6 +19,11 @@ summaryLength = 0
 #buildFuture = false
 #googleAnalytics = "G-PEDMYR1V0K"
 googleAnalytics = "G-CQL491X0G6"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 5
+  path = 'page'
 
 [imaging]
   anchor = 'Center'
