@@ -1,12 +1,13 @@
-+++
-title =  "Windows Subsystem for Linux"
-date = 2023-08-03T11:29:58+08:00
-author = "zd"
-tags = [ "config", "wsl" ]
-categories = [ "Posts" ]
-summary = "Advanced settings configuration in WSL."
-draft = false
-+++
+---
+title: "Windows Subsystem for Linux"
+date : 2023-08-03T11:29:58+08:00
+authors : 
+  - "zd"
+tags : [ "config", "wsl" ]
+categories : [ "Posts" ]
+summary : "Advanced settings configuration in WSL."
+draft: false
+---
 
 ## Windows Subsystem for Linux
 
