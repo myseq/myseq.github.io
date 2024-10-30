@@ -4,6 +4,8 @@ date: 2024-10-26T10:11:33+08:00
 tags: [ "ubuntu" ]
 categories: [ "Posts"  ]
 summary: "Quick migration from WSL to Ubuntu."
+authors: 
+  - "xx"
 draft: false
 ---
 {{< lead >}}
