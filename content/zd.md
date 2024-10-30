@@ -13,9 +13,9 @@ url: /zd/
 
 ## About ZD
 
-### 1st-Half :t-rex:
+### 1st-Half 🦖
 
-> <i><b><mark style="color:#FFBF00;background:#303030">Knowledge is Power.</mark></b></i> :t-rex:
+> <i><b><mark style="color:#FFBF00;background:#303030">Knowledge is Power.</mark></b></i> 🦖
 
 As a **[Cybersecurity strategist](/mindset/)**, I responsible for designing and implementing security solutions, managing risks, and fostering a strong security culture within the organization I work for. 
 This includes <i><b><mark style="color:#8080FF;background:#303030">security strategy development, threat management, risk assessment and management, security architecture design, and security standards and compliance.</mark></b></i>
@@ -24,9 +24,9 @@ I'm also a **[cmdline geek](/tags/cli/)**, and spends most of my time in learnin
 
 Besides that, I've ***[always been fascinated by how I could make a program (or a piece of code) runs more efficiently](/tags/async/)*** or how I could organize the code so it is easy to change.
 
-### 2nd-Half :rhino:
+### 2nd-Half 🦏
 
-> <i><b><mark style="color:#FFBF00;background:#303030">Mastering Thought and No Turning Back!</mark></b></i> :rhino:
+> <i><b><mark style="color:#FFBF00;background:#303030">Mastering Thought and No Turning Back!</mark></b></i> 🦏
 
 At my free time ⏳, I would wandering around with my ***motorcycle*** 🏍️; flying my ***Mavic Mini*** 🚁; enjoying my ***drinks*** 🍷 + 🍻, and <i><b><mark style="color:#8080FF;background:#303030">[reading books](https://myseq.github.io/reading/) 📚</mark></b></i>.
 
