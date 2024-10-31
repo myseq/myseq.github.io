@@ -12,8 +12,10 @@ draft: false
 
 Microsoft Azure Linux 3.0 has been released recently.
 
+> Azure Linux was called CBL-Mariner (version 1.0 and 2.0).
+
 It is a Linux distribution for Microsoft's cloud infra and edge. 
-It is designed to provide a consistent platform to allow Microsoft to stay current on Linux updates.
+It is designed, as CLI-mode only, to provide a consistent platform to allow Microsoft to stay current on Linux updates.
 
 `Azure Linux` has been engineered with a small common set of packages to address the universal needs of first party cloud and edge services.
 However, any individual can layer additional packages on top of the common core packages and produce images for their workloads.
@@ -21,13 +23,15 @@ However, any individual can layer additional packages on top of the common core 
 > Azure Linux is designed to consumes limited disk and memory resources.
 
 With its lighweight characteristics, Azure Linux provides faster boot times and a minimal attack surface.
-And this makes it suitable to be deployed as a container or a container host.
+And this makes it aimed to be deployed as a container or a container host.
 
 > This could be a great choice of Linux distribution for enterprise who intend to create custom Linux distribution.
 
 {{< youtube id="UsQNOUnmKRM" title="Microsoft Linux 3.0 is Out - Is it Good for a Home Lab?" >}}
 
-  - GitHub [Azure Linux](https://github.com/microsoft/azurelinux)
+## Links 
+
+  - GitHub: [Azure Linux](https://github.com/microsoft/azurelinux)
   - Direct download [Azure Linux 3.0 x86_64 ISO](https://aka.ms/azurelinux-3.0-x86_64.iso).
   - [Quickstart instructions](https://github.com/microsoft/azurelinux/blob/3.0/toolkit/docs/quick_start/quickstart.md)
 
