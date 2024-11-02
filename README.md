@@ -11,10 +11,15 @@ Goto [MySeq blog and pages](https://myseq.github.io/)
 
 ## History
 
-|         | Hosting | Tools | Theme |
-| ------- | ------- | ----- | ----- |
-| 2023.10 | GitHub Pages | Hugo | Blowfish |
-| 2023.01 | GitHub Pages | Hugo | Terminal |
-| 2015.06 | GitHub Pages | Jekyll | Jekyll-now |
-| 2004.09 | Blogspot | Blogger | custom |
+| YYYY.MM | Hosting      | Tools   | Theme      |
+| ------- | ------------ | ------- | ---------- |
+| 2023.10 | GitHub Pages | Hugo 🧙 | Blowfish 🐡|
+| 2023.01 | GitHub Pages | Hugo    | Terminal   |
+| 2015.06 | GitHub Pages | Jekyll  | Jekyll-now |
+| 2004.09 | Blogspot     | Blogger | custom     |
+
+## Links 
+
+ - <https://myseq.github.io/>
+ - <https://myseq.blogspot.com>
 

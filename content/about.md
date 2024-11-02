@@ -1,5 +1,5 @@
 ---
-title: "🐝 About Myseq 🐜 "
+title: "🧙 About Myseq 🥑 "
 date: 2022-12-21T21:38:06+08:00
 tags: [ "website" ]
 categories: [ "MySeq"  ]
@@ -27,7 +27,7 @@ MYSEQ (Mastering Your Security Essential Quotas)
 -->
 
 ## About
-<!-- 🐛🐜🐞🐝  t-rex :  🦖 --> 
+<!-- 🐛🐜🐞🐝  t-rex :  🦖 🥑 --> 
 <!-- "simplifycybersecurity", "myseq", "🐛", "🐜", "🐞", "🐝" ]  -->
 
 <b><i><mark style="color:#7FFF00;background:#303030">MySeq</mark></i></b> was created to *break down complex cybersecurity concepts into manageable steps, making essential security accessible to all*.
@@ -35,7 +35,7 @@ MYSEQ (Mastering Your Security Essential Quotas)
 It is also a personal website that sharing my thought on <i><b><mark style="color:#8080FF;background:#303030">practicing essential security and simplify Cybersecurity</mark></b></i>. 
 Nonetheless, I also share some programming techniques, mostly tutorials and articles, and a range of topics including Linux 🐧, open source, Python 🐛, docker {{< icon "docker" >}}, Kubernetes, virtualization and {{< icon "code" >}} software development {{< icon "dev" >}}. 
 
-This site is powered by [Hugo](https://gohugo.io) {{< icon "tag" >}}, a static site generator, with [Blowfish](https://github.com/nunocoracao/blowfish) {{< icon "star" >}} theme. It is hosting at {{< icon "github" >}} [GitHub Pages](https://myseq.github.io/).  
+This site is powered by {{<icon "star" >}} [Hugo](https://gohugo.io) 🧙  {{< icon "tag" >}}, a static site generator, with [Blowfish](https://github.com/nunocoracao/blowfish) 🐡 theme. It is hosting at {{< icon "github" >}} [GitHub Pages](https://myseq.github.io/).  
 Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> was hosting in {{< icon "blogger" >}} Blogger.com at <https://myseq.blogspot.com/>. 
 
 > All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
@@ -55,7 +55,8 @@ Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> 
         },
         {  
             "Theme": "Blowfish",  
-            "ColorScheme": "avocado"
+            "ColorScheme": "avocado",
+            "Emojicon": "🥑"
         }
     ]
 }

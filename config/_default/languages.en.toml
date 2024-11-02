@@ -22,8 +22,8 @@ title = "MySeq"
   #copyright = "Copyleft, _right?_ :thinking_face:"
   #copyright = "© Copyleft :t-rex:"
   #copyright = "© Copyleft :rhino:"
-  #copyright = "© Copyleft 🦖"
-  copyright = "© Copyleft 🦏"
+  copyright = "© Copyleft 🦖"
+  #copyright = "© Copyleft 🦏"
 
 [author]
   #name = "Blowfish"
