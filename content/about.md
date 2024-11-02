@@ -55,8 +55,9 @@ Before this, <b><mark style="color:#7FFF00;background:#303030">MySeq</mark></b> 
         },
         {  
             "Theme": "Blowfish",  
+            "Emojicon": "🐡",
             "ColorScheme": "avocado",
-            "Emojicon": "🥑"
+            "ColorEmojicon": "🥑"
         }
     ]
 }
