@@ -23,7 +23,7 @@ draft: false
 
 ## Key Takeaways
 
-The "CISA_KEV" series has been around for 36 months.
+The "CISA_KEV" series has been around for 12 months.
 And we learn some patterns from the analysis, and see some consistencies here.
 
 Those consistencies can provide several advantages for future security planning and vulnerability management:
