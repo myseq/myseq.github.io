@@ -125,6 +125,11 @@
    pageRef = "series"
    weight = 50
 
+[[footer]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 60
+
 
 #######################################
 
