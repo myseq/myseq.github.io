@@ -7,7 +7,7 @@ summary: "$ cat ~/.plan"
 draft: false
 ---
 
-```
+```console
 [root@localhost ~]# finger myseq
 
 Login: myseq                           Name: myseq
