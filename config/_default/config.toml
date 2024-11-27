@@ -42,10 +42,13 @@ googleAnalytics = "G-CQL491X0G6"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[outputFormats]
-  [outputFormats.RSS]
-    mediaType = "application/rss+xml"
-    baseName = "feed"
+#[outputFormats]
+#  [outputFormats.RSS]
+#    mediaType = "application/rss+xml"
+#    baseName = "feed"
+[mediaTypes]
+[mediaTypes."application/rss"]
+suffixes = ["xml"]
 
 [services]
   [services.rss]
@@ -81,3 +84,5 @@ googleAnalytics = "G-CQL491X0G6"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
