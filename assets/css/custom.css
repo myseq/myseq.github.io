@@ -1,19 +1,27 @@
-
 @font-face {
-    font-family: font;
+    font-family: "Fira Code";
     src: url('/fonts/FiraCode-Regular.woff');
+    font-weight: 400;
+    font-style: normal;
 }
 
 html {
-    font-family: font;
+    font-family: "Fira Code";
     font-size: 14pt;
 }
 
 a, a:visited { text-decoration: none; font-weight:bold; }
 a:hover { color: #84cc16; text-decoration: underline; font-weight:bold; }
 
-
-/* For tagcloud */
+/* Custom style for inline code */
+code { 
+    font-size: 14pt; 
+    font-weight: 900;
+    color: #dfff00; 
+    background-color: #3f3f3f; 
+    padding: 0.38em 0.62em; 
+    border-radius: 9px; 
+}
 
 .tagcloud03 {
     width: 880px;
