@@ -134,13 +134,16 @@ In summary, white light is not associated with a single wavelength; rather, it e
 
 
 {{< swatches "#FFBF00" "#7FFF00" "#8080FF" >}}
-
 |  |  |  |
 | :--: | :--: | :--: |
 | Amber/`#FFBF00` | Chartreuse/`#7FFF00` | Blue Bluish/`#8080FF` |
 
-{{< swatches "#303030" "#BDBDBD" "#000000" >}}
+{{< swatches "#ffc107" "#dfff00" "#8080ff" >}}
+|  |  |  |
+| :--: | :--: | :--: |
+| amber2/`#ffc107` | lime/`#DFFF00` | periwinkle/`#8080FF` |
 
+{{< swatches "#303030" "#BDBDBD" "#000000" >}}
 |  |  |  |
 | :--: | :--: | :--: |
 | Charcoal/`#303030` | Grey/`#BDBDBD` | Black/`#000000` |
