@@ -15,12 +15,23 @@ a:hover { color: #84cc16; text-decoration: underline; font-weight:bold; }
 
 /* Custom style for inline code */
 code, c2 { 
-    font-size: 14pt; 
-    font-weight: 800;
+    font-size: 13pt; 
+    font-weight: 600;
+    font-style: italic;
     color: #a1e335; 
     background-color: #3f3f3f; 
-    padding: 0.38em 0.62em; 
-    border-radius: 9px; 
+    padding: 0.18em 0.38em; 
+    border-radius: 12px; 
+}
+
+c3 { 
+    font-size: 13pt; 
+    font-weight: 600;
+    font-style: italic;
+    color: #dfff00; 
+    background-color: #3f3f3f; 
+    padding: 0.18em 0.38em; 
+    border-radius: 12px; 
 }
 
 .tagcloud03 {
