@@ -12,7 +12,28 @@ url: /content/
 I write about *Cybersecurity* in **simple practical** terms.
 {{< /lead >}}
 
-## Security Practices
+## The Strategies
+
+{{< lead >}}
+*Building a Resilient Website with Cybersecurity Key Principles.* 
+{{< /lead >}}
+
+Securing your website begins with <c2>essential security practices</c2>. 
+These include using strong passwords, enabling SSL/TLS encryption, and keeping your software up to date. 
+These steps are non-negotiable to safeguard any site from common threats.
+
+It’s also important to adopt principles like <c2>security through obscurity, not security by obscurity</c2>. 
+The first *uses clever design and techniques* to add extra protection, while the second depends entirely on keeping details hidden—which is risky if those details are ever discovered. 
+
+> While adding layers of complexity can enhance protection, relying solely on secrecy is risky if those hidden details are ever discovered. 
+
+<c2>Simplifying cybersecurity</c2> is another key approach — overcomplicated defenses can lead to mistakes and vulnerabilities. 
+Following the <c2>Ten Immutable Laws of Security</c2> helps us focus on the most critical truths, such as the importance of controlling physical and remote access to your systems. 
+
+> For example, if someone has unrestricted access to your systems —- whether physically or remotely —- your defenses won’t hold up. 
+
+By sticking to these ***strategies***, focusing on the essentials, and simplifying the approachs, we can create a website that is better protected against today’s threats.
+
 
  * [Ten Immutable Laws of Security (by Microsoft)](/immutable_laws/)
  * [Security_through_obscurity, not security_by_obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
