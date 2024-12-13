@@ -14,6 +14,7 @@ draft: false
 
  - **Hacking API: Breaking Web Application Programming Interfaces** (by *Corey J.Ball*)
  - **Friend & Foe: When to Cooperate, When to Compete, and How to Succeed at Both** (by *Maurice Schweitzer, Adam Galinsky*)
+ - **Rapid ChatGPT Developer Guide** (by *Ko Ko, Ian Chen, Ryan Chung*)
 
 
 <!--
