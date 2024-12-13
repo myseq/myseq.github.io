@@ -1,7 +1,7 @@
 ---
 title: "Get ANSI Code with Euclidean Distant"
 date: 2024-11-28T18:18:07+08:00
-tags: [ "ansi", "color", "python", "tools" ]
+tags: [ "ansi", "color", "fun", "python", "tools" ]
 categories: [ "Posts"  ]
 summary: "To get the closest ANSI code based on color code in hexidecimal (for fun)."
 authors:
@@ -9,7 +9,7 @@ authors:
 draft: false
 ---
 {{< lead >}}
-
+*New util to find the closest ANSI color code with Hex value.*
 {{< /lead >}}
 
 > *We all love [cli](/tags/cli/) and <c2>colorful</c2> [console](/tags/console) for our terminal.*
