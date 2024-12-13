@@ -34,11 +34,10 @@ Following the <c2>Ten Immutable Laws of Security</c2> helps us focus on the most
 
 By sticking to these ***strategies***, focusing on the essentials, and simplifying the approachs, we can create a website that is better protected against today’s threats.
 
-
- * [Ten Immutable Laws of Security (by Microsoft)](/immutable_laws/)
- * [Security_through_obscurity, not security_by_obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
  * [Essential Security](/categories/essential/)
+ * [Security_through_obscurity, not security_by_obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
  * [Simplify Cybersecurity](/categories/simplify/)
+ * [Ten Immutable Laws of Security (by Microsoft)](/immutable_laws/)
 
 ### Mozilla.org
 
