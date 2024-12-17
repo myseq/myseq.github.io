@@ -1,6 +1,6 @@
 ---
 title: "Patch Tuesday (2024-12)"
-date: 2024-12-11T17:36:37+08:00
+date: 2024-12-15T16:36:37+08:00
 tags: [ "patchtuesday" ]
 categories: [ "Posts"  ]
 summary: "$ ./patch_tuesday.py -k 2024-dec -vc"
