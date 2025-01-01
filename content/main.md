@@ -67,19 +67,7 @@ Currently, I am busy at R&D and learn everything about clouds ...
 
 ### Research
 
-> `/etc/services`:
->
-> ```
-> restconf    80/tcp
-> restconf    443/tcp
-> netconf     830/tcp     #ssh
-> ```
-
- - [RESTCONFG Protocol](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/168/b_168_programmability_cg/RESTCONF.pdf)
- - [Comparing NetConf, RESTConf, gNMI](https://rayka-co.com/lesson/compare-netconf-restconf-and-gnmi/)
- - [NETCONF and RESTCONF](https://www.ipspace.net/kb/CiscoAutomation/070-netconf.html)
- - [CCNP Enterprise: What are YANG, NETCONF & RESTCONF?](https://www.cbtnuggets.com/blog/certifications/cisco/ccnp-enterprise-what-are-yang-netconf-restconf)
- - [NETCONF: Introduction To An Emerging Networking Standard](https://www.networkcomputing.com/networking/netconf-introduction-emerging-networking-standard)
+All the R&D works have been migrated to [Lab21](/lab21/).
 
 ### Development
 
@@ -89,11 +77,6 @@ Currently, I am busy at R&D and learn everything about clouds ...
       - https://www.youtube.com/watch?v=84NssvoUluY
   1. [Build stunning Data Science WebApp](https://www.youtube.com/watch?v=vXQ6B2XwQ2g)
   1. [Turn Data/AI algorithm into full WebApp](https://www.youtube.com/watch?v=FNCF6PX0dbk)
-  1. [Hugo](https://digitaldrummerj.me/series/blogging-with-hugo/)
-  1. Get up and running with large language models locally. 
-      - [Ollama](https://ollama.com/)
-      - Ollama [library models](https://ollama.com/library)
-      - [Ollama GitHub](https://github.com/ollama/ollama)
 
 ### REST API
 
