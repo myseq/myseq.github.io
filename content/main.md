@@ -67,7 +67,7 @@ Currently, I am busy at R&D and learn everything about clouds ...
 
 ### Research
 
-All the R&D works have been migrated to [Lab21](/lab21/).
+All the R&D works have been migrated to [Lab21](/Lab21/).
 
 ### Development
 
