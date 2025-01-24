@@ -1,6 +1,6 @@
 # Ignore folders 
 .hugo_build.lock
-public
-private
-resources
-firebase
+public/
+private/
+resources/
+firebase/
