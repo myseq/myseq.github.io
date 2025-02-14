@@ -69,7 +69,10 @@ jobs:
         with:
           name: artifact 
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: List artifact contents
+        run: ls -lR public
+
+            #- name: Deploy to GitHub Pages
+            #id: deployment
+            #uses: actions/deploy-pages@v2
 
