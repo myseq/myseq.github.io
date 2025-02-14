@@ -55,14 +55,22 @@ jobs:
       - name: Upload artifact for deployment
         uses: actions/upload-artifact@v4
         with:
+          name: artifact
           path: ./public
+          root: .
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
     needs: build
+
+    defaults:
+      run:
+        working-directory: .
+
     steps:
       - name: Download artifact  
         uses: actions/download-artifact@v4
@@ -70,10 +78,11 @@ jobs:
           name: artifact 
           path: ./
 
-      - name: List artifact contents
-        run: ls -lR 
+      #- name: List artifact contents
+      #  run: ls -lR 
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+      
 
