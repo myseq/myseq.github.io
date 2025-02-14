@@ -78,7 +78,6 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          name: artifact
-          path: ./public
+          artifact_name: artifact
       
 
