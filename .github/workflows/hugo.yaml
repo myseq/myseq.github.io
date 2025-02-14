@@ -68,11 +68,12 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: artifact 
+          path: ./
 
       - name: List artifact contents
-        run: ls -lR public
+        run: ls -lR 
 
-            #- name: Deploy to GitHub Pages
-            #id: deployment
-            #uses: actions/deploy-pages@v2
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
 
