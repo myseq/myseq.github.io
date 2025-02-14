@@ -68,8 +68,6 @@ jobs:
     needs: build
 
     steps:
-      - name: Set working directory
-        working-directory: .
 
       - name: Download artifact  
         uses: actions/download-artifact@v4
@@ -79,5 +77,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          name: artifact
+          path: ./public
       
 
