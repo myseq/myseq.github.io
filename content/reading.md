@@ -10,6 +10,8 @@ draft: false
 *Stupidity is not the lack of knowledge, but the illusion of having it.*
 {{< /lead >}}
 
+> *And I have a personal [wishlist](/wish_list/).* 
+
 ## Jul 2024
 
  - **Hacking API: Breaking Web Application Programming Interfaces** (by *Corey J.Ball*)
