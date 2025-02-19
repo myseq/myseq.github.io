@@ -6,8 +6,7 @@ categories: [ "Posts"  ]
 summary: "An architecture diagram on AI agent, LLM, and RAG."
 authors:
   - "zd"
-  - "xx"
-draft: true
+draft: false
 ---
 {{< lead >}}
 *This diagram is written in `mermaid.js` format.*
