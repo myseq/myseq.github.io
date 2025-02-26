@@ -28,6 +28,27 @@ draft: false
     - Fall 2025 (336 pp)
     - ISBN-13: 9781718504028 (No Strach Press)
 
+ 1. [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch) *(From Scratch)*
+    - By Sebastian Raschka
+    - Sep 2024 (368 pages)
+    - ISBN-13: 9781633437166 
+    > *This is a practical and eminently-satisfying hands-on journey into the foundations of generative AI.*
+    > *We can code a base model without relying on any existing LLM libraries, evolve it into a text classifier, and create a chatbot.*
+
+ 1. [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/): *Building Applications with Foundation Models*
+    - By Chip Huyen
+    - Dec 2024 (534 pages)
+    - ISBN-13: 9781098166304 (O'Reilly Media, Inc.)
+    > *The book provides an overview of AI engineering which differs from traditional ML engineering.*
+    > *AI engineering, as new AI stack, discuss different approaches to evaluating open-ended models, including AI-as-a-judge approach.*
+
+ 1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062): *Master the art of engineering large language models from concept to production*
+    - By Paul Iusztin, Maxime Labonne
+    - Oct 2024 (522 pages)
+    - ISBN-13: 9781836200062 (Packt Publishing)
+    > *Step into the world of LLMs with this practical guide.* 
+    > *It takes you from the fundamentals to deploying advanced applications using LLMOps best practices.*
+
 ## IoT
 
  1. Coral USB Accelerator
