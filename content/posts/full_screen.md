@@ -1,5 +1,5 @@
 ---
-title: "Full Screen"
+title: "Full Screen Game"
 date: 2025-03-15T11:48:04+08:00
 tags: [ "dota", "regedit", "warcraft3" ]
 categories: [ "Others"  ]
