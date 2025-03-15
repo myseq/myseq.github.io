@@ -6,7 +6,7 @@ categories: [ "Others"  ]
 summary: "Full screen configuration for Warcraft III: The Frozen Throne."
 authors:
   - "zd"
-draft: true
+draft: false
 ---
 {{< lead >}}
 *Removing Black Bars for my full screen WarCraft3.*
