@@ -4,6 +4,8 @@ date: 2025-04-17T13:56:40+08:00
 tags: [ "architecture", "qotd" ]
 categories: [ "Posts"  ]
 summary: "Accuracy Vs. Readability"
+authors:
+   - "zd"
 draft: false
 ---
 {{< lead >}}
