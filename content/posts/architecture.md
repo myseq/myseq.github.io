@@ -7,7 +7,7 @@ summary: "Accuracy Vs. Readability"
 draft: false
 ---
 {{< lead >}}
-*In an architecture, ***readability*** *is far more important than accuracy.*
+*In an architecture,* ***readability*** *is far more important than accuracy.*
 {{< /lead >}}
 
 Architecture diagrams are primarily communication tools, not blueprints. 
