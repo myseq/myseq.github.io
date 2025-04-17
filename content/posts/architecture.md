@@ -10,6 +10,6 @@ draft: false
 *In an architecture, ***readability*** *is far more important than accuracy.*
 {{< /lead >}}
 
-Architecture diagrams are primarily communication tools, not blueprints. i
+Architecture diagrams are primarily communication tools, not blueprints. 
 They should help the viewer understand the *big picture, flow, and relationships between components—quickly*.
 
