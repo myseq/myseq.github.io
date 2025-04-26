@@ -17,7 +17,7 @@ draft: false
 A **false negative** happens when a cybersecurity tool misses a real threat. 
 It wrongly says a system is safe. 
 This is worse than false positives. 
-It leaves companies blind to dangers and creates a *false sense of security*..
+It leaves companies blind to dangers and creates a *false sense of security*.
 
 > *This is the most common question I'll ask during an interview.*
 
@@ -31,6 +31,7 @@ Sadly, `false negatives` can turn to *gray rhinos* 🦏[^1].
 Many rely on automated tools that miss these tricky threats.
 Budget constraints, lack of expertise, and overconfidence in tools, has make it wasy to overlook them.
 
+![rhino](/images/rhino.jpg)
 
 ## FN Discovery
 
