@@ -44,14 +44,6 @@ draft: false
     > *The book provides an overview of AI engineering which differs from traditional ML engineering.*
     > *AI engineering, as new AI stack, discuss different approaches to evaluating open-ended models, including AI-as-a-judge approach.*
 
- 1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062)
-    - ***Master the art of engineering large language models from concept to production***
-    - By Paul Iusztin, Maxime Labonne
-    - Oct 2024 (522 pages)
-    - ISBN-13: 9781836200062 (Packt Publishing)
-    > *Step into the world of LLMs with this practical guide.* 
-    > *It takes you from the fundamentals to deploying advanced applications using LLMOps best practices.*
-
  1. [Serious Cryptography](https://nostarch.com/serious-cryptography-2nd-edition) [2nd Ed] 
     - ***A Practical Introduction to Modern Encryption***
     - By Jean-Philippe Aumasson
@@ -59,6 +51,16 @@ draft: false
     - ISBN-13: 9781718503847 (No Strach Press)
     > *This practical guide breaks down the fundamental mathematical concepts at the heart of cryptography.*
     > *You’ll learn about authenticated encryption, secure randomness, hash functions, block ciphers, and public-key techniques such as RSA and elliptic curve cryptography.*
+
+<!--
+ 1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062)
+    - ***Master the art of engineering large language models from concept to production***
+    - By Paul Iusztin, Maxime Labonne
+    - Oct 2024 (522 pages)
+    - ISBN-13: 9781836200062 (Packt Publishing)
+    > *Step into the world of LLMs with this practical guide.* 
+    > *It takes you from the fundamentals to deploying advanced applications using LLMOps best practices.*
+-->
 
 ## IoT
 
