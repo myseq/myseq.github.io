@@ -52,6 +52,20 @@ draft: false
     > *This practical guide breaks down the fundamental mathematical concepts at the heart of cryptography.*
     > *You’ll learn about authenticated encryption, secure randomness, hash functions, block ciphers, and public-key techniques such as RSA and elliptic curve cryptography.*
 
+ 1. [Effective Vulnerability Management](https://www.wiley.com/en-us/Effective+Vulnerability+Management%3A+Managing+Risk+in+the+Vulnerable+Digital+Ecosystem-p-9781394221219)
+    - ***Managing Risk in the Vulnerable Digital Ecosystem***
+    - By Chris Hughes and Nikki Robinson
+    - Mar 2024 (288 pages)
+    - ISBN: 978-1-394-22121-9 (Wiley)
+    - *This book takes a fresh look at a core component of cybersecurity, revealing the practices, processes, and tools that can enable today's organizations to mitigate risk efficiently and expediently in the era of Cloud, DevSecOps and Zero Trust.*
+    - *It enables readers to do away with unnecessary steps, streamlining the process of securing organizational data and operations.*
+    - *It also covers key emerging domains such as software supply chain security and human factors in cybersecurity.*
+    - *You'll learn the important difference between asset management, patch management, and vulnerability management and how they need to function cohesively.*
+    - *Build a real-time understanding of risk through secure configuration and continuous monitoring.*
+    - *Implement best practices like vulnerability scoring, prioritization and design interactions to reduce risks from human psychology and behaviors.*
+    - *Discover new types of attacks like vulnerability chaining, and find out how to secure your assets against them.*
+
+
 <!--
  1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062)
     - ***Master the art of engineering large language models from concept to production***
