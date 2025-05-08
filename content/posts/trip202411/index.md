@@ -3,7 +3,7 @@ title: "My Me-Time Trip"
 date: 2024-11-14T20:24:11+08:00
 tags: [ "trip" ]
 categories: [ "MeTime"  ]
-summary: "First `me time` in 2024."
+summary: "First me-time in 2024 ..."
 authors:
   - "zd"
 draft: false
