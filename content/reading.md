@@ -12,6 +12,10 @@ draft: false
 
 > *And I have a personal [wishlist](/wish_list/).* 
 
+## Apr 2025
+
+ - **LLM Engineer’s Handbook** (by *Paul Iusztin, Maxime Labonne*)
+  
 ## Jul 2024
 
  - **Hacking API: Breaking Web Application Programming Interfaces** (by *Corey J.Ball*)
