@@ -158,10 +158,37 @@ In summary, white light is not associated with a single wavelength; rather, it e
 | :--: | :--: | :--: |
 | Charcoal/`#303030` | Grey/`#BDBDBD` | Black/`#000000` |
 
+### Themes
+
+
+<b><i><center>
+<p style="outline-style:double;background:#303030;">
+<span style="color:#ffc107;background:#212529">Amber/Dark</span> 
+<span style="color:#ffc107;background:#0d6dfd">Amber/Primary</span> 
+<span style="color:#ffc107;background:#dc3545">Amber/Danger</span> 
+<br>
+<span style="color:#dfff00;background:#212529">Chartreuse/Dark</span> 
+<span style="color:#dfff00;background:#0d6dfd">Chartreuse/Primary</span> 
+<span style="color:#dfff00;background:#dc3545">Chartreuse/Danger</span> 
+</p>
+</center></i></b>
+
+```html
+<span style="color:#ffc107;background:#212529">Amber/Dark</span> 
+<span style="color:#ffc107;background:#0d6dfd">Amber/Primary</span> 
+<span style="color:#ffc107;background:#dc3545">Amber/Danger</span> 
+<span style="color:#dfff00;background:#212529">Chartreuse/Dark</span> 
+<span style="color:#dfff00;background:#0d6dfd">Chartreuse/Primary</span> 
+<span style="color:#dfff00;background:#dc3545">Chartreuse/Danger</span> 
+```
+
+<!--
 ```md
 {{</* swatches "#FFBF00" "#7FFF00" "#8080FF" */>}}
 {{</* swatches "#303030" "#BDBDBD" "#808080" */>}}
 ```
+-->
+
 <b><center>
 <span style="color:#7FFF00">Simplicity is </span> 
 <span style="color:#FFBF00">the Ultimate </span> 
