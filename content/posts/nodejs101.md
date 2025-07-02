@@ -28,7 +28,9 @@ While not the latest, this version is *stable and suitable* for quick experiment
 Default repositories always prioritize stability over the latest features.
 This makes then often lag behind the current `Node.js` releases (v22.x).
 
-> Because of that, I choose to install `Node.js` via NodeSource PPA instead of default repositories.
+> Because of that, I choose to install `Node.js` via NodeSource PPA[^1] instead of default repositories.
+
+[^1]: **Personal Package Archive (PPA):** It's a software repository that allows developers to distribute software packages outside of the official repositories.
 
 ## Quickstart
 
