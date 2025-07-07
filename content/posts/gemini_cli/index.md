@@ -80,3 +80,15 @@ To exit the app, type `/quit`.
  - Google Blog: [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 
 
+## Update (7/7/2025)
+
+Here's a 2-min introduction on **Gemini-CLI**.
+It comes with:
+ 
+ - free usage limits: Gemini 2.5 Pro with 1 million token context window
+ - 1K requests per day
+ - open source
+
+{{< youtube id="ZHBWFW8bbe8" title="More Power to your Terminal - Gemini CLI is Free to Use" >}}
+
+
