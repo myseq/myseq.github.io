@@ -13,6 +13,7 @@ draft: false
   - *it is open-source and has* ***cli interface***
   - *it supports 60 request/min and 1K request/day*
   - *it shares technology with Gemini Code Assist*
+  - *it built-in with Google search and webfetch*
 
 {{< /lead >}}
 
