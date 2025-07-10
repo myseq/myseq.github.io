@@ -11,9 +11,8 @@ draft: false
 {{< lead >}}
 *I like* ***Gemini CLI*** *AI agent because:*
   - *it is open-source and has* ***cli interface***
-  - *it supports 60 request/min and 1K request/day*
-  - *it shares technology with Gemini Code Assist*
   - *it built-in with Google search and webfetch*
+  - *it shares technology with Gemini Code Assist*
 
 {{< /lead >}}
 
@@ -91,7 +90,7 @@ Here's a 2-min introduction on **Gemini-CLI**.
 It comes with:
  
  - free usage limits: Gemini 2.5 Pro with 1 million token context window
- - 1K requests per day
+ - 1K requests per day or 60 requests/min
  - open source
 
 {{< youtube id="ZHBWFW8bbe8" title="More Power to your Terminal - Gemini CLI is Free to Use" >}}
