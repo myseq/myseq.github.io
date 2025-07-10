@@ -9,7 +9,11 @@ authors:
 draft: false
 ---
 {{< lead >}}
-***Gemini CLI:*** *your open-source AI agent.*
+*I like* ***Gemini CLI*** *AI agent because:*
+  - *it is open-source and has* ***cli interface***
+  - *it supports 60 request/min and 1K request/day*
+  - *it shares technology with Gemini Code Assist*
+
 {{< /lead >}}
 
 Just follow the quickstart guide at the GitHub repo: [Gemini CLI](https://github.com/google-gemini/gemini-cli).
