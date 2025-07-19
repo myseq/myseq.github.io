@@ -30,7 +30,7 @@ MYSEQ (Mastering Your Security Essential Quotas)
 <!-- 🐛🐜🐞🐝  t-rex :  🦖 🥑 --> 
 <!-- "simplifycybersecurity", "myseq", "🐛", "🐜", "🐞", "🐝" ]  -->
 
-<c2>MySeq</c2> was created to *break down complex cybersecurity concepts into manageable steps, making essential security accessible to all*.
+<mark>MySeq</mark> was created to *break down complex cybersecurity concepts into manageable steps, making essential security accessible to all*.
 
 It is also a personal website that sharing my thought on <i><b><mark style="color:#8080FF;background:#303030">practicing essential security and simplify Cybersecurity</mark></b></i>. 
 Nonetheless, I also share some programming techniques, mostly tutorials and articles, and a range of topics including Linux 🐧, open source, Python 🐛, docker {{< icon "docker" >}}, Kubernetes, virtualization and {{< icon "code" >}} software development {{< icon "dev" >}}. 
@@ -91,7 +91,7 @@ Theme: custom
 ## Links
 
  * MySeq's [SSH public key](https://github.com/myseq.keys). 
- * `MySeq` at [GitHub](https://github.com/myseq/). 
+ * <mark>MySeq</mark> at [GitHub](https://github.com/myseq/). 
 
 > {{< github repo="myseq/myseq" >}}
 
