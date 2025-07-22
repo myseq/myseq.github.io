@@ -19,6 +19,7 @@ url: /about/
 <!--
 ## MySeq Acronym
 
+
 MYSEQ (Mapping Your Security Essentials Quadrants)
 : This focuses on Myseq's ability to map out and analyze different security areas.
 
