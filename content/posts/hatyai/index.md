@@ -6,10 +6,10 @@ categories: [ "WeTime"  ]
 summary: "Short trip to HatYai (2025)."
 authors:
   - "zd"
-draft: true
+draft: false
 ---
 {{< lead >}}
-
+*A short trip to HatYai, Thailand, from Jun 27 till 29.*
 {{< /lead >}}
 
 
