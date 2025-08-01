@@ -95,4 +95,28 @@ It comes with:
 
 {{< youtube id="ZHBWFW8bbe8" title="More Power to your Terminal - Gemini CLI is Free to Use" >}}
 
+## Update (31/7/2025)
+
+This is about the management of `gemini-cli`.
+
+To install the absolute latest version available, just re-run the initial installation cmd:
+
+```console
+xx@pf22:~$ npm install -g @google/gemini-cli
+```
+
+Alternatively, we can use `update` cmd to update the npm package:
+
+```console
+xx@pf22:~$ npm update -g @google/gemini-cli
+```
+
+And, here's the what I get after updating it.
+
+```console
+xx@pf22:~$ gemini -v
+0.1.15
+```
+
+
 
