@@ -38,6 +38,7 @@ url: /online/
 
 ## Others
 
+
 ### Generative AI
 
  - [Gemini](https://gemini.google.com/) by Google.
@@ -45,6 +46,8 @@ url: /online/
    - chatGPT [Playground](https://platform.openai.com/playground?ref=FutureTools.io)
  - [Claude.AI](https://claude.ai/chats) by Anthropic.
  - [POE](https://poe.com/chats) by Quora.
+ - Prompt-friendly codebase: [GitIngest](https://gitingest.com/)
+    - Or just replace `hub` with `ingest` in any GitHub URL.
 
 ### Images
  
