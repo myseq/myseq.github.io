@@ -9,12 +9,33 @@ authors:
 draft: false
 ---
 {{< lead >}}
+*Generate an image where "A close-up photo of a cute beaver holding a cardboard sign that says 'Hello World!' in blue writing. The background is a blurry green forest."*
+{{< /lead >}}
+
+
+![](grok_hello.jpg)
+{{< badge >}}ai_work{{< /badge >}}
+{{< badge >}}grok{{< /badge >}}
+{{< badge >}}jpeg{{< /badge >}}
+
+![](grok_hello_Ghibli.jpg)
+{{< badge >}}ai_work{{< /badge >}}
+{{< badge >}}grok{{< /badge >}}
+{{< badge >}}jpeg{{< /badge >}}
+{{< badge >}}ghibli{{< /badge >}}
+
+![](gemini_helloworld.png)
+{{< badge >}}ai_work{{< /badge >}}
+{{< badge >}}gemini{{< /badge >}}
+
+{{< lead >}}
 *Generate an image where "A close-up photo of a cute beaver holding a cardboard sign that says 'MySeq' in blue writing. The background is a blurry green forest."*
 {{< /lead >}}
 
-![](feature_hello.png)
+![](gemini_myseq.png)
 {{< badge >}}ai_work{{< /badge >}}
+{{< badge >}}gemini{{< /badge >}}
 
-This image is generated with **Gemini** with the *prompt* above.
-See the <mark>ai</mark> tag at the bottom right corner.
+> I like the images generated with **Gemini** and **Grok**.
+> Because it has the <mark>Grok</mark> and <mark>ai</mark> watermarks at the bottom right cornera.
 
