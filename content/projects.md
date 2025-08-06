@@ -10,7 +10,7 @@ draft: false
 | Project | Description | Status | 
 | ------- | ----------- | ------ |
 | [Lab21](/Lab21/) | A series of tutorials for learning different technologies  | 2021 ~  |
-| [太極拳文獻](https://myseq.github.io/69docs/) | Documentation created using MkDocs | Done (2024.11) |
+| 經典[文獻](https://myseq.github.io/69docs/) | Documentation created using MkDocs | Done (2024.11) |
 | 3D Printing | 3d Printing project with [MakerPI](https://www.makerpi3d.com/) | Done (2021) |
 | Drone	| DJI [Mavic Mini 1](https://www.dji.com/mavic-mini) | Done (2020) |
 | RPi	| Raspberry Pi (RPi) Projects - all my work on RPi + PiBang	| Done (2019) |
