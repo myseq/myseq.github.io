@@ -65,6 +65,34 @@ draft: false
     - *Implement best practices like vulnerability scoring, prioritization and design interactions to reduce risks from human psychology and behaviors.*
     - *Discover new types of attacks like vulnerability chaining, and find out how to secure your assets against them.*
 
+ 1. [Building Agentic AI Systems](https://www.packtpub.com/en-us/product/building-agentic-ai-systems-9781801079273)
+    - **Create intelligent, autonomous AI agents that can reason, plan, and adapt**
+    - By Anjanava Biswas and Wrick Taludar
+    - Apr 2025 (288 pages)
+    - ISBN: 9781801079273 (Packt)
+    - <https://www.packtpub.com/en-us/product/building-agentic-ai-systems-9781801079273>
+    - <https://www.oreilly.com/library/view/building-agentic-ai/9781803238753/>
+    - <https://github.com/PacktPublishing/Building-Agentic-AI-Systems>
+    > This book helps to explore in design and create intelligent and autonomous AI agents.
+    > This book dives deep into the principles and practices necessary to unlock the potential of generative AI and agentic systems, and provide valuable insights into cutting-edge AI architectures and functionalities, from foundation to implementation.
+
+    > Understand the foundational concepts of generative AI and the principles of agentic systems.
+    > Develop skills to design AI agents capable of self-reflection, tool utilization, and adaptable planning.
+    > Explore strategies for ensuring ethical transparency and safety in autonomous AI systems.
+    > Learn practical techniques to build effective multi-agent AI collaborations with real-world applications.
+    > Gain insights into designing AI systems with scalability, adaptability, and minimal human intervention
+
+ 1. [30 Agents Every AI Engineer Must Build](https://www.packtpub.com/en-sg/product/30-agents-every-ai-engineer-must-build-9781806109005)
+    - **Transform LLMs into autonomous decision-making vertical agents in healthcare, finance, and beyond**
+    - By Imran Ahmad
+    - Dec 2025
+    - ISBN: 9781806109005 (Packt)
+    - <https://www.packtpub.com/en-sg/product/30-agents-every-ai-engineer-must-build-9781806109005>
+    - <https://www.oreilly.com/library/view/30-agents-every/9781806109012/>
+    > Get to grips with foundational agent principles including perception, memory, reasoning, and planning
+    > Integrate advanced frameworks like LangChain and AutoGPT in your AI agent development
+    > Design agents using advanced prompting, knowledge retrieval, and multi-agent orchestration
+
 
 <!--
  1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062)
