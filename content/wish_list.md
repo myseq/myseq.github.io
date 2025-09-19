@@ -93,6 +93,14 @@ draft: false
     > Integrate advanced frameworks like LangChain and AutoGPT in your AI agent development
     > Design agents using advanced prompting, knowledge retrieval, and multi-agent orchestration
 
+ 1. [The Developer's Guide to AI](https://nostarch.com/developers-guide-to-AI)
+    - From Prompts to Agents
+    - By Jacob Orshalick, Jerry Mannel Reghunadh, and Danny Thompson
+    - Fall 2026
+    - ISBN-13: 9781718504769 (No Starch)
+    - <https://github.com/jorshali/ai-for-developers>
+    > This book teaches you how to integrate and customize large language models (LLMs) and other pre-trained AI models to solve real-world problems.
+
 
 <!--
  1. [LLM Engineer's Handbook](https://www.packtpub.com/en-my/product/llm-engineers-handbook-9781836200062)
