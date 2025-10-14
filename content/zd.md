@@ -23,7 +23,13 @@ This includes <i><b><mark style="color:#8080FF;background:#303030">security stra
 -->
 
 As a **[Cybersecurity Architect](/mindset/)**, my main role focuses on designs and builds secure systems, networks, and applications.
-This includes <i><b><mark style="color:#8080FF;background:#303030">creating technical blueprints for security infrastructure, ensuring system aligns with security standards and best practices, conducting risk assessments, implementing security controls and solutions, threat management and collaborating with IT and development teams to integrate security into system designs. </mark></b></i>
+This includes: 
+ - <i><b><mark style="color:#8080FF;background:#303030">Creating technical blueprints</mark></b> for security infrastructure</i>
+ - <i><b><mark style="color:#8080FF;background:#303030">Ensuring system aligns with security standards and best practices</mark></b></i>
+ - <i><b><mark style="color:#8080FF;background:#303030">Conducting risk assessments</mark></b></i>
+ - <i><b><mark style="color:#8080FF;background:#303030">Implementing security controls and solutions</mark></b></i>
+ - <i><b><mark style="color:#8080FF;background:#303030">Threat management</mark></b></i> and 
+ - <i><b><mark style="color:#8080FF;background:#303030">Collaborating with IT and development teams to integrate security into system designs. </mark></b></i>
 
 I'm also a **[cmdline geek](/tags/cli/)**, and spends my time in a few things, such as: - *Network security (TCP/IP), Coding (Android apps, Python/Ruby, Markdown), Clouds (Google/Azure/AWS), Containers (Kubernetes/docker, LCX), IoT (ESP8266 and Raspberry Pi), vim and zsh/bash*.
 
