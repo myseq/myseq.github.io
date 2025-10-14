@@ -48,7 +48,7 @@ Before this, <c2>MySeq</c2> was hosting in {{< icon "blogger" >}} Blogger.com at
 {
     "Site": "MySeq",
     "BaseURL": "https://myseq.github.io",
-    "Author": "zd",
+    "Author": [ "zd", "xx" ],
     "Config": [
         {  
             "Font": "Fira Code",  
