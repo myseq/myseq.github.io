@@ -1,19 +1,19 @@
 ---
-title: "ZD"
+title: "ME"
 date: 2022-03-31T21:32:54+08:00
 tags: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
 categories: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
 summary: "Mastering Thought: Once Learned, There's No Turning Back!"
 draft: false
-slug: /zd
-url: /zd/
+slug: /me
+url: /me/
 ---
 
 ![The fire starts here](/img/proton-bkg.png)
 
-## About ZD
+## About Me
 
-### 1st-Half 🦖
+### 1st-Half (xx) 🦖
 
 > <i><b><mark style="color:#FFBF00;background:#303030">Knowledge is Power.</mark></b></i> 🦖
 
@@ -35,7 +35,7 @@ I'm also a **[cmdline geek](/tags/cli/)**, and spends my time in a few things, s
 
 Also, I've ***[always been fascinated by how I could make a program (or a piece of code) runs more efficiently](/tags/async/)*** or how I could organize the code so it is easy to change.
 
-### 2nd-Half 🦏
+### 2nd-Half (zd) 🦏
 
 > <i><b><mark style="color:#FFBF00;background:#303030">Mastering Thought and No Turning Back!</mark></b></i> 🦏
 
