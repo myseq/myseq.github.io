@@ -3,8 +3,8 @@ title: "Purkinje Effect"
 date: 2025-10-22T03:33:54+08:00
 tags: [ "color" ]
 categories: [ "Others"  ]
-summary: "short desc."
-draft: true
+summary: "Why glow-in-dark always in green? Not blue/yellow/red/white."
+draft: false
 ---
 {{< lead >}}
 *Human eye sensitivity shifts significantly between bright light (daytime) and very low light (nightime) conditions.*
