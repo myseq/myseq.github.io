@@ -2,7 +2,7 @@
 title: "Listen Through Walls"
 date: 2025-11-17T07:59:44+08:00
 tags: [ "laser", "infrared", "spying" ]
-categories: [ "Posts"  ]
+categories: [ "Posts", "YT"  ]
 summary: "Built a laser mic for spying."
 draft: false
 ---
