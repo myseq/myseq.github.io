@@ -1,7 +1,7 @@
 ---
 title: "GMKtec K8 PLUS"
 date: 2025-12-03T12:35:02+08:00
-tags: [ "gmktec" ]
+tags: [ "gmktec", "proxmox" ]
 categories: [ "Posts"  ]
 summary: "Received my GMKtec K8 mini PC today."
 authors:
@@ -10,6 +10,7 @@ draft: false
 ---
 {{< lead >}}
 *My GMKtec comes with 2TB disk and 64GB memory.*
+*And I'm installing Proxmox on it.*
 {{< /lead >}}
 
 Here's the teardown of it:
