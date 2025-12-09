@@ -17,7 +17,7 @@ Here's the teardown of it:
 |  |  |
 |:-|:-|
 | **Brand** | GMKtec |
-| **CPU Model** | AMD Ryzen 7 |
+| **CPU Model** | AMD Ryzen 7 (8 cores, 16 threads) |
 | **CPU Speed** | 3.8 ~ 5.1 GHz |
 | **USB Ports** | 3x3.2 2x4.0i (type-c) | 
 | **RAM** | 64GB (DDR5) |
