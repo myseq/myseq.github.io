@@ -2,7 +2,7 @@
 title =  "Cybersecurity vs Database Engineering"
 date = 2022-12-24T21:47:16+08:00
 author = "zd"
-tags = [ "qotd" ]
+tags = [ "motd" ]
 categories = [ "Blogger" ]
 summary = "What is the difference between Cybersecurity and Database engineering?"
 draft = false

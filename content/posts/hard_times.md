@@ -1,7 +1,7 @@
 ---
 title: "Hard Times"
 date: 2025-05-21T19:31:09+08:00
-tags: [ "qotd", "warfare" ]
+tags: [ "motd", "warfare" ]
 categories: [ "Posts"  ]
 summary: "From Those Who Remain ..."
 draft: false

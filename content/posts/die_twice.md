@@ -1,7 +1,7 @@
 ---
 title: "We Die Twice"
 date: 2025-02-03T18:19:14+08:00
-tags: [ "qotd" ]
+tags: [ "motd" ]
 categories: [ "Posts"  ]
 summary: "They say we die twice...."
 draft: false

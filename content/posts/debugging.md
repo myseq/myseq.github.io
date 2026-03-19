@@ -1,7 +1,7 @@
 ---
 title: "Debugging"
 date: 2024-02-06T20:07:25+08:00
-tags: [ "debug", "python", "qotd" ]
+tags: [ "debug", "python", "motd" ]
 categories: [ "Posts"  ]
 summary: "Debugging is twice as hard as writing the code."
 draft: false
