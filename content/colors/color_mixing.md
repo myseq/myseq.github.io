@@ -14,8 +14,8 @@ They follow completely different rules.
 
 ## Additive Color Mixing (Light)
 
-Additive means adding more light makes things brighter.
-Used in:
+Additive means **adding more light makes things brighter**.
+Often used in:
 
  - Screens (phones, TVs, monitors)
  - Projectors
@@ -47,7 +47,7 @@ The screen never uses “yellow paint”—it's just light mixing.
 ## Subtractive Color Mixing (Pigment)
 
 Subtractive means **adding more pigment makes things darker**.
-Used in:
+Often used in:
 
  - Paint
  - Printer ink
@@ -62,7 +62,6 @@ Primary colors:
 
 Commonly called CMY (or CMYK for printing).
 
-👉 How it works
 Each pigment absorbs (“subtracts”) certain wavelengths:
 
  - Cyan absorbs red
@@ -76,7 +75,7 @@ Mix results:
  - Yellow + Cyan = Green
  - Cyan + Magenta + Yellow (strong pigments) = Almost black
 
-| (Printers add black ink “K” for deeper blacks)
+> (Printers add black ink “K” for deeper blacks)
 
 Pigments work by removing (absorbing) light.
 Whatever light is not absorbed gets reflected to your eyes.
