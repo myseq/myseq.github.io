@@ -19,6 +19,10 @@ Light behaves like a wave, so color has its own:
 
 Both descrube the same light wave, just in different ways.
 
+<!--more-->
+
+{{< katex >}}
+
 ### 📏 Wavelength (λ)
 
 Think of wavelength as the **distance between two wave peaks**.
@@ -61,6 +65,7 @@ Where:
 
  - \(c\) = speed of light (about 300,000 km/s)
  - \(λ\) = wavelength
+ - \(\lambda\) = wavelength
  - \(f\) = frequency
 
 This means:
