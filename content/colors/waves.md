@@ -50,10 +50,11 @@ Light frequency ranges roughly from 400 THz (red) to 790 THz (violet).
 
 ## 🔗 How Wavelength and Frequency Are Connected
 
-They are tied together by the speed of light:
+They are tied together by the speed of light: \(c = \lambda \cdot ⋅f\) 
 
 $$
  c = λ ⋅f 
+ c = \lambda \cdot f
 $$
 
 Where:
