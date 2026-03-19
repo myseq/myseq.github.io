@@ -1,7 +1,7 @@
 ---
 title: "Tax"
 date: 2025-11-20T11:03:57+08:00
-tags: [ "qotd" ]
+tags: [ "motd" ]
 categories: [ "Posts"  ]
 summary: "Tax vs Fine"
 draft: false

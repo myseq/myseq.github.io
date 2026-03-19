@@ -1,7 +1,7 @@
 ---
 title: "Managing Cybersecurity With AI"
 date: 2024-05-11T05:50:40+08:00
-tags: [ "cybersecurity", "infosec", "leadership", "qotd" ]
+tags: [ "cybersecurity", "infosec", "leadership", "motd" ]
 categories: [ "Posts"  ]
 summary: "How do we go about leading a security team alongside Generative AI?"
 draft: false

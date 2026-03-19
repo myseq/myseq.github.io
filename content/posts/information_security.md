@@ -2,7 +2,7 @@
 title =  "What is Information Security?"
 date = 2020-09-03T22:17:28+08:00
 author = "zd"
-tags = [ "infosec", "qotd" ]
+tags = [ "infosec", "motd" ]
 categories = [ "Blogger" ]
 summary = "Intelligence vs Innovation."
 draft = false

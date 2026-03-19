@@ -2,7 +2,7 @@
 title =  "Think In Graphs"
 date = 2021-01-21T22:00:59+08:00
 author = "zd"
-tags = [ "qotd" ]
+tags = [ "motd" ]
 categories = [ "Blogger" ]
 summary = "Defenders think in lists. Attackers think in graphs."
 draft = false
