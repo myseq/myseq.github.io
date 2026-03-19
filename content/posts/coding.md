@@ -1,7 +1,7 @@
 ---
 title: "Coding"
 date: 2025-07-08T19:36:08+08:00
-tags: [ "coding", "qotd" ]
+tags: [ "coding", "motd" ]
 categories: [ "Posts"  ]
 summary: "Coding and errors."
 draft: false

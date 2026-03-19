@@ -1,7 +1,7 @@
 ---
 title: "Answer 🩵 Question"
 date: 2023-04-01T11:50:43+08:00
-tags: [ "qotd" ]
+tags: [ "motd" ]
 categories: [ "Posts"  ]
 summary: "🍷 🩵 🍺"
 draft: false
