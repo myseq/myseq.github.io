@@ -19,7 +19,6 @@ Light behaves like a wave, so color has its own:
 
 Both descrube the same light wave, just in different ways.
 
-<!--more-->
 
 {{< katex >}}
 
