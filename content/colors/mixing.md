@@ -1,6 +1,6 @@
 ---
 title: "Color Mixing: Light vs Paint"
-date: 2026-02-24T11:47:18+08:00
+date: 2026-02-11T13:17:18+08:00
 tags: [ "color", "fun", "x2" ]
 categories: [ "Others" ]
 summary: "Light (screens, LEDs) and pigments (paint, ink) follow completely different rules."

@@ -1,6 +1,6 @@
 ---
 title: "Colors: Wavelength and Frequency"
-date: 2026-02-22T11:47:18+08:00
+date: 2026-02-04T17:47:18+08:00
 tags: [ "color", "fun", "x2" ]
 categories: [ "Others" ]
 summary: "Simple breakdown of how color, wavelength and frequency relate to each other."
