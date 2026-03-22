@@ -8,6 +8,9 @@ series: [ "Colors" ]
 series_order: 2
 draft: false
 ---
+{{< lead >}}
+*There are 2 light sources: Additive system and Subtractive system.*
+{{< /lead >}}
 
 Color mixing works differently depending on whether you're dealing with **light** (screens, LEDs) or **pigments** (paint, ink).
 They follow completely different rules.

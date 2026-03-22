@@ -8,6 +8,9 @@ series: [ "Colors" ]
 series_order: 1
 draft: false
 ---
+{{< lead >}}
+*Color/Light vs Wavelength vs Frequency*
+{{< /lead >}}
 
 ## What Is Color, Really?
 
