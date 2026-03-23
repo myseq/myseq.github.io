@@ -3,24 +3,23 @@ title: "Color Visibility"
 date: 2026-02-26T19:07:18+08:00
 tags: [ "color", "fun", "x2" ]
 categories: [ "Others" ]
-summary: "Color 13432 is commonly known as National School Bus Glossy Yellow."
+summary: "Explain why amber-yellow (the school-bus yellow) is more visible at dawn/dusk than chartreuse."
 series: [ "Colors" ]
 series_order: 6
 draft: false
 ---
 {{< lead >}}
-*Color visibility*.
+*Here, we use real scientific and regulatory sources, to explain why amber-yellow (the school-bus yellow) is more visible at* ***dawn/dusk*** *than chartreuse*.
 {{< /lead >}}
 
-Here's a simplified spectral order:
+Here's a simplified spectral order and the position of chartreuse:
 
 ```
 Violet → Blue → Cyan → Green → Yellow → Orange → Red
+                             ^
+                             |
+                        chartreuse
 ```
-
-
-
-
 
 ## School Bus vs Chartreuse
 
