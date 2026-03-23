@@ -12,3 +12,5 @@ draft: false
 *After being away for a while, I'm* ***finally back.***
 {{< /lead >}}
 
+I've re-uploaded a series of post on [Colors](/series/colors/) including a few posts that missed out in the past few months.
+ 
