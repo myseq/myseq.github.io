@@ -1,6 +1,6 @@
 ---
 title: "Color Temperature"
-date: 2026-02-19T15:47:18+08:00
+date: 2026-02-13T15:47:18+08:00
 tags: [ "color", "fun", "x2" ]
 categories: [ "Others" ]
 summary: "How color temperature (warm vs cool light) affects what I see."
