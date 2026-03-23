@@ -136,5 +136,12 @@ Here is the real‑world, evidence‑based explanation:
 
     The color was chosen at the historic national conference that established school bus safety standards.
 
+### Why Not Chartreuse?
 
+Even though chartreuse is bright, it is:
+
+ - less legible for text
+ - unstable under varied lighting
+ - less visible at dawn/dusk compared to yellow‑orange
+ - never standardized for transportation safety
 
