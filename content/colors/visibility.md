@@ -15,16 +15,16 @@ draft: false
 Here's a simplified spectral order and the position of chartreuse:
 
 ```
-Violet → Blue → Cyan → Green → Yellow → Orange → Red
-                             ^       ^^
-                             |       ||
-                        chartreuse   ||
-                                  13432
-                                      |
-                                     Amber
+Violet  -→  Blue  -→  Cyan  -→  Green  -→  Yellow  -→  Orange  -→  Red
+                                       ^         ^ ^
+                                       |         | |
+                                  chartreuse     | |
+                                             13432 |
+                                                   |
+                                                Amber
 ```
 
-Let's focus on these 3 colors: chartreuse, 13432, and amber.
+Let's focus on these 3 colors: *Amber, 13432, and chartreuse*.
 
 ## Spectral Wavelengths
 
@@ -72,23 +72,23 @@ This stability is one of the reasons why 13432 is a safety standard color.
 
 Here is the real‑world, evidence‑based explanation:
 
- 1. Highest Visibility in Low Light
+ 1. **Highest Visibility in Low Light**
     
     School Bus Yellow is optimized to be:
 
      - easily detected in early morning and late afternoon,
-     - visible through fog, haze, rain, and indirect light.
+     - visible through **fog, haze, rain, and indirect light**.
 
-    Chosen because it made buses more conspicuous during dawn/dusk when children travel.
+    Chosen because it made buses more conspicuous during ***dawn/dusk*** when children travel.
 
- 1. Maximum Legibility for Black Lettering
+ 1. **Maximum Legibility for Black Lettering**
     
     Black text (e.g., “SCHOOL BUS”) is most readable on this specific yellow‑orange background. 
     This was a deliberate design requirement in 1939.
 
- 1. Human Vision Sensitivity
+ 1. **Human Vision Sensitivity**
 
-    Color 13432 sits in the middle of the peak sensitivity range of red + green cones, the two most dominant cones in the eye.
+    Color 13432 sits in the middle of the peak sensitivity range of **red + green cones**, the two most dominant cones in the eye.
 
     **Result:**
 
@@ -96,7 +96,7 @@ Here is the real‑world, evidence‑based explanation:
      - Better edge detection
      - Better peripheral visibility
 
- 1. Standardized for Safety Since 1939
+ 1. **Standardized for Safety Since 1939**
 
     The color was chosen at the historic national conference that established school bus safety standards.
 
