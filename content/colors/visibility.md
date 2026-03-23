@@ -46,41 +46,6 @@ Let's focus on these 3 colors: chartreuse, 13432, and amber.
  - Strongly stimulates green cones, but less effective at triggering red cones.
  - Very bright in daylight, but reduces visibility at dawn/dusk.
 
-
-## School Bus vs Chartreuse
-
-| Feature | School-Bus | Chartreuse |
-| :------ | :--------- | :--------- | 
-| Position in spectrum | Between yellow -> orange | Between yellow -> green |
-| Mix type | Yellow + Orange | Yellow + Green |
-| Resulting hue | Warm, amber-like, golden | Bright yellow-green |
-| Visibility | Extremely high visibility, optimized for human peripheral vision | Also very visible but shifts toward green |
-| Official use | Mandatory for US/Canada school buses for safety | Used for safety vests, neon signs, high-visiblity gear |
-| Pyschological impact | Warm, cautionary, attention-grabbing | Energetic, high-visility, more "neon" |
-| Lighting response | Appears more orange in warm light | Appears more green in cool light |
-
-## 13432 vs Chartreuse
-
-Yellow-Orange (School-Bus):
-
- - Falls in wavelength range that strongly stimulates **both red and green cones**, peaking within human visual sensitivity.
- - This makes it particularly visible at *dawn, dusk, for, and rain*.
- - Chosen specifically for **safety, readability, and long-distance visibility**.
-
-Chartreuse:
-
- - Sits between green and yellow, closer to the peak sensitivity of human eye.
- - Typically used for: safety vests, worker jackets, some emergency signage.
- - But Chartreuse lacks the universal standardization and associated safety regulations that school-bus yellow has.
-
-## Why School-Bus Use 13432
-
-Even though chartreuse is extremely visible, it is not used for school-bus because:
-
- 1. School-bus yellow has been standardized since 1939.
- 1. The chosen yellow-orange provides maximum readability of black letters, strong visibility at dawn/dusk, and excellent peripheral detection.
- 1. Chartreuse shifts toward green under cool light, and reducing reliability in varied lighting.
-
 ## Simulation Under Diff Lighting
 
 The simulation shows how each color behaves under:
@@ -125,12 +90,11 @@ Here is the real‑world, evidence‑based explanation:
 
     Color 13432 sits in the middle of the peak sensitivity range of red + green cones, the two most dominant cones in the eye.
 
+    **Result:**
 
-**Result:**
-
- - Stronger perceived brightness
- - Better edge detection
- - Better peripheral visibility
+     - Stronger perceived brightness
+     - Better edge detection
+     - Better peripheral visibility
 
  1. Standardized for Safety Since 1939
 
@@ -144,4 +108,37 @@ Even though chartreuse is bright, it is:
  - unstable under varied lighting
  - less visible at dawn/dusk compared to yellow‑orange
  - never standardized for transportation safety
+
+
+### 13432 vs Chartreuse
+
+| Feature | 13432 (School-Bus) | Chartreuse |
+| :------ | :--------- | :--------- | 
+| Position in spectrum | Between yellow -> orange | Between yellow -> green |
+| Mix type | Yellow + Orange | Yellow + Green |
+| Resulting hue | Warm, amber-like, golden | Bright yellow-green |
+| Visibility | Extremely high visibility, optimized for human peripheral vision | Also very visible but shifts toward green |
+| Official use | Mandatory for US/Canada school buses for safety | Used for safety vests, neon signs, high-visiblity gear |
+| Pyschological impact | Warm, cautionary, attention-grabbing | Energetic, high-visility, more "neon" |
+| Lighting response | Appears more orange in warm light | Appears more green in cool light |
+
+**13432/Yellow-Orange (School-Bus)**:
+
+ - Falls in wavelength range that strongly stimulates **both red and green cones**, peaking within human visual sensitivity.
+ - This makes it particularly visible at *dawn, dusk, for, and rain*.
+ - Chosen specifically for **safety, readability, and long-distance visibility**.
+
+**Chartreuse**:
+
+ - Sits between green and yellow, closer to the peak sensitivity of human eye.
+ - Typically used for: safety vests, worker jackets, some emergency signage.
+ - But Chartreuse lacks the universal standardization and associated safety regulations that school-bus yellow has.
+
+### Why School-Bus Use 13432
+
+Even though chartreuse is extremely visible, it is not used for school-bus because:
+
+ 1. School-bus yellow has been standardized since 1939.
+ 1. The chosen yellow-orange provides maximum readability of black letters, strong visibility at dawn/dusk, and excellent peripheral detection.
+ 1. Chartreuse shifts toward green under cool light, and reducing reliability in varied lighting.
 
