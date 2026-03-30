@@ -3,8 +3,8 @@ title: "False Negative Discovery"
 date: 2026-03-30T17:57:33+08:00
 tags: [ "cybersecurity", "false_negative", "vulnmgmt" ]
 categories: [ "Posts"  ]
-summary: ""
-draft: true
+summary: "Discovering the undetectable blind-spot."
+draft: false
 ---
 {{< lead >}}
 *False Nagative could leave a* ***blind spot*** *that organization unaware.*
