@@ -7,13 +7,13 @@ summary: "Discovering the undetectable blind-spot."
 draft: false
 ---
 {{< lead >}}
-*False Nagative could leave a* ***blind spot*** *that organization unaware.*
+*False Nagative (FN) could leave a* ***blind spot*** *that organization unaware.*
 {{< /lead >}}
 
-In the context of vulnerability management, a **false negative** occurs when a security scanner fails to detect an existing vulnerability.
+In the context of vulnerability management, a **false negative** (FN) occurs when a security scanner fails to detect an existing vulnerability.
 Essentially, a threat is present in the system, but the security tools report that the system is clean. 
 
-This is often considered the most dangerous outcome in cybersecurity because it creates a **false sense of security**, leaving a "blind spot" that attackers can exploit while the organization remains unaware. 
+This is often considered the most dangerous outcome in cybersecurity because it creates a **false sense of security**, leaving a *"blind spot"* that attackers can exploit while the organization remains unaware. 
 
 ## What Lead to FN?
 
@@ -28,9 +28,9 @@ There are several technical and operational factors can lead to a missed vulnera
 
 ## Risk Profile
 
-It is also helpful to comapre between **False Negative and False Positive** to understand the specifric risk profile:
+It is also helpful to compare between **False Negative and False Positive** to understand the specific risk profile:
 
-| Feature | False Negative | False Positive |
+| Feature | False Negative (FN) | False Positive |
 | :------ | :------------- | :------------- |
 | Definition | A vulnerability exists but is **not** flagged. | A vulnerability **does not** exist but is flagged. |
 | User Perception | "We are safe" (incorrect) | "We have a problem" (incorrect) |
@@ -50,7 +50,7 @@ But organization can use a "defense in depth" strategy to catch what a scanner m
 
  1. **Behavioral Analysis**: Use EDR to watch for suspicious behavior rather than just looking for known signatures.
 
- 1. **Detect The Undetectable**: Discover vulnerability with customized script to [detect the undetectable](/posts/false_negative/).
+ 1. **Detect The Undetectable**: Discovering vulnerability with customized script by [detect the undetectable](/posts/false_negative/).
 
-Start making sure **false negative discovery** be part of your cybersecurity strategy.
+Start making sure **false negative discovery** also be part of your cybersecurity strategy today.
 
