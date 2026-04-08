@@ -36,30 +36,30 @@ This post explains what each tool does and when to use it.
 
 ## 1. LXC (Linux Containers)
 
-### What it is
+**What it is**
 
 LXC provides **OS‑level virtualization** on Linux.
 
-### How it works
+**How it works**
 
 *   Containers share the host Linux kernel
 *   Each container has its own userspace
 *   Feels like a small VM
 
-### Strengths
+**Strengths**
 
 *   Very low overhead
 *   Starts fast
 *   Long‑running and stable
 *   Works well with Proxmox
 
-### Weaknesses
+**Weaknesses**
 
 *   Linux only
 *   Requires Linux host
 *   Isolation is weaker than full VM
 
-### Best use cases
+**Best use cases**
 
 *   Homelabs
 *   Always‑on services
@@ -70,31 +70,31 @@ LXC provides **OS‑level virtualization** on Linux.
 
 ## 2. WSL2 (Windows Subsystem for Linux)
 
-### What it is
+**What it is**
 
 WSL2 runs **Linux inside Windows**.
 
-### How it works
+**How it works**
 
 *   Uses a real Linux kernel
 *   Runs inside a managed VM
 *   Highly integrated with Windows
 
-### Strengths
+**Strengths**
 
 *   No dual‑boot needed
 *   Excellent Windows integration
 *   Fast file and command access
 *   Ideal for developers
 
-### Weaknesses
+**Weaknesses**
 
 *   Windows only
 *   Not designed as a server
 *   Limited networking realism
 *   Not production‑like
 
-### Best use cases
+**Best use cases**
 
 *   Software development
 *   Learning Linux commands
@@ -105,30 +105,30 @@ WSL2 runs **Linux inside Windows**.
 
 ## 3. Multipass
 
-### What it is
+**What it is**
 
 Multipass is a **simple VM launcher**, focused on Ubuntu.
 
-### How it works
+**How it works**
 
 *   Uses real virtual machines
 *   Abstracts the hypervisor
 *   CLI‑driven experience
 
-### Strengths
+**Strengths**
 
 *   Very easy to use
 *   Strong isolation
 *   Clean Ubuntu images
 *   Works on Windows, macOS, Linux
 
-### Weaknesses
+**Weaknesses**
 
 *   Ubuntu only
 *   Heavier than containers
 *   Less control than full hypervisor
 
-### Best use cases
+**Best use cases**
 
 *   Testing Ubuntu versions
 *   Short‑lived labs
@@ -153,19 +153,19 @@ Multipass is a **simple VM launcher**, focused on Ubuntu.
 
 ## How to Choose (Quick Guide)
 
-### Choose **LXC** if:
+Choose **LXC** if:
 
 *   You run Linux on the host
 *   You want lightweight servers
 *   You use Proxmox or homelab setups
 
-### Choose **WSL2** if:
+Choose **WSL2** if:
 
 *   You use Windows daily
 *   You are a developer
 *   You need Linux tools, not servers
 
-### Choose **Multipass** if:
+Choose **Multipass** if:
 
 *   You want real VMs
 *   You need clean Ubuntu instances
@@ -178,7 +178,6 @@ Multipass is a **simple VM launcher**, focused on Ubuntu.
 Many people compare these tools directly.
 
 That misses the point.
-
 They live at **different layers**:
 
 *   **WSL2** is for developer productivity

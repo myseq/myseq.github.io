@@ -34,29 +34,29 @@ Before details, here is the one‑line summary:
 
 ## 1. Virtual Machine (VM)
 
-### What it is
+**What it is**
 
 A **virtual computer** with its own operating system.
 
-### How it works?
+**How it works**
 
 *   Hardware is virtualized by a hypervisor.
 *   Each VM runs a full OS kernel.
 *   Examples: KVM, VMware, Hyper‑V.
 
-### Strengths
+**Strengths**
 
 *   Strong isolation
 *   High security boundary
 *   Can run different OS types (Linux, Windows)
 
-### Weaknesses
+**Weaknesses**
 
 *   High CPU and memory usage
 *   Slow boot time
 *   More patching and maintenance
 
-### Best use cases
+**Best use cases**
 
 *   Production workloads
 *   Security‑sensitive systems
@@ -66,29 +66,29 @@ A **virtual computer** with its own operating system.
 
 ## 2. LXC (Linux Containers)
 
-### What it is
+**What it is**
 
 **OS‑level virtualization** that feels like a VM.
 
-### How it works
+**How it works**
 
 *   Containers share the host Linux kernel.
 *   Each container has its own filesystem, users, and processes.
 *   Common in Proxmox environments.
 
-### Strengths
+**Strengths**
 
 *   Very low overhead
 *   Fast boot
 *   Looks and behaves like a real server
 
-### Weaknesses
+**Weaknesses**
 
 *   Linux only
 *   Weaker isolation than VM
 *   Kernel issues affect all containers
 
-### Best use cases
+**Best use cases**
 
 *   Homelabs
 *   Internal services
@@ -99,30 +99,30 @@ A **virtual computer** with its own operating system.
 
 ## 3. Docker (Application Containers)
 
-### What it is
+**What it is**
 
 An **application packaging format**.
 
-### How it works
+**How it works**
 
 *   One main app per container
 *   Only app and dependencies are included
 *   Uses images and layers
 
-### Strengths
+**Strengths**
 
 *   Extremely lightweight
 *   Fast deployment
 *   Easy rollback and replacement
 *   Strong ecosystem
 
-### Weaknesses
+**Weaknesses**
 
 *   Not designed as a “server”
 *   Containers are disposable by design
 *   Needs external tools for orchestration
 
-### Best use cases
+**Best use cases**
 
 *   Microservices
 *   CI/CD pipelines
