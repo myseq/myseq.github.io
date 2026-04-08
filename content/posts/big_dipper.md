@@ -10,12 +10,9 @@ draft: false
 *The Big Dipper is a famous asterism (star pattern) of seven bright stars and visible year-round in the Northern Hemisphere.
 {{< /lead >}}
 
-It helps locate Polaris (the North Star) and is used for navigation, appearing highest in the sky during spring.
-
-
-<img align="left" src="/images/jeep.gif" alt="Jeep" width="48" height="48" style="vertical-align:middle;margin:0px 5    0px">
-
 ![Alkaid](/images/alkaid.jpg)
+
+It helps locate Polaris (the North Star) and is used for navigation, appearing highest in the sky during spring.
 
 ![4 Seasons](/images/4_seasons.jpg)
 
