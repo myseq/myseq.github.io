@@ -60,6 +60,8 @@ Cool Light (5000K - 6500K) contains more **blue wavelengths** and has a neutral 
  - Yellow part looks subdued.
  - Example: *imagine a tennis ball under daylight — it looks more green than yellow.*
 
+![](/colors/chartreuse_in3.png)
+
 *** 🧠 Why? ***
 
 Charetreuse = yellow + green

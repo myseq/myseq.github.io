@@ -68,6 +68,8 @@ The simulation shows how each color behaves under:
 
 This stability is one of the reasons why 13432 is a safety standard color. 
 
+![](/colors/3_colors.png)
+
 ## Why 13432 is the Standard
 
 Here is the real‑world, evidence‑based explanation:
@@ -122,6 +124,9 @@ Even though chartreuse is bright, it is:
 | Pyschological impact | Warm, cautionary, attention-grabbing | Energetic, high-visility, more "neon" |
 | Lighting response | Appears more orange in warm light | Appears more green in cool light |
 
+
+![](/colors/3_colors2.png)
+
 **13432/Yellow-Orange (School-Bus)**:
 
  - Falls in wavelength range that strongly stimulates **both red and green cones**, peaking within human visual sensitivity.
@@ -141,4 +146,7 @@ Even though chartreuse is extremely visible, it is not used for school-bus becau
  1. School-bus yellow has been standardized since 1939.
  1. The chosen yellow-orange provides maximum readability of black letters, strong visibility at dawn/dusk, and excellent peripheral detection.
  1. Chartreuse shifts toward green under cool light, and reducing reliability in varied lighting.
+
+![](/colors/colors_visibility.png)
+
 
