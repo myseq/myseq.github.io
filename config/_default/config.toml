@@ -23,6 +23,7 @@ googleAnalytics = "G-CQL491X0G6"
 # 0.123 makes Capitalized Headings/Tags.
 capitalizeListTitles = false    # Introducted in v0.123.3.
 titleCaseStyle = 'none'         # Keep tags as all lowercase
+slugReplacement = "_"
 
 [pagination]
   disableAliases = false
