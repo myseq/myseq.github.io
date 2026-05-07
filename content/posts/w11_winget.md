@@ -18,6 +18,8 @@ Here's how I install some essential tools in Windows 11 OS using *cmdline*.
 PS > winget install Python.Python.3.13
 PS > winget install Git.Git
 PS > winget install GitHub.cli
+PS > winget install -e --id Microsoft.WindowsTerminal
 ```
+
 
 
