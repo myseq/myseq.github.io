@@ -1,6 +1,6 @@
 # MySeq.github.io
 
-Goto [MySeq blog and pages](https://myseq.github.io/)
+Goto [![Website][badge_blog]][link_ghpages]
 
  - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
 
@@ -20,16 +20,17 @@ Goto [MySeq blog and pages](https://myseq.github.io/)
 
 ## Links 
 
- - <https://myseq.github.io/>
- - <https://myseq.blogspot.com>
- - [![Website][badge_blog]][link_ghpages]
+ - [![Website][badge_ghpages]][link_ghpages]
+ - [![Blogspot][badge_blogspot]][link_blogspot]
 
 ## Author
 
 👤 xx
+
 👤 zd
 
-[badge_blog]: https://img.shields.io/badge/blog-myseq.github.io-blue?style=for-the-badge
+[badge_ghpages]: https://img.shields.io/badge/blog-myseq.github.io-blue?style=for-the-badge
+[badge_blogspot]: https://img.shields.io/badge/blog-myseq.github.io-red?style=for-the-badge
 [link_ghpages]: https://myseq.github.io/
 [link_blogspot]: https://myseq.blogspot.com/
 
