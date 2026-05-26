@@ -22,4 +22,14 @@ Goto [MySeq blog and pages](https://myseq.github.io/)
 
  - <https://myseq.github.io/>
  - <https://myseq.blogspot.com>
+ - [![Website][badge_blog]][link_ghpages]
+
+## Author
+
+👤 xx
+👤 zd
+
+[badge_blog]: https://img.shields.io/badge/blog-myseq.github.io-blue?style=for-the-badge
+[link_ghpages]: https://myseq.github.io/
+[link_blogspot]: https://myseq.blogspot.com/
 
