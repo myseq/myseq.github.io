@@ -3,9 +3,9 @@
 
 # MySeq [![Website][badge_ghpages]][link_ghpages]
 
-Goto [![Website][badge_ghpages]][link_ghpages]
-
 ***MySeq*** is my personal blog that sharing my thought on *practicing essential security and simplifying Cybersecurity*.
+
+All contents, blog posts, and opinions are on my own and created manually with **vim** editor.
 
 > [!TIP]
 > Powered by [![Hugo][badge_hugo]][link_hugo] and [![GitHub Actions][badge_actions]][link_actions].
