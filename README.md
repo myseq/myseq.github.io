@@ -1,14 +1,14 @@
 [![GitHub Issues][badge_issues]][link_issues]
 [![GitHub Stars][badge_repo_stars]][link_repo]
 
-# MySeq
+# MySeq [![Website][badge_ghpages]][link_ghpages]
 
 Goto [![Website][badge_ghpages]][link_ghpages]
 
+***MySeq*** is my personal blog that sharing my thought on *practicing essential security and simplifying Cybersecurity*.
+
 > [!TIP]
 > Powered by [![Hugo][badge_hugo]][link_hugo] and [![GitHub Actions][badge_actions]][link_actions].
-
- - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
 
 
 ## Insights
