@@ -1,6 +1,6 @@
 ---
 title: "Enable Auto Updates"
-date: 2024-05-21T21:24:40+08:00
+date: 2026-05-21T21:24:40+08:00
 tags: [ "101", "ubuntu" ]
 categories: [ "Essential", "Posts"  ]
 summary: "Consider enabling auto security updates."
