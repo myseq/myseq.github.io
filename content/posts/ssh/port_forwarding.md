@@ -2,7 +2,7 @@
 title =  "Tunnelling with SSH Port Forwarding"
 date = 2023-09-05T21:18:55+08:00
 author = "zd"
-tags = [ "101", "cli", "ssh" ]
+tags = [ "101", "cli", "ssh", "tunnel" ]
 categories = [ "Posts" ]
 summary = "Quick notes on tunnelling with SSH port forwarding."
 draft = false
