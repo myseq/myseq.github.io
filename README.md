@@ -4,7 +4,6 @@ Goto [![Website][badge_ghpages]][link_ghpages]
 
 [![GitHub Issues][badge_issues]][link_issues]
 [![GitHub Stars][badge_repo_stars]][link_repo]
-[![Repo License][badge_license]][link_repo]
 
 > [!TIP]
 > Powered by Hugo and GitHub Actions.
@@ -44,7 +43,6 @@ Goto [![Website][badge_ghpages]][link_ghpages]
 [badge_issues]: https://img.shields.io/github/issues/myseq/myseq.github.io?style=for-the-badge
 [badge_repo_stars]: https://img.shields.io/github/stars/myseq/myseq.github.io?logo=github&style=for-the-badge
 [badge_license]: https://img.shields.io/github/license/myseq/myseq.github.io?style=for-the-badge
-[link_issues]:
-[link_repo]:
-[link_license]:
+[link_issues]: https://github.com/myseq/myseq.github.io/issues
+[link_repo]: https://github.com/myseq/myseq.github.io
 
