@@ -1,12 +1,12 @@
-# MySeq.GitHub.io
-
-Goto [![Website][badge_ghpages]][link_ghpages]
-
 [![GitHub Issues][badge_issues]][link_issues]
 [![GitHub Stars][badge_repo_stars]][link_repo]
 
+# MySeq
+
+Goto [![Website][badge_ghpages]][link_ghpages]
+
 > [!TIP]
-> Powered by Hugo and GitHub Actions.
+> Powered by [![Hugo][badge_hugo]][link_hugo] and GitHub Actions.
 
  - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
 
@@ -38,8 +38,8 @@ Goto [![Website][badge_ghpages]][link_ghpages]
 [link_ghpages]: https://myseq.github.io/
 [link_blogspot]: https://myseq.blogspot.com/
 [link_zd]: https://myseq.github.io/authors/zd/
+[badge_hugo]: https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo
 [link_hugo]: https://gohugo.io/
-
 [badge_issues]: https://img.shields.io/github/issues/myseq/myseq.github.io?style=for-the-badge
 [badge_repo_stars]: https://img.shields.io/github/stars/myseq/myseq.github.io?logo=github&style=for-the-badge
 [badge_license]: https://img.shields.io/github/license/myseq/myseq.github.io?style=for-the-badge
