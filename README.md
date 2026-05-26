@@ -8,7 +8,7 @@ Goto [![Website][badge_ghpages]][link_ghpages]
 > [!TIP]
 > Powered by [![Hugo][badge_hugo]][link_hugo] and [![GitHub Actions][badge_actions]][link_actions].
 
- - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
+ - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
 
 
 ## Insights
@@ -40,7 +40,7 @@ Goto [![Website][badge_ghpages]][link_ghpages]
 [link_zd]: https://myseq.github.io/authors/zd/
 [badge_hugo]: https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo
 [link_hugo]: https://gohugo.io/
-[badge_actions]: https://img.shields.io/github/actions?logo=github&style=for-the-badge
+[badge_actions]: https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yaml/badge.svg
 [link_actions]: https://github.com/myseq/myseq.github.io/actions
 [badge_issues]: https://img.shields.io/github/issues/myseq/myseq.github.io?style=for-the-badge
 [badge_repo_stars]: https://img.shields.io/github/stars/myseq/myseq.github.io?logo=github&style=for-the-badge
