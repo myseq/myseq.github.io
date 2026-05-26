@@ -1,8 +1,12 @@
 # MySeq.github.io
 
-Goto [![Website][badge_blog]][link_ghpages]
+Goto [![Website][badge_ghpages]][link_ghpages]
+
+> [!TIP]
+> Powered by Hugo and GitHub Actions.
 
  - Powered by  [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/) and [![Deploy Hugo site to Pages](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/myseq/myseq.github.io/actions/workflows/hugo.yml)
+
 
 ## Insights
 
@@ -25,12 +29,14 @@ Goto [![Website][badge_blog]][link_ghpages]
 
 ## Author
 
-👤 xx
+ 👤 [xx]([link_xx]) 
 
-👤 zd
+ 👤 [zd]([link_zd])
 
 [badge_ghpages]: https://img.shields.io/badge/blog-myseq.github.io-blue?style=for-the-badge
 [badge_blogspot]: https://img.shields.io/badge/blog-myseq.github.io-red?style=for-the-badge
 [link_ghpages]: https://myseq.github.io/
 [link_blogspot]: https://myseq.blogspot.com/
+[link_xx]: https://myseq.github.io/authors/xx/
+[link_zd]: https://myseq.github.io/authors/zd/
 
