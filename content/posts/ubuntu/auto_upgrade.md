@@ -23,6 +23,18 @@ Consider enabling auto security updates:
 % sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
 
+To check the current auto-upgrade status:
+
+```console
+% apt-config dump APT::Periodic::Unattended-Upgrade
+```
+
+Testing and/or debugging:
+
+```console
+% sudo unattended-upgrades --dry-run --debug
+```
+
 ## Manual Update
 
 To manually update packages:
@@ -34,5 +46,6 @@ To manually update packages:
 ## Links
 
  - [Automatic Updates](https://ubuntu.com/server/docs/how-to/software/automatic-updates/)
+ - Advanced [Howto](https://www.interserver.net/tips/kb/configure-automatic-security-updates-in-ubuntu-24-04/)
 
 
