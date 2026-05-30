@@ -1,7 +1,7 @@
 ---
 title: "SSH Key Generation"
 date: 2026-04-24T20:24:40+08:00
-tags: [ "cli", "ssh", "ubuntu" ]
+tags: [ "auth", "cli", "ssh", "ubuntu" ]
 categories: [ "Posts"  ]
 series: [ "SSH" ]
 series_order: 1
