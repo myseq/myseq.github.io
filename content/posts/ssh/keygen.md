@@ -48,4 +48,23 @@ The cmdline above use `RSA` algorithm with **4096** bits to generate the key pai
 > Once the key-pair is generated, just copy the ***public key*** to `Ubuntu` server with:
 > `ssh-copy-id username@ubuntu_server_ip`
 
+## SSH Config
+
+This is to create an SSH Config shortcut.
+
+On your local machine, edit `~/.ssh/config`:
+
+```config
+Host myserver
+    HostName YOUR_SERVER_IP
+    User ubuntu
+    Port 22022
+    IdentityFile ~/.ssh/id_ed25519
+```
+
+Then simply run:
+
+```console
+% ssh myserver
+```
 
