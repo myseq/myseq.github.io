@@ -6,7 +6,7 @@
 ***MySeq*** is my personal blog that sharing my thought on *simplifying Cybersecurity by practicing essential security*.
 
 All contents, blog posts, and opinions are on my own.
-See more at [About MySeq][about_myseq]
+See more at [About MySeq][about_myseq].
 
 > [!TIP]
 > All contents are created manually with ***vim*** editor.
