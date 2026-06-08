@@ -5,13 +5,16 @@
 
 ***MySeq*** is my personal blog that sharing my thought on *practicing essential security and simplifying Cybersecurity*.
 
-All contents, blog posts, and opinions are on my own and created manually with **vim** editor.
+All contents, blog posts, and opinions are on my own.
 
 > [!TIP]
-> Powered by [![Hugo][badge_hugo]][link_hugo] and [![GitHub Actions][badge_actions]][link_actions].
+> All contents are created manually with ***vim*** editor.
 
+Powered by [![Hugo][badge_hugo]][link_hugo] and [![GitHub Actions][badge_actions]][link_actions].
 
 ## Insights
+
+[![Hugo][badge_hugo]][link_hugo] [![GitHub Actions][badge_actions]][link_actions].
 
  - [Pulse](https://github.com/myseq/myseq.github.io/pulse)
  - Dependency graph and [SBOM](https://github.com/myseq/myseq.github.io/network/dependencies)
