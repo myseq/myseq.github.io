@@ -43,8 +43,10 @@ But it has become an industry standard for private enterprise patch management.
 
 ## Understanding EPSS
 
-The **FIRST EPSS** Model uses threat intelligence data and machine learning to produce a daily probability score for a given CVE. 
+The FIRST [EPSS Model][epss_model] uses threat intelligence data, AI and machine learning to produce a daily probability score for a given CVE. 
 The system evaluates the near-term risk based on technical attributes, code availability, and multi-vendor sensor data.
+
+> EPSS is utilizing algorithm like XGBoost that are built upon statistical models.
 
  - **EPSS Score**: The probability (from 0% to 100%) that a vulnerability will face an exploit attempt within the upcoming 30 days.
  - **EPSS Percentile**: Measures how the risk of a specific CVE ranks against all other tracked vulnerabilities.
@@ -53,6 +55,7 @@ The system evaluates the near-term risk based on technical attributes, code avai
 **Example:** *A 95th percentile score means it is more likely to be exploited than 95% of all other CVEs.*
 {{< /alert >}}
 
+> According to the [latest published paper][epss_paper], EPSS collects 1477 unique variables for every vulnerability for predicting exploitation activity.
 
 ## Key Differences
 
@@ -98,4 +101,6 @@ Security teams can significantly shrink their patching workload by establishing 
 
 [cisa_kev]: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 [first]: https://www.first.org/epss/
+[epss_paper]: https://arxiv.org/pdf/2302.14172
+[epss_model]: https://www.first.org/epss/model
 
