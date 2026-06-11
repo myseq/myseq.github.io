@@ -10,6 +10,8 @@ draft: false
 *`Fira Code` is selected as the main font used by `MySeq` site.*
 {{< /lead >}}
 
+> In case `Fira Code` isn't available, a similar font `Inconsolata` will be selected.
+
 ## Font Proofing
 
 MySeq site has selected [Fira Code](https://fonts.google.com/specimen/Fira+Code) font as the main font since day-1.
@@ -46,3 +48,6 @@ Here is the demo of `Fira Code` for the 5 groups above.
 ## Links
 
  - [Fira Code](https://fonts.google.com/specimen/Fira+Code) at Google Fonts.
+ - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
+
+
