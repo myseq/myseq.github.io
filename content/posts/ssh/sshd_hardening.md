@@ -49,6 +49,11 @@ DebianBanner no
 #Port 22
 Port 22022
 
+#AddressFamily any
+#ListenAddress ::
+AddressFamily inet
+ListenAddress 0.0.0.0
+
 # Disable root login entirely
 PermitRootLogin no
 
@@ -62,8 +67,8 @@ PermitEmptyPasswords no
 ChallengeResponseAuthentication no
 
 # Disable Pluggable Authentication Module (PAM)
-#UsePAM no
 ## UsePAM can ensure locked account cannot login
+UsePAM yes
 
 # Use key-based authentication
 PubkeyAuthentication yes
@@ -88,7 +93,7 @@ AllowTcpForwarding no
 AllowUsers ubuntu opc
 
 # Use strong key exchange algorithms, ciphers, and MACs
-KexAlgorithms sshd_config curve25519-sha256,curve25519-sha256@libssh.org
+KexAlgorithms curve25519-sha256,curve25519-sha256@libssh.org
 Ciphers chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com
 MACs hmac-sha2-512-etm@openssh.com,hmac-sha2-256-etm@openssh.com
 
