@@ -200,7 +200,7 @@ banaction = ufw
 
 [sshd]
 enabled = true
-port = 22022
+port = 22,22022
 filter = sshd
 logpath = /var/log/auth.log
 maxretry = 4
