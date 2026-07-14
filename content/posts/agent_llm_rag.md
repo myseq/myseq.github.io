@@ -1,7 +1,7 @@
 ---
 title: "AI Agent + LLM + RAG"
 date: 2025-02-19T11:46:40+08:00
-tags: [ "101", "aiagent", "architecture", "code", "diagram", "llm", "mermaid", "rag" ]
+tags: [ "101", "ai", "aiagent", "architecture", "code", "diagram", "llm", "mermaid", "rag" ]
 categories: [ "Posts"  ]
 summary: "An architecture diagram on AI agent, LLM, and RAG."
 authors:
