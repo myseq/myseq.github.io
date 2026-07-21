@@ -82,6 +82,9 @@ To lock down a specific session for testing:
 powershell.exe -ExecutionPolicy RemoteSigned
 ```
 
+> `Restricted`: The most secure setting. 
+> It completely blocks all PowerShell scripts from running, allowing you to only type manual, single commands directly into the terminal window.
+
 ## Links 
 
  - About [Execution Policies](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.6)
