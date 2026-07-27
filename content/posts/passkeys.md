@@ -43,7 +43,7 @@ And I think it should go EOL.
 Passkeys are designed to be more secure and convenient than traditional passwords, and they are expected to eventually ***replace passwords*** altogether.
 
 Passkeys are more secure than passwords because they are not stored on servers. 
-This means that even if a website or application is hacked, passkeys cannot be stolen. i
+This means that even if a website or application is hacked, passkeys cannot be stolen.
 Passkeys are also more convenient than passwords because users ***do not need to remember or manage multiple passwords***.
 
 > *The best part is, we can eliminate the password policy*.
@@ -79,8 +79,9 @@ When a user creates a passkey for a website or application, their device generat
 The public key is stored on the website or application, and the private key is stored on the user's device.
 
 To authenticate with a passkey, the user simply needs to unlock their device and select the passkey for the website or application they want to sign in to. 
-The user's device will then generate a challenge and send it to the website or application. 
-The website or application will then verify the challenge using the user's public key.
+The website or application will generate a challenge and send it to user's device.
+The user's device will sign the challenge and send it back to website or application.
+And the website can verify the challenge using the (user's) public key from the response.
 
 > In the future, I will try to demonstrate how it can work in reality, and more essential practices on using different types of passkeys. 
 > I'll also share some of the challenges to use `passkeys` in the corporate environment. 
