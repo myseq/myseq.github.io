@@ -71,7 +71,7 @@ Add this line **at the very top** of the file:
 auth required pam_google_authenticator.so
 ```
 
-Save and close the file (`Ctrl+O`, `Enter`, `Ctrl+X`).
+Save and close the file.
 
 ### Step 4: Configure the SSH Daemon
 
