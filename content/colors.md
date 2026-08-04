@@ -3,7 +3,7 @@ title: "Colors"
 date: 2023-09-22T11:47:18+08:00
 draft: false
 tags: [ "color", "fun" ]
-categories: [ "Others", "🥚" ]
+categories: [ "Others" ]
 summary: "Light of colors."
 slug: /colors
 url: /colors/
