@@ -1,8 +1,8 @@
 ---
 title: "ME"
 date: 2022-03-31T21:32:54+08:00
-tags: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
-categories: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
+tags: [ ]
+categories: [ "Hobbies"  ]
 summary: "Mastering Thought: Once Learned, There's No Turning Back!"
 draft: false
 slug: /me
@@ -102,6 +102,9 @@ Lately, I just bought myself a new toy 🚙, <i><b><mark style="color:#7fff00;ba
 <!-- Courage, Brevity, Focus, Simplicity --> 
 
 <!--
+
+tags: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
+categories: [ "🐛", "🐜", "🐞", "🐝", "🦊"  ]
 
 ## ♫ ♪ 𝄞⨾𓍢ִ໋
 
