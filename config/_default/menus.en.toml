@@ -85,10 +85,17 @@
   weight = 40
 
 [[main]]
-  name = "Orange"
+  name = "MakeShift"
   parent = "[online]"
-  url = "http://ddorange.duckdns.org/"
+  url = "https://makeshift.pages.dev/"
   weight = 41
+
+[[main]]
+  name = "Flagships"
+  parent = "[online]"
+  url = "https://flagships.pages.dev/"
+  weight = 42
+
 
 [[main]]
   identifier = "github"
