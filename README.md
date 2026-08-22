@@ -25,6 +25,7 @@ See more at [About MySeq][about_myseq].
 
 | YYYY.MM | Hosting      | Tools   | Theme      |
 | ------- | ------------ | ------- | ---------- |
+| 2026.08 | GitHub Pages | Hugo 🧙 v0.165.0 | Blowfish 🐡 v3 |
 | 2023.10 | GitHub Pages | Hugo 🧙 | Blowfish 🐡|
 | 2023.01 | GitHub Pages | Hugo    | Terminal   |
 | 2015.06 | GitHub Pages | Jekyll  | Jekyll-now |
