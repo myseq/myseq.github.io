@@ -110,7 +110,12 @@
 [[footer]]
    name = "[ Archive ]"
    pageRef = "blog_archive"
-   weight = 10
+   weight = 110
+
+[[footer]]
+   name = "[ TagCloud ]"
+   pageRef = "tagcloud"
+   weight = 140
 
 [[footer]]
    name = "Categories"
@@ -121,11 +126,6 @@
    name = "Tags"
    pageRef = "tags"
    weight = 30
-
-[[footer]]
-   name = "[ TagCloud ]"
-   pageRef = "tagcloud"
-   weight = 40
 
 [[footer]]
    name = "Series"
