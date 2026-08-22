@@ -1,5 +1,6 @@
-languageCode = "en"
-languageName = "English"
+locale = "en-US"
+#languageCode = "en"
+#languageName = "English"
 weight = 1
 title = "MySeq"
 
