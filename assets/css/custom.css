@@ -15,6 +15,11 @@ a:hover { color: #84cc16; text-decoration: underline; font-weight:bold; }
 
 /* Custom style for inline code */
 
+code {
+    color: #a1e335;
+    background-color: #3f3f3f; 
+}
+
 c3 { 
     font-size: 13pt; 
     font-weight: 600;

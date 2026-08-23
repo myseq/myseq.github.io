@@ -1,0 +1,15 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/FiraCode-Regular.woff');
+}
+
+:root {
+  --tw-prose-code: 152,211,153;
+}
+
+html {
+    font-family: font;
+    font-size: 1.5rem; /* default 1rem */
+}
+
+
