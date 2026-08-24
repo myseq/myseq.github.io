@@ -88,13 +88,13 @@
   name = "MakeShift"
   parent = "[online]"
   url = "https://makeshift.pages.dev/"
-  weight = 41
+  weight = 42
 
 [[main]]
   name = "Flagships"
   parent = "[online]"
   url = "https://flagships.pages.dev/"
-  weight = 42
+  weight = 41
 
 
 [[main]]
@@ -106,16 +106,6 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
-[[footer]]
-   name = "[ Archive ]"
-   pageRef = "blog_archive"
-   weight = 110
-
-[[footer]]
-   name = "[ TagCloud ]"
-   pageRef = "tagcloud"
-   weight = 140
 
 [[footer]]
    name = "Categories"
@@ -136,6 +126,16 @@
    name = "Authors"
    pageRef = "authors"
    weight = 60
+
+[[footer]]
+   name = "[ TagCloud ]"
+   pageRef = "tagcloud"
+   weight = 100
+
+[[footer]]
+   name = "[ Archive ]"
+   pageRef = "blog_archive"
+   weight = 110
 
 
 #######################################
