@@ -41,6 +41,8 @@ Before this, <c2>MySeq</c2> was hosting in {{< icon "blogger" >}} Blogger.com at
 
 > All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
 
+<i><b><mark style="color:#DFFF00;background:#303030">Simplify cybersecurity</mark><mark style="color:#FFBF00;background:#303030"> by mastering </mark><mark style="color:#8080FF;background:#303030">essential security</mark></b></i>.  
+
 
 ```json
 /** MySeq Config **/
@@ -67,9 +69,15 @@ Before this, <c2>MySeq</c2> was hosting in {{< icon "blogger" >}} Blogger.com at
 
 > See [Font Used by MySeq](/posts/font_used/) for why `Fira Code` is selected.
 
+
+
 ## History 
 
 {{< timeline >}}
+
+{{< timelineItem icon="github" header="2026-08" badge="myseq.github.io" subheader="Hugo (v0.165.0)" >}}
+Theme: Blowfish (v3.3.0)
+{{< /timelineItem >}}
 
 {{< timelineItem icon="github" header="2023-10" badge="myseq.github.io" subheader="Hugo" >}}
 Theme: Blowfish
