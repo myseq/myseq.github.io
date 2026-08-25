@@ -52,6 +52,7 @@ Cybercriminals use this strategy for three primary reasons:
  - GitHub: [LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)
  - For UNIX binaries, visit [GTFOBins](https://gtfobins.org/)
  - GitHub: [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io)
+ - [Identifying and Mitigating Living Off the Land Techniques](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/identifying-and-mitigating-living-off-the-land-techniques)
  
 
 
