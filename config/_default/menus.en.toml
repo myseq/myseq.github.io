@@ -80,19 +80,19 @@
   weight = 93
 
 [[main]]
-  name = "[online]"
-  pageRef = "online"
+  name = "[Cloudflare]"
+  pageRef = "cloudflare"
   weight = 40
 
 [[main]]
   name = "MakeShift"
-  parent = "[online]"
+  parent = "[Cloudflare]"
   url = "https://makeshift.pages.dev/"
   weight = 42
 
 [[main]]
   name = "Flagships"
-  parent = "[online]"
+  parent = "[Cloudflare]"
   url = "https://flagships.pages.dev/"
   weight = 41
 
