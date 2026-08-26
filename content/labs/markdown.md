@@ -2,7 +2,9 @@
 title: "Markdown"
 date: 2026-08-26
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: ["markdown", "css", "html", "sample"]
+tags: [ "markdown", "sample"]
+categories: [ "Others"  ]
+summary: "Sample markdown."
 type: 'sample'
 ---
 
