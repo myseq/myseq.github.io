@@ -18,8 +18,8 @@ enableEmoji = true
 
 googleAnalytics = "G-CQL491X0G6"
 
-#capitalizeListTitles = false    # Introducted in v0.123.3.
-#titleCaseStyle = 'none'         # Keep tags as all lowercase
+capitalizeListTitles = false    # Introducted in v0.123.3.
+titleCaseStyle = 'none'         # Keep tags as all lowercase
 #slugReplacement = "_"
 
 [pagination]
