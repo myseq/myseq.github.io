@@ -7,6 +7,10 @@ summary: "$ cat ~/.projects"
 draft: false
 ---
 
+{{< lead >}}
+*I always make time to learn through pet projects. Most of them never launch, but they give me hands-on, real-world experience.*
+{{< /lead >}}
+
 | Project | Description | Status | 
 | ------- | ----------- | ------ |
 | [Lab21](/Lab21/) | A series of tutorials for learning different technologies  | 2021 ~  |
