@@ -144,7 +144,7 @@ In addition to the [Figure Shortcode]( ref "../../docs/shortcodes#figure" ), you
 ![Alt text](image.jpg "Image caption")
 ```
 
-![Alt text](../../docs/shortcodes/abstract.jpg "Image caption")
+![Alt text](/images/alkaid.jpg "Image caption")
 
 You can also leverage Hugos ['Markdown attributes'](https://gohugo.io/content-management/markdown-attributes/) feature to add custom attributes to the created HTML element.
 For example, to set the width of an image to 50%:
@@ -154,7 +154,7 @@ For example, to set the width of an image to 50%:
 {style="width:50%;"}
 ```
 
-![Alt text](../../docs/shortcodes/abstract.jpg "Half width image caption")
+![Alt text](/images/alkaid.jpg "Half width image caption")
 {style="width:50%;"}
 
 Note that the 'Markdown attributes' feature requires configuration of the Goldmark renderer.
