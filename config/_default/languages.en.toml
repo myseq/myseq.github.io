@@ -1,48 +1,49 @@
-locale = "en-US"
-#languageCode = "en"
-#languageName = "English"
+disabled = false
+locale = "en"
+label = "English"
 weight = 1
+#title = "Blowfish"
 title = "MySeq"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  #dateFormat = "2 January 2006"
-  #dateFormat = "Jan 2, 2006"
-  #dateFormat = "02 Jan 06 15:04 MST"
-  #dateFormat = "2006-01-02"
-  dateFormat = "2006-01-02 15:04"
-  #logo = "img/blowfish_logo_transparent.png"
-  logo = "/img/phoenix_512_1.png"
-  # secondaryLogo = "PATH"
-  # secondaryLogo = "img/blowfish_logo_transparent.png" # toggle appearance
-  #description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  description = "Simplicity is the Ultimate Sophistication."
+  ##dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
-  #copyright = "Copyleft, _right?_ :thinking_face:"
-  #copyright = "© Copyleft :t-rex:"
-  #copyright = "© Copyleft :rhino:"
+  dateFormat = "2006-01-02 15:04"
+  logo = "/img/phoenix_512_1.png"
+  description = "Simplicity is the Ultimate Sophistication."
   copyright = "© Copyleft 🦖"
-  #copyright = "© Copyleft 🦏"
 
-[author]
-  #name = "Blowfish"
-  name = "zd"
-  #image = "img/blowfish_logo.png"
-  image = "/img/zd_xx.png"
-  #image = "/img/phoenix_512.png"
-  #headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  headline = "*Simplicity is the Ultimate Sophistication*"
-  #bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "*cli-geek, strategist*"
-  #bio = "*Cybersecurity strategist and tech enthusiast with diverse hobbies*"
-  links = [
+[params.author]
+   name = "zd"
+   image = "/img/zd_xx.png"
+   headline = "*Simplicity is the Ultimate Sophistication*"
+   bio = "*cli-geek, strategist, architect*"
+   links = [
+     { link = "https://myseq.github.io/" },
+     { blogger = "https://myseq.blogspot.com/" },
+     { github = "https://github.com/myseq" },
+   ]
+
+# [params.author]
+#   name = "Your name here"
+#   email = "youremail@example.com"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
+#   links = [
 #     { email = "mailto:hello@your_domain.com" },
-    { link = "https://myseq.github.io/" },
+#     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
-     { blogger = "https://myseq.blogspot.com/" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
@@ -50,16 +51,20 @@ title = "MySeq"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/myseq" },
+#     { github = "https://github.com/username" },
+#     { github_gist = "https://gist.github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
 #     { instagram = "https://instagram.com/username" },
+#     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
+#     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
+#     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
@@ -67,19 +72,25 @@ title = "MySeq"
 #     { pinterest = "https://pinterest.com/username" },
 #     { reddit = "https://reddit.com/user/username" },
 #     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { signal = "https://signal.me/#eu/userid" },
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { strava = "https://www.strava.com/athletes/username" },
 #     { telegram = "https://t.me/username" },
+#     { threads = "https://www.threads.net/@username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
+#     { untappd = "https://untappd.com/user/username" },
 #     { twitter = "https://twitter.com/username" },
+#     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-  ]
-
-  
+#     { codeberg = "https://codeberg.org/username"},
+#     { printables = "https://www.printables.com/@username"},
+#   ]

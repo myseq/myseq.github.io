@@ -2,33 +2,28 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish"
-#baseURL = "https://nunocoracao.github.io/blowfish"
+theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://myseq.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-#paginate = 100
-#paginate = 5
-#summaryLength = 30
 summaryLength = 0
 
-#buildDrafts = false
-#buildFuture = false
-#googleAnalytics = "G-PEDMYR1V0K"
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
 googleAnalytics = "G-CQL491X0G6"
 
-# 0.123 makes Capitalized Headings/Tags.
-capitalizeListTitles = false    # Introducted in v0.123.3.
-titleCaseStyle = 'none'         # Keep tags as all lowercase
-slugReplacement = "_"
+#capitalizeListTitles = false    # Introducted in v0.123.3.
+#titleCaseStyle = 'none'         # Keep tags as all lowercase
+#slugReplacement = "_"
 
 [pagination]
-  disableAliases = false
   pagerSize = 5
-  path = 'page'
 
 [imaging]
   anchor = 'Center'
@@ -40,29 +35,16 @@ slugReplacement = "_"
   series = "series"
 
 [sitemap]
-  changefreq = ''
+  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-#[outputFormats]
-#  [outputFormats.RSS]
-#    mediaType = "application/rss+xml"
-#    baseName = "feed"
-[mediaTypes]
-[mediaTypes."application/rss"]
-suffixes = ["xml"]
-
-[services]
-  [services.rss]
-    limit = -1
-
 [related]
   threshold = 0
-  #toLower = false
-  toLower = true
+  toLower = true   #false
 
     [[related.indices]]
         name = "tags"
