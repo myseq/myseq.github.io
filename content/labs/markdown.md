@@ -133,7 +133,10 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 ## Images
 
-In addition to the [Figure Shortcode]({{< ref "../../docs/shortcodes#figure" >}}), you can define images using the following Markdown syntax:
+```
+# Error
+In addition to the [Figure Shortcode]( ref "../../docs/shortcodes#figure" ), you can define images using the following Markdown syntax:
+```
 
 ```md
 ![Alt text](image.jpg "Image caption")
