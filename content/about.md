@@ -41,7 +41,7 @@ Before this, <c2>MySeq</c2> was hosting in {{< icon "blogger" >}} Blogger.com at
 
 > All the pages/posts are edited with <i><b><mark style="color:#8080FF;background:#303030">vi</mark></b></i> editor and tested with [firefox](/firefox/) <i><b><mark style="color:#FFBF00;background:#303030">browser</mark></b></i>. 😊 
 
-<i><b><mark style="color:#DFFF00;background:#303030">Simplify cybersecurity</mark><mark style="color:#FFBF00;background:#303030"> by mastering </mark><mark style="color:#8080FF;background:#303030">essential security</mark></b></i>.  
+<i><b><mark style="color:#DFFF00;background:#303030">Simplifying cybersecurity</mark><mark style="color:#FFBF00;background:#303030"> by practicing </mark><mark style="color:#8080FF;background:#303030">essential security</mark></b></i>.  
 
 
 ```json
