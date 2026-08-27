@@ -11,6 +11,11 @@ See more at [About MySeq][about_myseq].
 > [!TIP]
 > All contents are created manually with ***vim*** editor.
 
+To verify the final repo state:
+
+```bash
+git log --oneline --graph --decorate --all
+```
 
 ## Insights
 
