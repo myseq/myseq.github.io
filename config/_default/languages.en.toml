@@ -16,7 +16,8 @@ title = "MySeq"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2006-01-02 15:04"
   logo = "/img/phoenix_512_1.png"
-  description = "Simplicity is the Ultimate Sophistication."
+  #description = "Simplicity is the Ultimate Sophistication."
+  description = "Simplifying cybersecurity by mastering essential security."
   copyright = "© Copyleft 🦖"
 
 [params.author]
