@@ -1,9 +1,9 @@
 {
     "name": "zd",
-    "image" : "/img/zd_xx.png",
-    "bio": "cli-geek",
+    "image" : "/img/rhino.png",
+    "bio": "strategist, architect",
     "social": [
-        { "linkedin": "https://linkedin.com/in/zd" },
-        { "github": "https://github.com/myseq" }
+        { "github": "https://github.com/myseq" },
+        { "linkedin": "https://linkedin.com/in/zd" }
     ]
 }

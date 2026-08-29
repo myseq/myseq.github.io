@@ -7,6 +7,9 @@ summary: "Mastering Thought: Once Learned, There's No Turning Back!"
 draft: false
 slug: /me
 url: /me/
+authors: 
+  - xx
+  - zd
 ---
 
 ![The fire starts here](/img/proton-bkg.png)

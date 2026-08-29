@@ -3,7 +3,8 @@
     "image" : "/img/zd_xx.png",
     "bio": "cli-geek",
     "social": [
+        { "github": "https://github.com/myseq" },
         { "linkedin": "https://linkedin.com/in/xx" },
-        { "github": "https://github.com/myseq" }
+        { "blogger": "https://myseq.blogspot.com/" }
     ]
 }
