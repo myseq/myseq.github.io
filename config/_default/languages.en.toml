@@ -18,7 +18,8 @@ title = "MySeq"
   logo = "/img/phoenix_512_1.png"
   #description = "Simplicity is the Ultimate Sophistication."
   description = "Simplifying cybersecurity by mastering essential security."
-  copyright = "© Copyleft 🦖"
+  #copyright = "© Copyleft 🦖"
+  copyright = "© Copyleft 🦎"
 
 [params.author]
    name = "zd"
