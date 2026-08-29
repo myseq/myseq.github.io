@@ -23,7 +23,8 @@ title = "MySeq"
 
 [params.author]
    name = "zd"
-   image = "/img/zd_xx.png"
+   #image = "/img/zd_xx.png"
+   image = "/img/rhino.png"
    headline = "<mark style='color:#DFFF00;background:#303030'><i>Simplicity is the Ultimate Sophistication</i></mark>"
    bio = "*cli-geek, strategist, architect*"
    links = [
