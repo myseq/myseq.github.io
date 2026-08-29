@@ -3,6 +3,7 @@
     "image" : "/img/rhino.png",
     "bio": "strategist, architect",
     "social": [
+        { "link": "https://myseq.github.io" },
         { "github": "https://github.com/myseq" },
         { "linkedin": "https://linkedin.com/in/zd" }
     ]
