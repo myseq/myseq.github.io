@@ -22,7 +22,7 @@ title = "MySeq"
 [params.author]
    name = "zd"
    image = "/img/zd_xx.png"
-   headline = "*Simplicity is the Ultimate Sophistication*"
+   headline = "<mark style='color:#DFFF00;background:#303030'><i>Simplicity is the Ultimate Sophistication</i></mark>"
    bio = "*cli-geek, strategist, architect*"
    links = [
      { link = "https://myseq.github.io/" },
