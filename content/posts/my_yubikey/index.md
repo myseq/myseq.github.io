@@ -18,7 +18,7 @@ passwordless
 
 ![YubiKey 5C NFC](/posts/my_yubikey/yubikey.jpg "YubiKey 5C NFC")
 
-{{< alert icon="pgpkey" cardColor="#ffd800" iconColor="#1d3557" textColor="#3e3e3e" >}}
+{{< alert icon="pgpkey" cardColor="#3e3e3e" iconColor="#ffd800" textColor="#ffd800" >}}
 ***The best password is the one you never have to type.***
 {{< /alert >}}
 
