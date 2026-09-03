@@ -12,6 +12,9 @@ Signing in without a password seems almost nonsensical, yet it can be more secur
 
 Today, I received my YubiKey (from Yubico), as a gift for myself from Cyber Monday sales. 
 And this marks as the begining of my `passwordless` journey.
+{{< badge >}}
+passwordless
+{{< /badge >}}
 
 ![YubiKey 5C NFC](/posts/my_yubikey/yubikey.jpg "YubiKey 5C NFC")
 
