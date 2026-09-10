@@ -29,54 +29,61 @@
   name = "Cliff Notes"
   parent = "Content"
   pageRef = "notes"
-  weight = 42
+  weight = 32
 
 
 [[main]]
   name = "TEDTalks"
   parent = "Content"
   pageRef = "tedtalk"
-  weight = 43
+  weight = 33
 
 [[main]]
   name = "Wisdom Bread"
   parent = "Content"
   pageRef = "wisdom"
-  weight = 44
+  weight = 34
 
 [[main]]
   name = "Links"
   parent = "Content"
   pageRef = "links"
-  weight = 60
+  weight = 35
 
 [[main]]
   name = " - - - - "
   parent = "Content"
-  weight = 70
+  pageRef = "separator"
+  weight = 36
 
 [[main]]
   name = "~/.plan"
   parent = "Content"
   pageRef = "plan"
-  weight = 91
+  weight = 37
 
 [[main]]
   name = "~/.projects"
   parent = "Content"
   pageRef = "projects"
-  weight = 92
+  weight = 38
 
 [[main]]
   name = "~/.voice"
   parent = "Content"
   pageRef = "voice"
-  weight = 93
+  weight = 39
 
 [[main]]
   name = "[Cloudflare]"
   pageRef = "cloudflare"
   weight = 40
+
+[[main]]
+  name = "Flagships"
+  parent = "[Cloudflare]"
+  url = "https://flagships.pages.dev/"
+  weight = 41
 
 [[main]]
   name = "MakeShift"
@@ -85,10 +92,39 @@
   weight = 42
 
 [[main]]
-  name = "Flagships"
-  parent = "[Cloudflare]"
-  url = "https://flagships.pages.dev/"
-  weight = 41
+  name = "[DevOps]"
+  pageRef = "games"
+  weight = 50
+
+[[main]]
+  name = "Games & Simulators"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games"
+  weight = 51
+
+[[main]]
+  name = " - - - - "
+  parent = "[DevOps]"
+  pageRef = "separator"
+  weight = 55
+
+[[main]]
+  name = "Learn Linux"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/linux-terminal"
+  weight = 56
+
+[[main]]
+  name = "Docker Terminal Simulator"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/docker-terminal-simulator"
+  weight = 57
+
+[[main]]
+  name = "Kubernetes Terminal Simulator"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/kubernetes-terminal-simulator"
+  weight = 58
 
 [[main]]
   identifier = "github"
