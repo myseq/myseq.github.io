@@ -14,12 +14,17 @@ draft: false
 
 Here's how I install some essential tools in Windows 11 OS using *cmdline*.
 
-```cmd
+```powershell
 PS > winget install Python.Python.3.13
 PS > winget install Git.Git
 PS > winget install GitHub.cli
 PS > winget install -e --id Microsoft.WindowsTerminal
+PS > winget install --id vim.vim --scope machine
 ```
 
+Open a terminal and run as <mark>admin</mark>:
+```powershell
+ADM > [Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Program Files\Vim", "Machine")
+```
 
 
