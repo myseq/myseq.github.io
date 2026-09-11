@@ -53,8 +53,8 @@ Passkeys can in generated in forms:
 Passkeys
 ├── Roaming (1)
 └── Platform
-    ├── Sync (2)
-    └── Device-bound (3)
+    ├── Device-bound (2)
+    └── Synced (3)
 ```
 
 ### 1. Roaming
@@ -67,26 +67,27 @@ Such as Touch ID, Windows Hello, Android's Face ID / fingerprint.
 
 And platform passkey can be either synced or device-bound.
 
-### 2. Synced
+### 2. Device-bound
 
-Synced passkeys is always the default form generated most of the time.
-
-It is managed via iCloud Keychain, Google Password Manager, 1Password.
-They replicate the private key across the user's devices through an end-to-end encrypted cloud. 
-
-Synced passkeys are dramatically better for recovery and adoption.
-
-### 3. Device-bound
-
-Device-bound passkeys never leave the hardware they were minted on.
-Such as TPM, Enclave
+Device-bound passkeys (the private key) never leave the secure environment hardware they were minted on.
+Such as TPM[^2] (workstation), Secure Enclave (iPhone), or StrongBox (Android).
 
 Device-bound passkeys are stronger against a compromised cloud account but create lockout risk.
+
+### 3. Synced
+
+Synced passkeys is generated the same way as devive-bound passkeys.
+And it is always the default form generated most of the time.
+
+The difference is, it can be managed via iCloud Keychain, Google Password Manager, 1Password.
+They replicate the private key across the user's devices through an end-to-end encrypted cloud. 
 
 {{< alert >}}
 For consumer apps, synced wins. 
 For high-assurance internal systems, require a device-bound or roaming key.
 {{< /alert >}}
+
+Synced passkeys are dramatically better for recovery and adoption.
 
 |    | Synced | Device-Bound |
 | :- | :----- | :----------- |
@@ -99,9 +100,11 @@ For high-assurance internal systems, require a device-bound or roaming key.
 ## Links 
 
  - [Passkeys Developer Resources](https://passkeys.dev/)
+ - Passkeys & Passkey Authentication: [Secure Passwordless Login and Auth](https://www.passkeys.com/index.html)
 
 
 [^1]: Client to Authenticator Protocol
+[^2]: Trusted Platform Module
 
 
 
