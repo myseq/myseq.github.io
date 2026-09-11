@@ -5,18 +5,18 @@ tags: [ "101", "fido2", "passwordless", "webauthn" ]
 categories: [ "Posts"  ]
 series: [ "Passwordless" ]
 series_order: 3
-summary: ""
+summary: "Passwordless = WebAuthn + FIDO2"
 draft: false
 ---
 {{< lead >}}
-
+*Achieving* ***Passwordless*** *with WebAuthn and FIDO2 standards.*
 {{< /lead >}}
 
 **Passkeys and WebAuthn** let a user sign in with a cryptographic key pair instead of using ID/password.
 
 Here's the introduction of:
 
-**FIDO@**
+**FIDO2**
 : FIDO2 is the umbrella spec set from the [FIDO Alliance](https://fidoalliance.org/).
 
 **Passkeys**
@@ -26,7 +26,7 @@ Here's the introduction of:
 **WebAuthn**
 : WebAuthn is its browser API (standardized by [W3C](https://www.w3.org/TR/webauthn-2/)) and CTAP[^1] where the protocol between browser and authenticator.
 
-## WenAuthn
+## WebAuthn
 
 The attestation and assertion ceremonies use a key pair generated from **authonticator**.
 
@@ -102,9 +102,6 @@ For high-assurance internal systems, require a device-bound or roaming key.
 
 
 [^1]: Client to Authenticator Protocol
-
-
-
 
 
 
