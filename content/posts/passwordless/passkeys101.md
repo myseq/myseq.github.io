@@ -3,8 +3,8 @@ title: "Passkeys 101"
 date: 2024-01-04T17:58:55+08:00
 tags: [ "101", "passkeys", "passwordless" ]
 categories: [ "Posts"  ]
-series: [ "Passkeys" ]
-series_order: 1
+series: [ "Passwordless" ]
+series_order: 2
 summary: "There is nothing to be phished if you don't use password at all."
 draft: false
 ---

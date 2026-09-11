@@ -3,6 +3,8 @@ title: "My First YubiKey"
 date: 2023-11-30T19:47:48+08:00
 tags: [ "2fa", "auth", "mfa", "passwordless", "yubikey" ]
 categories: [ "Posts"  ]
+series: [ "Passwordless" ]
+series_order: 1
 summary: "Have my YubiKey (5C NFC) from Cyber Monday 2023."
 draft: false
 ---
