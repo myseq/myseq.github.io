@@ -29,6 +29,15 @@ pre, code {
 
  */
 
+
+/* Custom style for H2 headers */
+.prose h2 {
+  /* border-bottom: 2px solid currentColor; */
+  border-bottom: 2px solid #ffdf00;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
 c3 { 
     font-size: 13pt; 
     font-weight: 600;
