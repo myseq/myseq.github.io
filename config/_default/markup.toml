@@ -1,6 +1,11 @@
 # -- Markup --
 # These settings are required for the theme to function.
 
+[markup]
+  [markup.highlight]
+    noClasses = true
+    style = "monokai"
+
 [goldmark]
   [goldmark.parser]
     wrapStandAloneImageWithinParagraph = false
@@ -18,8 +23,8 @@
         block = [['\[', '\]'], ['$$', '$$']]
         inline = [['\(', '\)']]
 
-[highlight]
-  noClasses = false
+#[highlight]
+#  noClasses = false
 
 [tableOfContents]
   startLevel = 2
