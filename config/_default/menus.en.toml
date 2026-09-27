@@ -129,7 +129,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/myseq"
+  url = "https://github.com/myseq/myseq.github.io"
 
 #[[main]]
 #  name = "Blog"
