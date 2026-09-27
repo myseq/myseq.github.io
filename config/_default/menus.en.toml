@@ -77,54 +77,54 @@
 [[main]]
   name = "[Cloudflare]"
   pageRef = "cloudflare"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Flagships"
   parent = "[Cloudflare]"
   url = "https://flagships.pages.dev/"
-  weight = 41
+  weight = 51
 
 [[main]]
   name = "MakeShift"
   parent = "[Cloudflare]"
   url = "https://makeshift.pages.dev/"
-  weight = 42
+  weight = 52
 
 [[main]]
   name = "[DevOps]"
   pageRef = "games"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Games & Simulators"
   parent = "[DevOps]"
   url = "https://devops-daily.com/games"
-  weight = 51
+  weight = 41
 
 [[main]]
   name = " - - - - "
   parent = "[DevOps]"
   pageRef = "separator"
-  weight = 55
+  weight = 45
 
 [[main]]
   name = "Learn Linux"
   parent = "[DevOps]"
   url = "https://devops-daily.com/games/linux-terminal"
-  weight = 56
+  weight = 46
 
 [[main]]
   name = "Docker Terminal Simulator"
   parent = "[DevOps]"
   url = "https://devops-daily.com/games/docker-terminal-simulator"
-  weight = 57
+  weight = 47
 
 [[main]]
   name = "Kubernetes Terminal Simulator"
   parent = "[DevOps]"
   url = "https://devops-daily.com/games/kubernetes-terminal-simulator"
-  weight = 58
+  weight = 48
 
 [[main]]
   identifier = "github"
