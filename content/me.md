@@ -5,8 +5,8 @@ tags: [ ]
 categories: [ "Hobbies"  ]
 summary: "Mastering Thought: Once Learned, There's No Turning Back!"
 draft: false
-slug: /me
-url: /me/
+slug: /about/me
+url: /about/me/
 authors: 
   - xx
   - zd
