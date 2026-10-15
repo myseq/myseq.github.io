@@ -2,7 +2,7 @@
 Canonical: https://myseq.github.io/.well-known/security.txt
 
 #
-Contact: https://myseq.github.io/about/
+Contact: https://myseq.github.io/about/me/
 
 # SSH Public Keys
 Encryption: https://github.com/myseq.keys
