@@ -1,7 +1,7 @@
 ---
 title: "Well-known URI"
 date: 2026-06-09T22:22:30+08:00
-tags: [ "rfc8615", "uri", "wellknown" ]
+tags: [ "rfc", "uri", "wellknown" ]
 categories: [ "Posts"  ]
 summary: "A reserved path to find protocol-specific information."
 draft: false
