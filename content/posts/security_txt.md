@@ -30,6 +30,25 @@ HUGO_SITE/
 
 And, it can be accessed directly at: <https://myseq.github.io/.well-known/security.txt>
 
+<!--
+### GPG Verification
+
+```
+% wget https://myseq.github.io/.well-known/security.txt
+% wget https://myseq.github.io/.well-known/myseq_public_key.asc
+
+% gpg --import myseq_public_key.asc
+gpg: key 701453750096F56A: "MySeq (Myseq GPG) <zd2600@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+
+% gpg --verify security.txt
+gpg: Signature made Sun 18 Oct 2026 12:27:50 PM +08
+gpg:                using RSA key 3CA50A297FAFE1A3A1457042701453750096F56A
+gpg:                issuer "zd2600@gmail.com"
+gpg: Good signature from "MySeq (Myseq GPG) <zd2600@gmail.com>" [ultimate]
+```
+-->
 
 ## Links
 
