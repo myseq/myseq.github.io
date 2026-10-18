@@ -1,17 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 # 
 Canonical: https://myseq.github.io/.well-known/security.txt
 
 #
 Contact: https://myseq.github.io/about/me/
 
-# SSH Public Keys
-Encryption: https://github.com/myseq.keys
+# PGP PUBLIC KEY
+Encryption: https://myseq.github.io/.well-known/myseq_public_key.asc
 
 # 
 Preferred-Languages: en
 
 
 Expires: 2029-03-31T09:00:00.000Z
---
+- --
 # Last modified: Sep 17, 2026
 
+-----BEGIN PGP SIGNATURE-----
+
+iQJFBAEBCgAvFiEEPKUKKX+v4aOhRXBCcBRTdQCW9WoFAmrUSsYRHHpkMjYwMEBn
+bWFpbC5jb20ACgkQcBRTdQCW9WrQPhAAoMiucPKNenlXAjPNmithol4J+KA9008o
+mozeQSZxPF+AfdJdnavIuyS5WMKhxv3tFfI2ffMLnE30BBMpPU0V4XyGKGV38HCV
+qTP9hSZWR49InRwJbXWR/tkx5Llcb4y93/9pxNbduYtZukAiPYZiXDxaULEkoWFo
+Z8AM+Podu09PCVJyym91RvyFxLcacTV1/9CzyEcqViOBW5eqPrkH6IkT1z8EIXDA
+O+afQw41zYlhDCY12WsND8LFYfSjRsr9HNaXRPeWwlPEmzVSBKgt0ZnKqB2jf+rW
++sQQzfbIzYg2E/rLc+C4wMAoYEF7aXR5L/Ul8BpzJAxinbheA6YzlSUfCVhbt2sr
+BmOyA6UNtwzYGRBHBZhCuuFa3Er2RQcPCiuInvFONiRNoQcFsD9uPInJ055mgqaa
+Ezs8A/Ahwu80QNwyCme0M5MKWRtUgDlEavTsMh2pckXaiLS5K27h2+1Br5f70Ryx
+8Wov9W+v9doWR/ronDDlEYIz4o6BIVpMi+n7Ec1ITGK1HhwwQgB7Mp9EAwcSwqnB
+kJIHHC3i0G8QTh1kEcG/WaCyYA3VoVuGqJwC3502q43lOskPfClbyLFZonW7Zy/F
+VclQ7Ry8T5YvVU2VvxiF+W25Mq/PA86f1amol1/rbfJWVZq1mNgcIuuQWlLLJ3JZ
+IvwomVnhK3o=
+=tKZT
+-----END PGP SIGNATURE-----
