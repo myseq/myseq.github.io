@@ -1,7 +1,7 @@
 ---
 title: "Vulnerability Full Course Meal"
 date: 2026-10-25T13:55:39+08:00
-tags: [ "darkhumor", "linux", "vulnmgmt" ]
+tags: [ "cyber2026", "darkhumor", "linux", "vulnmgmt" ]
 categories: [ "Posts"  ]
 summary: "Today's Special: A Full-Course Vulnerability Feast."
 authors:
@@ -17,7 +17,7 @@ deploys through self-hosted GitLab,
 and relies on a questionable eMudhra HTTPS trust chain...*
 {{< /lead >}}
 
-***Congratulations!*** 🎉 You’ve unlocked the **Vulnerability Full Course Meal**. 💀
+***Congratulations!*** 🎉 You’ve unlocked the **Vulnerability Full Course Meal** for this month. 💀
 
 ## Today's Special
 
