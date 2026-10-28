@@ -4,6 +4,8 @@ date: 2026-10-28T18:44:10+08:00
 tags: [ "cli", "defender", "powershell", "win10", "win11" ]
 categories: [ "Posts"  ]
 summary: "Windows Defender != Microsoft Defender"
+authors:
+  - "xx"
 draft: false
 ---
 {{< lead >}}
