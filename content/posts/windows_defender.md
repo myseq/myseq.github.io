@@ -158,4 +158,6 @@ Property :
 ## Links 
 
  - [Windows Defender vs Microsoft Defender](https://www.gcstechnologies.com/windows-defender-vs-microsoft-defender-whats-the-difference/)
+ - Windows [PowerShell Defender Module](https://learn.microsoft.com/en-us/powershell/module/defender/?view=windowsserver2025-ps)
+
 
