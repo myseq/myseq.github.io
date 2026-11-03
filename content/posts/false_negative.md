@@ -1,7 +1,7 @@
 ---
 title: "Detects The Undetectable"
 date: 2025-04-24T18:26:40+08:00
-tags: [ "cybersecurity", "false_negative", "tools", "vulnmgmt" ]
+tags: [ "cybersecurity", "false_negative", "tools", "strategy", "vulnmgmt" ]
 categories: [ "Posts", "Essential", "Simplify"  ]
 summary: "Detects the undetectable: False Negative"
 authors:
