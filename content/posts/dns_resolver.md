@@ -27,6 +27,10 @@ This is the list of DNS providers that I use normally.
 | Google | `https://dns.google/dns-query` </br> `https://8.8.8.8/dns-query` </br> 8.8.8.8 |
 | Quad9 | `https://dns.quad9.net/dns-query` </br> 9.9.9.9 |
 
+> Recently, I've been using Quad9 service[^1] most often.
+
+[^1]: https://quad9.net/service/service-addresses-and-features/
+
 ## Public DoH
 
 Here are the popular public DoH Server URLs:
@@ -74,5 +78,6 @@ Instead of **confidentiality**, DNSSEC only ensure **integrity** to all our DNS 
 ## Links 
 
  - Public [DoH Servers](https://dns-over-https.org/en/servers/public-doh-servers/)
+ - [Quad9](https://quad9.net/)
 
 
