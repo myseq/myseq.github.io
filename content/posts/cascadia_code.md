@@ -76,7 +76,9 @@ We can configure these either through the graphical settings UI or directly in `
 }
 ```
 
-![](/images/terminal_cursive.png "Showing Cascadia's cursive in Terminal.")
+Below is the screenshot showing cursive within a Terminal login session.
+
+![](/images/terminal_cursive.png "Windows Terminal")
 
 ### Common OpenType Features Tags
 
@@ -100,7 +102,9 @@ Here's the steps to customize `vim` to display all comments in *italics*.
 highlight Comment cterm=italic gui=italic
 ```
 
-![](/images/vim_cursive.png "Showing Cascadia's cursive in Vim editor.")
+Below is the screenshot showing cursive within a `vim` editor.
+
+![](/images/vim_cursive.png "Vim editor")
 
 
 ## Links 
