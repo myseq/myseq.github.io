@@ -1,0 +1,317 @@
+theme = 'blowfish'
+baseURL = 'https://myseq.github.io/'
+title = 'MySeq'
+defaultContentLanguage = "en"
+locale = 'en-us'
+
+enableEmoji = true
+googleAnalytics = "G-CQL491X0G6"
+paginationpapgerSize = 5
+summaryLength = 0
+
+[params]
+  color = "neutral"                  # Theme color accent (neutral, slate, zinc, gray, orange, etc.)
+  defaultTheme = "system"            # dark, light, or system
+  autoSwitchTheme = true
+  description = "Simplicity is the Ultimate Sophistication"
+  copyright = " © Copyleft 🦎"
+  colorScheme = "avocado"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = true
+  enableSearch = true
+  #defaultBackgroundImage = "/images/penangnight.jpg"
+  #defaultFeaturedImage = "/images/sunflower.jpg"
+  highlightCurrentMenuArea = true
+  smartTOC = true
+  list.showSummary = true
+
+  defaultBackgroundImage = "/images/background.jpeg"
+  defaultFeaturedImage = "/images/featured.jpeg"
+  fingerprintAlgorithm = "sha512"
+
+
+# Author information (shows in footer and article headers)
+[params.author]
+  name = "MySeq"
+  image = "img/author.png"         # Place image in your assets/img/ directory
+  headline = "<mark>***Simplicity is the Ultimate Sophistication***</mark>"
+  bio = "myseq.github.io"
+  links = [
+    { link = "https://myseq.github.io/" },
+    { github = "https://github.com/myseq/" }
+  ]
+
+# Homepage settings
+[params.homepage]
+    #layout = "profile"               # Options: "profile", "hero", or "card"
+    layout = "background"               # Options: "profile", "hero", or "card"
+    #homepageImage = ""
+    showRecent = true                # Display recent articles on homepage
+    showMoreLink = true
+
+    showRecentItems = 3
+    #layoutSwitcher = false
+    showMoreLinkDest = "/posts/"
+    cardView = true        # false
+    cardViewScreenWidth = false
+    layoutBackgroundBlur = false # only used when layout equals background
+    disableHeroImageFilter = false # only used when layout equals hero
+
+    #homepageImage = "/images/pexels-neo-html.jpeg"
+    homepageImage = "/images/background.jpeg"
+
+
+# Header & Footer
+[params.header]
+    layout = "sticky"                # Fixed header on scroll
+    mobileMenuStyle = "fullscreen"   # valid options: fullscreen, dropdown
+
+[params.footer]
+    showMenu = true
+    showCopyright = true
+    showThemeAttribution = true
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+
+
+[params.article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = false
+  showAuthor = true
+  showAuthorBottom = true   # false
+  showHero = false
+  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background"
+  layout = "simple"
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = false    # true   # showPrevious, showNext
+  invertPagination = false
+  showReadingTime = true
+  showReadingProgress = false
+  showTableOfContents = true   # false
+  showRelatedContent = true    # false
+  relatedContentLimit = 3
+  showTaxonomies = true  # false # Enable the display of taxonomies for the related article.
+  showCategories = true # These will show if showTaxonomies is true.
+  showTags = true # These will show if showTaxonomies is true.
+  showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better disting uish between the two. Only if showTaxonomies is true.
+  showAuthorsBadges = true   # false
+  showWordCount = true
+  showSummary = true
+  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp ", "telegram", "line"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "facebook" ]
+  showZenMode = true    #false
+  externalLinkForceNewTab = true   # false # disable to allow external links in the same tab (defaults to true)
+
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[[menu.main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[menu.main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 20
+
+[[menu.main]]
+  name = "Content"
+  pageRef = "main"
+  weight = 30
+
+[[menu.main]]
+  name = "Cliff Notes"
+  parent = "Content"
+  pageRef = "notes"
+  weight = 32
+
+[[menu.main]]
+  name = "TEDTalks"
+  parent = "Content"
+  pageRef = "tedtalk"
+  weight = 33
+
+[[menu.main]]
+  name = "Wisdom Bread"
+  parent = "Content"
+  pageRef = "wisdom"
+  weight = 34
+
+[[menu.main]]
+  name = "Links"
+  parent = "Content"
+  pageRef = "links"
+  weight = 35
+
+[[menu.main]]
+  name = " - - - - "
+  parent = "Content"
+  pageRef = "separator"
+  weight = 36
+
+[[menu.main]]
+  name = "~/.plan"
+  parent = "Content"
+  pageRef = "plan"
+  weight = 37
+
+[[menu.main]]
+  name = "~/.projects"
+  parent = "Content"
+  pageRef = "projects"
+  weight = 38
+
+[[menu.main]]
+  name = "~/.voice"
+  parent = "Content"
+  pageRef = "voice"
+  weight = 39
+
+[[menu.main]]
+  name = "[Cloudflare]"
+  pageRef = "cloudflare"
+  weight = 50
+
+[[menu.main]]
+  name = "Flagships"
+  parent = "[Cloudflare]"
+  url = "https://flagships.pages.dev/"
+  weight = 51
+
+[[menu.main]]
+  name = "MakeShift"
+  parent = "[Cloudflare]"
+  url = "https://makeshift.pages.dev/"
+  weight = 52
+
+[[menu.main]]
+  name = "[DevOps]"
+  pageRef = "games"
+  weight = 40
+
+[[menu.main]]
+  name = "Games & Simulators"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games"
+  weight = 41
+
+[[menu.main]]
+  name = " - - - - "
+  parent = "[DevOps]"
+  pageRef = "separator"
+  weight = 45
+
+
+[[menu.main]]
+  name = "Learn Linux"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/linux-terminal"
+  weight = 46
+
+[[menu.main]]
+  name = "Docker Terminal Simulator"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/docker-terminal-simulator"
+  weight = 47
+
+[[menu.main]]
+  name = "Kubernetes Terminal Simulator"
+  parent = "[DevOps]"
+  url = "https://devops-daily.com/games/kubernetes-terminal-simulator"
+  weight = 48
+
+[[menu.main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/myseq/myseq.github.io"
+
+#[[menu.main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 50
+
+#[[menu.footer]]
+#  name = "Authors"
+#  pageRef = "authors"
+#  weight = 100
+
+[[menu.footer]]
+   name = "Categories"
+   pageRef = "categories"
+   weight = 20
+
+[[menu.footer]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 30
+
+[[menu.footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 40
+
+[[menu.footer]]
+   name = "Series"
+   pageRef = "series"
+   weight = 50
+
+[[menu.footer]]
+   name = "[ TagCloud ]"
+   pageRef = "tagcloud"
+   weight = 100
+
+[[menu.footer]]
+   name = "[ Archive ]"
+   pageRef = "blog_archive"
+   weight = 110
+
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 4
+
+[markup]
+
+  # Optional: Enable syntax highlighting for code blocks (great for tech/sec blogs)
+  [markup.highlight]
+    noClasses = false
+    #style = "github-dark"
+    style = "paraiso-dark"
+    guessSyntax = true
+
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.renderer]
+      unsafe = true
+
+

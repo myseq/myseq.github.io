@@ -1,10 +1,11 @@
 {
     "name": "zd",
-    "image" : "/img/rhino.png",
+    "image" : "img/rhino.png",
     "bio": "architect, strategist",
     "social": [
         { "link": "https://myseq.github.io" },
         { "github": "https://github.com/myseq" },
-        { "linkedin": "https://linkedin.com/in/zd" }
+        { "linkedin": "https://linkedin.com/in/zd" },
+        { "blogger": "https://myseq.blogspot.com/" }
     ]
 }

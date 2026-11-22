@@ -1,6 +1,6 @@
 {
     "name": "xx",
-    "image" : "/img/zd_xx.png",
+    "image" : "img/zd_xx.png",
     "bio": "cli-geek",
     "social": [
         { "link": "https://oolongyuan.github.io/" },
