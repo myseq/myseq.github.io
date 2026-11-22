@@ -25,6 +25,7 @@ summaryLength = 0
   smartTOC = true
   list.showSummary = true
 
+  logo = "/img/phoenix_512_1.png"
   defaultBackgroundImage = "/images/background.jpeg"
   defaultFeaturedImage = "/images/featured.jpeg"
   fingerprintAlgorithm = "sha512"
