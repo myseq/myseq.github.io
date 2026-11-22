@@ -843,5 +843,6 @@ CertUtil: -dump command completed successfully.
 ## Links 
 
  - Download [Google Pinyin](https://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe)
+ - Silent Installation of [Google Pinyin Chinese Input](https://argentolee.wordpress.com/2015/07/08/silent-installation-of-google-pinyin-chinese-input/)
 
 
