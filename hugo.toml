@@ -9,6 +9,9 @@ googleAnalytics = "G-CQL491X0G6"
 paginationpapgerSize = 5
 summaryLength = 0
 
+capitalizeListTitles = false    # Introducted in v0.123.3.
+titleCaseStyle = 'none'         # Keep tags as all lowercase
+
 [params]
   color = "neutral"                  # Theme color accent (neutral, slate, zinc, gray, orange, etc.)
   defaultTheme = "system"            # dark, light, or system
