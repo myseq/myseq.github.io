@@ -1,7 +1,7 @@
 ---
 title: "Pseudowork: 5min Teaser"
 date: 2026-11-26T14:42:19+08:00
-tags: [ "bureaucracy", "measuringmania", "pseudowork", "strategic", "teaser" ]
+tags: [ "bureaucracy", "measuringmania", "pseudowork", "strategy", "teaser" ]
 categories: [ "Notes", "YT"  ]
 summary: "Highlights: The Vinnie problem, Measuring Mania, and the Ghost Report."
 draft: false
