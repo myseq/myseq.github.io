@@ -59,9 +59,6 @@ Watch Dennis Nørmark explain what pseudowork is and how pointless tasks spread 
 
 {{< youtubeLite id="TCV-Im-6KbQ" label="Pseudo Work - a world of pointless tasks - Dennis Nørmark" >}}
 
-Watch Dennis on stage:
-
-{{< youtubeLite id="DYn8MMOxCjY" label="Pseudowork 5 min teaser " >}}
 
 ## Book Contents
 
